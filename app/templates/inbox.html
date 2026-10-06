@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Correspondence triage — Public contact unit</title>
+  <link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}?v=16">
+</head>
+<body>
+  <header class="mast">
+    <div class="brand">
+      <svg class="mark" viewBox="0 0 32 32" aria-hidden="true">
+        <rect width="32" height="32" fill="#9a1b1b"/>
+        <rect y="22" width="32" height="10" fill="#c4a574"/>
+        <rect y="14" width="32" height="8" fill="#e8d7b8"/>
+      </svg>
+      <div>
+        <p class="wordmark">Northern Territory Government</p>
+        <p class="unit">Public contact unit</p>
+      </div>
+    </div>
+    <div class="mast-mid">
+      <h1>Correspondence triage</h1>
+      <p class="tag">AI suggests, you decide</p>
+    </div>
+    <p class="counts">
+      <strong>{{ counts.human_now }}</strong> need a human now
+      <span aria-hidden="true">·</span>
+      <strong>{{ counts.rest }}</strong> still listed
+      <span aria-hidden="true">·</span>
+      <strong>{{ counts.escalated }}</strong> escalated, saved
+      <span aria-hidden="true">·</span>
+      desk = optimized DistilBERT @{{ cutoff }}
+      <span aria-hidden="true">·</span>
+      <a href="{{ url_for('how') }}">How this works</a>
+    </p>
+  </header>
+
+  <div class="submast">
+    <nav class="walk" aria-label="Walkthrough">
+      <span>Walkthrough</span>
+      <a href="{{ url_for('inbox', open=demo_sms) }}" class="{{ 'is-on' if item and item.case_id == demo_sms else '' }}">SMS — lock and twins</a>
+      <a href="{{ url_for('inbox', open=demo_trap) }}" class="{{ 'is-on' if item and item.case_id == demo_trap else '' }}">Email — says URGENT</a>
+      <a href="{{ url_for('inbox', open=demo_miss) }}" class="{{ 'is-on' if item and item.case_id == demo_miss else '' }}">See attached — DistilBERT flags it</a>
+    </nav>
+    <p class="rule">Sample desk across SMS, email, web, phone, and Facebook.</p>
+  </div>
+
+  <ul class="hard-rules" aria-label="Rules of this desk">
+    <li>The model suggests. You decide.</li>
+    <li>A missed urgent message costs more than an extra alarm.</li>
+    <li>One cutoff for everyone: 25%.</li>
+    <li>Never delete unflagged mail.</li>
+  </ul>
+
+  {% if notice %}
+  <div class="notice" role="status">{{ notice }}</div>
+  {% endif %}
+
+  <main class="desk">
+    <section class="rail" aria-label="Inbox">
+      <form class="find" method="get" action="{{ url_for('inbox') }}" role="search">
+        <label for="q">Find a message</label>
+        <input id="q" name="q" value="{{ query or '' }}" placeholder="MSG id or words from the letter" autocomplete="off">
+        <button type="submit" class="btn ghost">Find</button>
+        <ul id="suggest" class="suggest" hidden></ul>
+        <p class="hint">The lists below are a sample. Search looks through the whole inbox.</p>
+      </form>
+      {% if query %}
+      <div class="rail-block">
+        <h2>Matches <em>{{ hits|length }}</em></h2>
+        <ul class="list">
+          {% for it in hits %}
+          <li class="row {{ 'is-open' if item and item.case_id == it.case_id else '' }}">
+            <a href="{{ url_for('inbox', open=it.case_id, q=query) }}">
+              <div class="row-top">
+                <span class="ch">{{ it.channel }}</span>
+                <span class="sid">{{ it.case_id }}</span>
+              </div>
+              <p class="sub">{{ it.subject }}</p>
+              {% if it.preview %}<p class="why-line">{{ it.preview }}</p>{% endif %}
+            </a>
+          </li>
+          {% else %}
+          <li class="empty">No message matches. Nothing was deleted.</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      <div class="rail-block">
+        <h2>Needs a human now <em>{{ counts.human_now }}</em></h2>
+        <ul class="list">
+          {% for it in items if it.queue_band == 'human_now' %}
+          <li class="row hot {{ 'is-open' if item and item.case_id == it.case_id else '' }} {{ 'is-done' if it.decision == 'escalated' else '' }}">
+            <a href="{{ url_for('inbox', open=it.case_id) }}">
+              <div class="row-top">
+                <span class="ch">{{ it.channel }}</span>
+                <span class="pct">{{ (it.score * 100)|round(0)|int }}%</span>
+                <time>{{ it.when_short }}</time>
+              </div>
+              <p class="sub">{{ it.subject }}</p>
+              {% if it.card_quotes %}
+              <p class="why-line">“{{ it.card_quotes[0] }}”</p>
+              {% endif %}
+              <p class="q">{{ it.suggested_queue }}{% if it.decision == 'escalated' %} · Escalated · saved {{ it.saved_at }}{% endif %}</p>
+            </a>
+          </li>
+          {% else %}
+          <li class="empty">No flagged items on this desk. The rest of the inbox is still below.</li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="rail-block">
+        <h2>Rest of the inbox <em>{{ counts.rest }} · still visible</em></h2>
+        <ul class="list">
+          {% for it in items if it.queue_band != 'human_now' %}
+          <li class="row {{ 'is-open' if item and item.case_id == it.case_id else '' }} {{ 'trap' if it.keyword_urgent and not it.flagged else '' }}">
+            <a href="{{ url_for('inbox', open=it.case_id) }}">
+              <div class="row-top">
+                <span class="ch">{{ it.channel }}</span>
+                <span class="pct quiet">{{ (it.score * 100)|round(0)|int }}%</span>
+                <time>{{ it.when_short }}</time>
+              </div>
+              <p class="sub">{{ it.subject }}</p>
+              {% if it.decision == 'not_urgent' %}
+              <p class="note saved">You marked not urgent · saved in not_urgent.json · {{ it.saved_at }} · still listed</p>
+              {% elif it.keyword_urgent and not it.flagged %}
+              <p class="note trap">Says URGENT · not flagged</p>
+              {% elif it.is_known_miss %}
+              <p class="note miss">Not flagged · still listed</p>
+              {% endif %}
+              <p class="q">{{ it.suggested_queue }}</p>
+            </a>
+          </li>
+          {% else %}
+          <li class="empty">The rest of the inbox is empty on this sample desk.</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
+
+    <section class="read" aria-label="Open message">
+      {% if item %}
+      <header class="read-head">
+        <p class="kicker">
+          {{ item.channel }}
+          <span>{{ item.when }}</span>
+          <span>{{ item.case_id }}</span>
+          {% if item.queue_band == 'human_now' %}<span class="pill hot">Human now</span>{% endif %}
+          {% if item.decision == 'escalated' %}<span class="pill ok">Escalated · saved in escalated.json · {{ item.saved_at }}</span>{% endif %}
+          {% if item.decision == 'not_urgent' %}<span class="pill saved">Not urgent · saved in not_urgent.json · {{ item.saved_at }}</span>{% endif %}
+          {% if item.keyword_urgent and not item.flagged %}<span class="pill trap">URGENT trap</span>{% endif %}
+          {% if item.is_known_miss %}<span class="pill miss">Still listed</span>{% endif %}
+        </p>
+        <h2>{{ item.subject_html | safe }}</h2>
+      </header>
+      <article class="letter">
+        <p class="eyebrow">Their wording</p>
+        <div class="body">{{ item.message_html | safe }}</div>
+      </article>
+
+      <section class="why-graph" aria-label="Why the model says this">
+        <p class="eyebrow">Why urgent or not</p>
+        <ol class="path">
+          <li>
+            <span class="n">1</span>
+            <h3>Their words</h3>
+            <p>“{{ item.path.quote }}”</p>
+          </li>
+          <li class="{{ 'hot' if item.flagged else '' }}">
+            <span class="n">2</span>
+            <h3>Optimized DistilBERT</h3>
+            <p class="guess">{{ item.path.guess }} <span>{{ item.path.compare }}</span></p>
+            <p>{{ item.path.flag_word }}</p>
+            <p class="file">distilbert_optimized.joblib</p>
+          </li>
+          <li class="{{ 'hot' if item.flagged else '' }}">
+            <span class="n">3</span>
+            <h3>{{ item.path.band }}</h3>
+            <p>{{ item.suggested_queue }}</p>
+          </li>
+          <li class="{{ 'hot' if item.flagged else '' }}">
+            <span class="n">4</span>
+            <h3>{{ item.path.action }}</h3>
+            <p>{{ item.path.action_note }}</p>
+          </li>
+        </ol>
+        {% set pct = (item.score * 100) if item.score is not none else 0 %}
+        <div class="sure" aria-label="How sure the model is">
+          <div class="sure-top">
+            <p class="sure-num">{{ '%.1f'|format(pct) }}% sure</p>
+            <p class="sure-tag">{% if item.flagged %}Urgent (P1). Escalate.{% else %}Not urgent. Do not escalate.{% endif %}</p>
+          </div>
+          <div class="meter">
+            <i class="fill {{ 'hot' if item.flagged else '' }}" style="width: {{ '%.1f'|format(pct) }}%"></i>
+            <span class="cut" title="Escalate from 25%"></span>
+          </div>
+          <div class="scale">
+            <span>0%</span>
+            <span class="mid">25% — escalate from here</span>
+            <span>100%</span>
+          </div>
+          <p class="hint">This is how sure the optimized DistilBERT is that the message is urgent (P1). At 25% or more, the desk says escalate. You still decide. Do not send a reply.</p>
+        </div>
+        <p class="error-line">{{ item.path.error }}</p>
+      </section>
+      {% elif not_found %}
+      <div class="blank">
+        <h2>Message not on this desk</h2>
+        <p>Nothing was deleted. Open an item from the list. Unflagged mail stays visible.</p>
+      </div>
+      {% else %}
+      <div class="blank">
+        <h2>Select a message</h2>
+        <p>Start with the SMS. Then open the email that says URGENT. It must not sit at the top.</p>
+      </div>
+      {% endif %}
+    </section>
+
+    <aside class="decide" aria-label="Decision">
+      {% if item %}
+      <section class="panel act {{ 'is-hot' if item.queue_band == 'human_now' else '' }} {{ 'is-done' if item.decision == 'escalated' else '' }}">
+        <p class="eyebrow">You decide</p>
+        <p class="queue">Suggested queue <strong>{{ item.suggested_queue }}</strong></p>
+        <form method="post" action="{{ url_for('decide', case_id=item.case_id) }}">
+          {% if item.decision == 'escalated' %}
+          <button type="submit" name="action" value="escalate" class="btn danger" disabled>Escalated</button>
+          {% else %}
+          <button type="submit" name="action" value="escalate" class="btn danger">Escalate</button>
+          {% endif %}
+          <button type="submit" name="action" value="not_urgent" class="btn ghost">Not urgent</button>
+        </form>
+        <p class="choice"><strong>Escalate</strong> asks a person from the unit to contact them. Saved in <code>outputs/desk/escalated.json</code>. Do not send a reply.</p>
+        <p class="choice"><strong>Not urgent</strong> means you say this message is not urgent. It moves down to the rest of the inbox. You can still open it. Nothing is deleted. Saved in <code>outputs/desk/not_urgent.json</code>.</p>
+        {% if item.saved_at %}
+        <p class="hint">Last saved {{ item.saved_at }}.</p>
+        {% endif %}
+        <form class="send-form" method="post" action="{{ url_for('decide', case_id=item.case_id) }}">
+          {% if item.send_allowed and item.decision != 'escalated' %}
+          <button type="submit" name="action" value="send" class="btn ghost">Mark draft ready</button>
+          <p class="hint">A person still has to send this. The model will not send it.</p>
+          {% else %}
+          <button type="submit" name="action" value="send" class="btn locked" disabled>Do not send</button>
+          <p class="lock">{{ item.send_lock_reason or "Do not send a reply. A person must contact them." }}</p>
+          {% endif %}
+        </form>
+      </section>
+
+      <section class="panel why">
+        <p class="eyebrow">Why this is here</p>
+        <p class="hint">Quotes from the writer. We do not polish their English.</p>
+        {% if item.spans %}
+        <ul class="spans">
+          {% for s in item.spans %}
+          <li>“{{ s }}”</li>
+          {% endfor %}
+        </ul>
+        {% else %}
+        <p class="hint">No quote spans on this item.</p>
+        {% endif %}
+        <table class="models">
+          <tr class="is-desk">
+            <th>Optimized DistilBERT @{{ cutoff }}</th>
+            <td>{{ item.score_label }}</td>
+            <td>{% if item.flagged %}flagged — runs the desk{% else %}not flagged — runs the desk{% endif %}</td>
+          </tr>
+        </table>
+        <p class="hint">The number is not the reason. Community is not a score. URGENT is not a reason.</p>
+      </section>
+
+      <section class="panel log">
+        <p class="eyebrow">Saved on this desk</p>
+        <p class="hint">Escalate is saved in <code>escalated.json</code>. Not urgent is saved in <code>not_urgent.json</code>. Refresh the page and they stay.</p>
+        {% if saved %}
+        <ul class="log-list">
+          {% for row in saved %}
+          <li>
+            <a href="{{ url_for('inbox', open=row.case_id) }}">{{ row.channel }} · {{ row.subject }}</a>
+            <span>{{ row.file }}</span>
+            <time>{{ row.at }}</time>
+          </li>
+          {% endfor %}
+        </ul>
+        {% else %}
+        <p class="hint">Nothing saved yet. Open a message and click Escalate or Not urgent.</p>
+        {% endif %}
+      </section>
+
+      <section class="panel ack-panel">
+        <p class="eyebrow">Draft for a person to send</p>
+        <p class="hint">Opens with their words. On a serious one, a person makes contact. The desk does not send the reply, and the message is not closed.</p>
+        <article class="letter-draft">
+          <p class="draft-kicker">Public contact unit <span>Not sent</span></p>
+          <pre class="ack">{{ item.ack_text }}</pre>
+        </article>
+      </section>
+      {% else %}
+      <section class="panel">
+        <p class="eyebrow">You decide</p>
+        <p class="hint">Open a message. On a serious one, click Escalate. Do not send a reply.</p>
+      </section>
+      {% endif %}
+
+      <section class="panel pack">
+        <p class="eyebrow">Offline pack</p>
+        <p class="hint">Holds {{ pack.n }} of {{ pack.cap }}. Five show on the page. See more opens the rest. Download the zip and open it with no internet. Put in a new ten and download again. The full model is not in the zip.</p>
+        {% if item %}
+          {% if item.case_id in pack_ids %}
+          <p class="choice">This message is already in the pack.</p>
+          {% elif pack.full %}
+          <button type="button" class="btn locked" disabled>Pack is full</button>
+          <p class="hint">It holds 10. Remove one, or clear it, then add this message.</p>
+          {% else %}
+          <form method="post" action="{{ url_for('offline_add', case_id=item.case_id) }}">
+            <input type="hidden" name="open" value="{{ item.case_id }}">
+            <button type="submit" class="btn ghost">Add to offline pack</button>
+          </form>
+          {% endif %}
+        {% endif %}
+        {% if pack["items"] %}
+        <ol class="pack-list">
+          {% for row in pack["items"] %}
+          <li class="{{ 'is-open' if item and item.case_id == row.case_id else '' }}">
+            <a href="{{ url_for('inbox', open=row.case_id) }}">{{ loop.index }}. {{ row.channel }} · {{ row.case_id }}</a>
+            <p>{{ row.subject }} <span>{{ '%.1f'|format(row.pct_sure) }}%</span></p>
+            <p class="hint">{% if loop.index <= 5 %}On the offline page.{% else %}Under See more.{% endif %}</p>
+            <div class="pack-actions">
+              {% if loop.index > 5 %}
+              <form method="post" action="{{ url_for('offline_feature', case_id=row.case_id) }}">
+                <input type="hidden" name="open" value="{{ item.case_id if item else row.case_id }}">
+                <button type="submit" class="btn tiny">Show on the page</button>
+              </form>
+              {% endif %}
+              <form method="post" action="{{ url_for('offline_remove', case_id=row.case_id) }}">
+                <input type="hidden" name="open" value="{{ item.case_id if item else '' }}">
+                <button type="submit" class="btn tiny">Remove</button>
+              </form>
+            </div>
+          </li>
+          {% endfor %}
+        </ol>
+        <a class="btn ghost pack-download" href="{{ url_for('offline_download') }}">Download offline pack</a>
+        {% if pack.built_at %}<p class="hint">Last built {{ pack.built_at }}. The download replaces the previous zip.</p>{% endif %}
+        <form method="post" action="{{ url_for('offline_clear') }}">
+          <input type="hidden" name="open" value="{{ item.case_id if item else '' }}">
+          <button type="submit" class="btn tiny">Clear pack</button>
+        </form>
+        {% else %}
+        <p class="hint">Add a message. The first five you add are the ones on the page. See more holds the rest.</p>
+        {% endif %}
+      </section>
+    </aside>
+  </main>
+
+  <footer class="foot">
+    <p>Do not send a reply on a serious item. The model does not close a message.</p>
+  </footer>
+  <script>
+    const openRow = document.querySelector(".row.is-open");
+    if (openRow) openRow.scrollIntoView({ block: "nearest" });
+
+    const box = document.querySelector("#q");
+    const list = document.querySelector("#suggest");
+    let wait;
+    function hideSuggest() { list.hidden = true; list.innerHTML = ""; }
+    box.addEventListener("input", () => {
+      clearTimeout(wait);
+      const q = box.value.trim();
+      if (q.length < 2) { hideSuggest(); return; }
+      wait = setTimeout(async () => {
+        const res = await fetch("/suggest?q=" + encodeURIComponent(q));
+        const rows = await res.json();
+        list.innerHTML = "";
+        if (!rows.length) { hideSuggest(); return; }
+        for (const row of rows) {
+          const li = document.createElement("li");
+          const a = document.createElement("a");
+          a.href = "/?open=" + encodeURIComponent(row.case_id) + "&q=" + encodeURIComponent(q);
+          const meta = document.createElement("span");
+          meta.className = "sid";
+          meta.textContent = row.channel + " · " + row.case_id;
+          a.appendChild(meta);
+          a.appendChild(document.createElement("br"));
+          a.appendChild(document.createTextNode(row.subject));
+          li.appendChild(a);
+          list.appendChild(li);
+        }
+        list.hidden = false;
+      }, 180);
+    });
+    document.addEventListener("click", (event) => {
+      if (!event.target.closest(".find")) hideSuggest();
+    });
+  </script>
+</body>
+</html>

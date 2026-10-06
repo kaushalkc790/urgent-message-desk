@@ -1,0 +1,2667 @@
+case_id,split,channel,community,is_p1,model_score,flagged,lexicon_hit,flagged_overlay,style_proxy
+MSG-000001,redteam,Web form,Gunbalanya,1,0.999525,1,1,1,formal_residual
+MSG-000026,redteam,Email,Ali Curung,0,0.000354,0,0,0,sms_short
+MSG-000037,redteam,SMS,Ntaria,0,0.03175,0,0,0,sms_short
+MSG-000043,redteam,Phone,,0,0.001069,0,0,0,formal_residual
+MSG-000053,redteam,Web form,Nhulunbuy,0,0.000348,0,0,0,formal_residual
+MSG-000065,redteam,Email,Nauiyu,0,0.000524,0,0,0,sms_short
+MSG-000101,redteam,Email,Tennant Creek,0,0.001163,0,0,0,sms_short
+MSG-000121,redteam,Web form,Pine Creek,0,0.00082,0,0,0,formal_residual
+MSG-000139,redteam,Facebook,Humpty Doo,0,0.002058,0,0,0,sms_short
+MSG-000168,redteam,SMS,Katherine,0,0.007755,0,0,0,sms_short
+MSG-000187,redteam,Email,Tennant Creek,0,0.000733,0,0,0,formal_residual
+MSG-000198,redteam,Email,Yuendumu,0,2.5e-05,0,0,0,sms_short
+MSG-000243,redteam,Email,Nhulunbuy,0,0.000448,0,0,0,sms_short
+MSG-000271,redteam,Email,Nhulunbuy,0,0.000509,0,0,0,sms_short
+MSG-000325,redteam,Email,Ali Curung,0,0.00058,0,0,0,sms_short
+MSG-000377,redteam,SMS,Palmerston,0,0.00038,0,0,0,sms_short
+MSG-000380,redteam,Email,,0,0.000464,0,0,0,formal_residual
+MSG-001134,redteam,Web form,Adelaide River,1,0.999924,1,0,1,formal_residual
+MSG-000384,redteam,Email,Wadeye,0,0.000417,0,0,0,formal_residual
+MSG-000403,redteam,Email,Katherine,0,7.5e-05,0,0,0,sms_short
+MSG-000422,redteam,Email,Maningrida,0,0.000494,0,0,0,sms_short
+MSG-000425,redteam,Phone,Nauiyu,0,0.001176,0,0,0,formal_residual
+MSG-000427,redteam,SMS,Adelaide River,0,0.017549,0,0,0,sms_short
+MSG-000949,redteam,Web form,Lajamanu,0,0.009785,0,0,0,formal_residual
+MSG-000440,redteam,Phone,Yirrkala,0,0.005121,0,0,0,formal_residual
+MSG-000461,redteam,Email,Batchelor,0,0.000968,0,0,0,formal_residual
+MSG-000491,redteam,Email,Papunya,0,0.000132,0,0,0,sms_short
+MSG-000525,redteam,Email,Nauiyu,0,5.5e-05,0,0,0,sms_short
+MSG-000535,redteam,SMS,Ramingining,0,0.006811,0,0,0,sms_short
+MSG-000541,redteam,SMS,Yirrkala,0,0.019809,0,0,0,sms_short
+MSG-000554,redteam,Web form,Nauiyu,0,0.000632,0,0,0,sms_short
+MSG-000578,redteam,Email,Tennant Creek,0,0.000247,0,0,0,formal_residual
+MSG-000636,redteam,Email,Alice Springs,0,0.000346,0,0,0,sms_short
+MSG-000642,redteam,Phone,Yuendumu,0,0.004685,0,0,0,formal_residual
+MSG-001647,redteam,Phone,Nauiyu,0,0.001627,0,0,0,formal_residual
+MSG-000648,redteam,Email,,0,0.000477,0,0,0,sms_short
+MSG-000670,redteam,Email,Gunbalanya,0,0.000119,0,0,0,sms_short
+MSG-000681,redteam,Email,Alice Springs,0,0.001096,0,0,0,formal_residual
+MSG-000966,redteam,SMS,Nauiyu,1,0.989693,1,0,1,sms_short
+MSG-000687,redteam,Email,Yirrkala,0,0.001977,0,0,0,sms_short
+MSG-000706,redteam,Email,Ntaria,1,0.998839,1,0,1,distressed_caps
+MSG-000756,redteam,SMS,,0,0.007614,0,0,0,sms_short
+MSG-000759,redteam,Web form,Darwin,0,0.00243,0,0,0,formal_residual
+MSG-000768,redteam,SMS,Nauiyu,0,0.007845,0,0,0,sms_short
+MSG-000769,redteam,Email,Katherine,0,0.000451,0,0,0,sms_short
+MSG-000800,redteam,SMS,Adelaide River,0,0.008007,0,0,0,sms_short
+MSG-000810,redteam,Email,Ramingining,0,5.4e-05,0,0,0,sms_short
+MSG-000824,redteam,SMS,Darwin,0,0.007218,0,0,0,sms_short
+MSG-001689,redteam,Phone,Palmerston,0,0.002811,0,0,0,formal_residual
+MSG-000835,redteam,Phone,Elliott,0,0.001052,0,0,0,formal_residual
+MSG-001241,redteam,Email,Yuendumu,0,0.020701,0,0,0,formal_residual
+MSG-001935,redteam,Phone,Wadeye,0,0.001483,0,0,0,formal_residual
+MSG-000839,redteam,SMS,Ali Curung,0,0.000407,0,0,0,sms_short
+MSG-000862,redteam,Email,Gunbalanya,0,0.0003,0,0,0,sms_short
+MSG-000942,redteam,Email,Ramingining,0,0.000456,0,0,0,sms_short
+MSG-000950,redteam,SMS,,0,0.00706,0,0,0,sms_short
+MSG-000976,redteam,SMS,Wadeye,0,0.001905,0,0,0,sms_short
+MSG-000984,redteam,Web form,Papunya,0,0.002179,0,0,0,sms_short
+MSG-000998,redteam,Email,Numbulwar,0,0.001288,0,0,0,sms_short
+MSG-001009,redteam,Email,Pine Creek,0,2.2e-05,0,0,0,sms_short
+MSG-001013,redteam,Email,Santa Teresa,0,0.002245,0,0,0,sms_short
+MSG-001015,redteam,Phone,Lajamanu,0,0.00078,0,0,0,formal_residual
+MSG-001020,redteam,SMS,Papunya,0,0.034081,0,0,0,sms_short
+MSG-001088,redteam,Email,Numbulwar,0,0.000133,0,0,0,sms_short
+MSG-001093,redteam,Web form,Numbulwar,0,0.001245,0,0,0,formal_residual
+MSG-001095,redteam,SMS,,0,0.006208,0,0,0,sms_short
+MSG-001109,redteam,Email,Yirrkala,0,0.001248,0,0,0,sms_short
+MSG-001139,redteam,Web form,Numbulwar,0,0.000715,0,0,0,formal_residual
+MSG-001562,redteam,SMS,Yirrkala,0,0.031241,0,0,0,sms_short
+MSG-001148,redteam,Email,Pine Creek,0,0.00043,0,0,0,sms_short
+MSG-001158,redteam,Email,Ali Curung,0,0.002544,0,0,0,sms_short
+MSG-001184,redteam,Facebook,Gunbalanya,0,0.000501,0,0,0,sms_short
+MSG-001187,redteam,Email,Elliott,0,2.4e-05,0,0,0,sms_short
+MSG-001190,redteam,Phone,Ramingining,0,0.000753,0,0,0,formal_residual
+MSG-001639,redteam,SMS,,0,0.011436,0,0,0,sms_short
+MSG-001275,redteam,Web form,Borroloola,0,0.000351,0,0,0,formal_residual
+MSG-001208,redteam,Email,Numbulwar,0,0.000308,0,0,0,sms_short
+MSG-001212,redteam,SMS,Adelaide River,0,0.019863,0,0,0,sms_short
+MSG-001222,redteam,Email,Wadeye,0,0.000609,0,0,0,formal_residual
+MSG-001230,redteam,Email,Alice Springs,0,8e-05,0,0,0,sms_short
+MSG-001243,redteam,Email,Papunya,0,0.000946,0,0,0,sms_short
+MSG-001251,redteam,SMS,,0,0.014939,0,0,0,sms_short
+MSG-001277,redteam,Email,Nauiyu,0,5.7e-05,0,0,0,sms_short
+MSG-001289,redteam,Email,Santa Teresa,0,0.001485,0,0,0,sms_short
+MSG-001304,redteam,Facebook,Katherine,0,0.001711,0,0,0,sms_short
+MSG-001315,redteam,SMS,Santa Teresa,0,0.022999,0,0,0,sms_short
+MSG-002424,redteam,Email,Palmerston,0,0.00983,0,0,0,formal_residual
+MSG-001924,redteam,SMS,Howard Springs,1,0.975416,1,0,1,sms_short
+MSG-001319,redteam,Web form,,0,0.000859,0,0,0,sms_short
+MSG-001335,redteam,SMS,Numbulwar,0,0.003033,0,0,0,sms_short
+MSG-001351,redteam,Email,Ali Curung,0,5.8e-05,0,0,0,sms_short
+MSG-001365,redteam,Email,Pine Creek,1,0.9999,1,0,1,formal_residual
+MSG-001368,redteam,Phone,Palmerston,0,0.000793,0,0,0,formal_residual
+MSG-001386,redteam,Email,Lajamanu,0,0.00032,0,0,0,sms_short
+MSG-001403,redteam,Facebook,Palmerston,0,0.000656,0,0,0,sms_short
+MSG-001432,redteam,SMS,Yuendumu,0,0.022733,0,0,0,sms_short
+MSG-001453,redteam,Email,Lajamanu,0,0.003722,0,0,0,sms_short
+MSG-001468,redteam,Email,Galiwin'ku,0,0.000379,0,0,0,sms_short
+MSG-001470,redteam,Email,Humpty Doo,0,0.00042,0,0,0,sms_short
+MSG-001473,redteam,SMS,Papunya,0,0.00709,0,0,0,sms_short
+MSG-001491,redteam,Email,Tennant Creek,0,0.000545,0,0,0,sms_short
+MSG-001492,redteam,Email,Papunya,0,0.000568,0,0,0,formal_residual
+MSG-001534,redteam,Email,,0,0.002982,0,0,0,formal_residual
+MSG-001559,redteam,SMS,Ngukurr,0,0.001081,0,0,0,sms_short
+MSG-001566,redteam,Web form,Yirrkala,0,0.003128,0,0,0,sms_short
+MSG-001587,redteam,SMS,Santa Teresa,0,0.079693,0,0,0,sms_short
+MSG-001876,redteam,Email,Batchelor,0,0.000995,0,0,0,formal_residual
+MSG-001611,redteam,Facebook,Ngukurr,0,0.000109,0,0,0,sms_short
+MSG-001626,redteam,SMS,Yirrkala,0,0.00116,0,0,0,sms_short
+MSG-001666,redteam,Email,Katherine,0,2.2e-05,0,0,0,sms_short
+MSG-001677,redteam,SMS,Lajamanu,0,0.010658,0,0,0,sms_short
+MSG-002658,redteam,Email,Borroloola,0,0.000215,0,0,0,formal_residual
+MSG-001686,redteam,Phone,Nhulunbuy,0,0.001121,0,0,0,formal_residual
+MSG-001985,redteam,Phone,Santa Teresa,0,0.001914,0,0,0,formal_residual
+MSG-001695,redteam,SMS,Howard Springs,0,0.005442,0,0,0,sms_short
+MSG-001750,redteam,SMS,Nhulunbuy,0,0.001067,0,0,0,sms_short
+MSG-001768,redteam,SMS,Papunya,0,0.018443,0,0,0,sms_short
+MSG-001809,redteam,SMS,Santa Teresa,0,0.007033,0,0,0,sms_short
+MSG-001815,redteam,SMS,Darwin,0,0.007689,0,0,0,sms_short
+MSG-001845,redteam,SMS,Elliott,0,0.023788,0,0,0,sms_short
+MSG-001846,redteam,Phone,Nhulunbuy,0,0.002212,0,0,0,formal_residual
+MSG-001926,redteam,Email,Gunbalanya,0,2.1e-05,0,0,0,sms_short
+MSG-002036,redteam,Email,Tennant Creek,0,0.000407,0,0,0,sms_short
+MSG-002037,redteam,SMS,Numbulwar,0,0.001648,0,0,0,sms_short
+MSG-002044,redteam,Facebook,Borroloola,0,0.001162,0,0,0,formal_residual
+MSG-002067,redteam,Email,Elliott,0,0.000334,0,0,0,sms_short
+MSG-002092,redteam,Email,Ali Curung,0,0.00031,0,0,0,sms_short
+MSG-002124,redteam,Email,Nauiyu,0,0.00071,0,0,0,formal_residual
+MSG-002143,redteam,SMS,Numbulwar,0,0.021338,0,0,0,sms_short
+MSG-002155,redteam,Web form,Palmerston,0,0.000653,0,0,0,sms_short
+MSG-002168,redteam,SMS,Nauiyu,0,0.011204,0,0,0,sms_short
+MSG-002180,redteam,Email,Humpty Doo,0,0.001532,0,0,0,sms_short
+MSG-002181,redteam,SMS,Palmerston,0,0.007939,0,0,0,sms_short
+MSG-002185,redteam,Web form,Katherine,0,8.8e-05,0,0,0,sms_short
+MSG-002194,redteam,Email,Elliott,0,0.000414,0,0,0,sms_short
+MSG-002200,redteam,Web form,Adelaide River,0,0.000542,0,0,0,sms_short
+MSG-002201,redteam,Email,Palmerston,0,0.000477,0,0,0,formal_residual
+MSG-002203,redteam,SMS,Papunya,0,0.000873,0,0,0,sms_short
+MSG-002206,redteam,Email,,0,0.000352,0,0,0,sms_short
+MSG-002223,redteam,Email,,0,0.001014,0,0,0,sms_short
+MSG-002237,redteam,Email,Ntaria,0,0.003951,0,0,0,sms_short
+MSG-002243,redteam,Web form,,0,0.000456,0,0,0,sms_short
+MSG-002256,redteam,Email,Numbulwar,0,0.000123,0,0,0,sms_short
+MSG-002291,redteam,Email,Howard Springs,0,2e-05,0,0,0,sms_short
+MSG-002314,redteam,SMS,Elliott,0,0.007455,0,0,0,sms_short
+MSG-002324,redteam,Web form,Borroloola,0,0.000582,0,0,0,formal_residual
+MSG-002325,redteam,SMS,Galiwin'ku,0,0.020045,0,0,0,sms_short
+MSG-002575,redteam,Email,Ramingining,0,0.001878,0,0,0,formal_residual
+MSG-002329,redteam,Web form,Palmerston,0,0.000118,0,0,0,sms_short
+MSG-002335,redteam,Web form,Borroloola,0,0.000783,0,0,0,formal_residual
+MSG-002358,redteam,Email,Ngukurr,0,0.0003,0,0,0,sms_short
+MSG-002373,redteam,Email,Palmerston,0,0.000359,0,0,0,sms_short
+MSG-002413,redteam,SMS,Elliott,0,0.000321,0,0,0,sms_short
+MSG-002419,redteam,Web form,Papunya,0,0.001597,0,0,0,formal_residual
+MSG-003392,redteam,Email,Palmerston,0,0.000646,0,0,0,formal_residual
+MSG-002441,redteam,Email,Maningrida,0,0.000402,0,0,0,sms_short
+MSG-002447,redteam,Email,Santa Teresa,0,0.000542,0,0,0,sms_short
+MSG-002488,redteam,Email,Pine Creek,0,0.001278,0,0,0,sms_short
+MSG-002495,redteam,Email,Batchelor,0,0.000398,0,0,0,sms_short
+MSG-002502,redteam,Email,Wadeye,0,6.4e-05,0,0,0,sms_short
+MSG-002516,redteam,Email,Tennant Creek,0,0.000318,0,0,0,sms_short
+MSG-002527,redteam,Email,Darwin,0,0.002016,0,0,0,sms_short
+MSG-002547,redteam,Phone,Darwin,0,0.001126,0,0,0,formal_residual
+MSG-002554,redteam,Email,Tennant Creek,0,0.000943,0,0,0,sms_short
+MSG-002571,redteam,Email,Howard Springs,0,0.000302,0,0,0,sms_short
+MSG-002643,redteam,Email,Alice Springs,0,0.001421,0,0,0,sms_short
+MSG-002644,redteam,SMS,Numbulwar,0,0.023397,0,0,0,sms_short
+MSG-003544,redteam,Email,Lajamanu,0,0.001108,0,0,0,formal_residual
+MSG-002645,redteam,Email,Pine Creek,0,0.000474,0,0,0,sms_short
+MSG-002647,redteam,Phone,Ramingining,0,0.000258,0,0,0,formal_residual
+MSG-003042,redteam,Facebook,Yuendumu,0,0.00116,0,0,0,formal_residual
+MSG-002648,redteam,SMS,Adelaide River,0,0.056659,0,0,0,sms_short
+MSG-002649,redteam,SMS,Borroloola,0,0.010429,0,0,0,sms_short
+MSG-003338,redteam,Email,Ngukurr,0,0.000145,0,0,0,formal_residual
+MSG-002698,redteam,Email,Galiwin'ku,1,0.998878,1,1,1,formal_residual
+MSG-002699,redteam,SMS,Nauiyu,0,0.030629,0,0,0,sms_short
+MSG-002741,redteam,SMS,Ngukurr,0,0.102573,0,0,0,sms_short
+MSG-002756,redteam,Email,Ngukurr,0,0.000301,0,0,0,sms_short
+MSG-002759,redteam,Web form,Gunbalanya,0,0.001438,0,0,0,formal_residual
+MSG-003302,redteam,Web form,Ramingining,0,0.00158,0,0,0,formal_residual
+MSG-002762,redteam,SMS,Humpty Doo,0,0.001051,0,0,0,sms_short
+MSG-002770,redteam,Email,Yirrkala,0,2.1e-05,0,0,0,sms_short
+MSG-002774,redteam,SMS,Howard Springs,0,0.007612,0,0,0,sms_short
+MSG-002789,redteam,Web form,Yuendumu,0,0.001746,0,0,0,sms_short
+MSG-002812,redteam,Web form,Borroloola,0,0.000753,0,0,0,formal_residual
+MSG-003214,redteam,Email,Ramingining,0,0.00073,0,0,0,formal_residual
+MSG-002827,redteam,Facebook,Numbulwar,0,0.002128,0,0,0,sms_short
+MSG-002835,redteam,Email,Katherine,0,0.000378,0,0,0,sms_short
+MSG-002839,redteam,SMS,Ngukurr,0,0.030439,0,0,0,sms_short
+MSG-002898,redteam,Web form,Ramingining,0,0.000562,0,0,0,formal_residual
+MSG-002891,redteam,Email,Alice Springs,0,0.000875,0,0,0,formal_residual
+MSG-003131,redteam,Web form,Lajamanu,0,0.001895,0,0,0,formal_residual
+MSG-003638,redteam,SMS,Elliott,0,0.025459,0,0,0,sms_short
+MSG-002895,redteam,SMS,Tennant Creek,1,0.929423,1,0,1,sms_short
+MSG-002946,redteam,Email,Palmerston,0,0.000515,0,0,0,formal_residual
+MSG-002948,redteam,Email,Wadeye,0,0.000487,0,0,0,sms_short
+MSG-002955,redteam,SMS,Darwin,0,0.000357,0,0,0,sms_short
+MSG-002960,redteam,Phone,Ntaria,0,0.000728,0,0,0,formal_residual
+MSG-002999,redteam,SMS,,0,0.007394,0,0,0,sms_short
+MSG-003028,redteam,SMS,Yirrkala,0,0.005275,0,0,0,sms_short
+MSG-003036,redteam,Facebook,Batchelor,0,0.000203,0,0,0,formal_residual
+MSG-003052,redteam,Email,Gunbalanya,0,7e-05,0,0,0,sms_short
+MSG-003062,redteam,Email,Ramingining,0,0.000337,0,0,0,sms_short
+MSG-003081,redteam,Email,Numbulwar,0,0.000913,0,0,0,formal_residual
+MSG-003102,redteam,SMS,Ali Curung,0,0.000345,0,0,0,sms_short
+MSG-003107,redteam,Email,Ntaria,0,0.000104,0,0,0,sms_short
+MSG-003129,redteam,SMS,Batchelor,0,0.004548,0,0,0,sms_short
+MSG-003134,redteam,SMS,Galiwin'ku,0,0.002957,0,0,0,sms_short
+MSG-003149,redteam,Email,Katherine,1,0.993288,1,0,1,distressed_caps
+MSG-003853,redteam,SMS,Papunya,0,0.033638,0,0,0,sms_short
+MSG-003168,redteam,Email,Humpty Doo,0,0.000415,0,0,0,formal_residual
+MSG-003194,redteam,Email,Yirrkala,0,0.000316,0,0,0,sms_short
+MSG-003203,redteam,Email,Tennant Creek,0,0.00056,0,0,0,formal_residual
+MSG-003206,redteam,SMS,Gunbalanya,0,0.00056,0,0,0,sms_short
+MSG-003248,redteam,Facebook,Nauiyu,0,0.00137,0,0,0,formal_residual
+MSG-003253,redteam,Facebook,Nhulunbuy,0,0.000993,0,0,0,formal_residual
+MSG-003290,redteam,Email,Batchelor,0,0.00098,0,0,0,sms_short
+MSG-003295,redteam,Email,Nauiyu,0,0.00454,0,0,0,formal_residual
+MSG-003301,redteam,Web form,Darwin,0,0.000518,0,0,0,sms_short
+MSG-003341,redteam,Web form,Yirrkala,0,0.000577,0,0,0,sms_short
+MSG-003366,redteam,Email,Yuendumu,0,9.4e-05,0,0,0,sms_short
+MSG-003397,redteam,Email,Papunya,0,0.000421,0,0,0,sms_short
+MSG-003407,redteam,Email,Lajamanu,0,0.000116,0,0,0,sms_short
+MSG-003427,redteam,SMS,Borroloola,0,0.006086,0,0,0,sms_short
+MSG-003454,redteam,Email,Yirrkala,0,0.000398,0,0,0,sms_short
+MSG-003457,redteam,Facebook,Papunya,0,9.1e-05,0,0,0,sms_short
+MSG-003465,redteam,Email,Numbulwar,0,6e-05,0,0,0,sms_short
+MSG-003471,redteam,SMS,Pine Creek,0,0.016532,0,0,0,sms_short
+MSG-003791,redteam,SMS,Adelaide River,0,0.019162,0,0,0,sms_short
+MSG-003506,redteam,Email,Gunbalanya,0,0.000437,0,0,0,formal_residual
+MSG-003906,redteam,Web form,Wadeye,0,0.026989,0,0,0,formal_residual
+MSG-003514,redteam,SMS,Gunbalanya,0,0.024974,0,0,0,sms_short
+MSG-003535,redteam,SMS,Wadeye,0,0.02082,0,0,0,sms_short
+MSG-003540,redteam,Web form,Pine Creek,0,0.000156,0,0,0,sms_short
+MSG-003541,redteam,Email,Katherine,0,0.000576,0,0,0,formal_residual
+MSG-003546,redteam,Web form,Ntaria,0,0.000391,0,0,0,formal_residual
+MSG-003565,redteam,SMS,Lajamanu,0,0.030301,0,0,0,sms_short
+MSG-003594,redteam,Web form,Ramingining,0,0.000102,0,0,0,sms_short
+MSG-003636,redteam,SMS,Darwin,0,0.057648,0,0,0,sms_short
+MSG-003644,redteam,Web form,Tennant Creek,0,8.8e-05,0,0,0,sms_short
+MSG-003652,redteam,Email,Numbulwar,0,0.00228,0,0,0,formal_residual
+MSG-003657,redteam,Email,Santa Teresa,0,0.000437,0,0,0,formal_residual
+MSG-003675,redteam,Email,Pine Creek,0,6.7e-05,0,0,0,sms_short
+MSG-003677,redteam,Email,Borroloola,0,0.000541,0,0,0,sms_short
+MSG-003678,redteam,SMS,Pine Creek,0,0.007217,0,0,0,sms_short
+MSG-003684,redteam,SMS,Nauiyu,0,0.0004,0,0,0,sms_short
+MSG-003690,redteam,Email,Borroloola,0,0.004048,0,0,0,sms_short
+MSG-003701,redteam,Web form,Papunya,0,0.002813,0,0,0,formal_residual
+MSG-003705,redteam,Phone,Yuendumu,0,0.00223,0,0,0,formal_residual
+MSG-003996,redteam,Phone,Wadeye,0,0.006492,0,0,0,formal_residual
+MSG-003726,redteam,Web form,Elliott,0,0.000571,0,0,0,sms_short
+MSG-003739,redteam,Phone,Ntaria,0,0.001079,0,0,0,formal_residual
+MSG-003755,redteam,Email,Tennant Creek,0,0.000485,0,0,0,sms_short
+MSG-003770,redteam,Email,Humpty Doo,0,0.00081,0,0,0,formal_residual
+MSG-004776,redteam,Phone,Yuendumu,0,0.000157,0,0,0,formal_residual
+MSG-004398,redteam,Web form,Tennant Creek,0,0.014083,0,0,0,formal_residual
+MSG-003773,redteam,Email,Tennant Creek,0,0.000413,0,0,0,formal_residual
+MSG-003779,redteam,Email,Galiwin'ku,0,6.8e-05,0,0,0,sms_short
+MSG-003828,redteam,Email,Ali Curung,0,0.000108,0,0,0,sms_short
+MSG-003832,redteam,Email,Lajamanu,0,0.000933,0,0,0,formal_residual
+MSG-004246,redteam,SMS,Ramingining,1,0.999355,1,0,1,sms_short
+MSG-003837,redteam,Email,Palmerston,0,5.7e-05,0,0,0,sms_short
+MSG-003839,redteam,SMS,Pine Creek,0,0.008215,0,0,0,sms_short
+MSG-003885,redteam,Email,Papunya,0,0.000107,0,0,0,sms_short
+MSG-003890,redteam,Email,Yirrkala,0,0.000526,0,0,0,sms_short
+MSG-003891,redteam,Email,Lajamanu,0,0.000664,0,0,0,formal_residual
+MSG-003894,redteam,Web form,Ntaria,0,0.000105,0,0,0,sms_short
+MSG-003909,redteam,Web form,,0,0.001329,0,0,0,formal_residual
+MSG-004548,redteam,Email,Adelaide River,0,0.000583,0,0,0,formal_residual
+MSG-003924,redteam,Phone,Maningrida,0,0.001194,0,0,0,formal_residual
+MSG-003935,redteam,Email,Humpty Doo,0,0.00071,0,0,0,sms_short
+MSG-003940,redteam,Email,Lajamanu,0,0.001526,0,0,0,sms_short
+MSG-003953,redteam,Email,Batchelor,0,5.8e-05,0,0,0,sms_short
+MSG-003960,redteam,Phone,Numbulwar,0,5.3e-05,0,0,0,formal_residual
+MSG-003962,redteam,Email,Elliott,0,0.00042,0,0,0,sms_short
+MSG-003966,redteam,Email,Borroloola,0,0.000129,0,0,0,sms_short
+MSG-003967,redteam,Facebook,Ramingining,0,0.000108,0,0,0,sms_short
+MSG-004036,redteam,SMS,Tennant Creek,0,0.010428,0,0,0,sms_short
+MSG-004057,redteam,Web form,Yuendumu,0,0.00502,0,0,0,formal_residual
+MSG-004072,redteam,Email,Yirrkala,0,0.000982,0,0,0,formal_residual
+MSG-004136,redteam,Web form,Papunya,0,0.000186,0,0,0,sms_short
+MSG-004139,redteam,Facebook,,0,0.000597,0,0,0,sms_short
+MSG-004166,redteam,Facebook,Katherine,0,0.00061,0,0,0,sms_short
+MSG-004177,redteam,SMS,Palmerston,0,0.017955,0,0,0,sms_short
+MSG-004261,redteam,Phone,Ramingining,0,0.000231,0,0,0,formal_residual
+MSG-004182,redteam,Facebook,Palmerston,0,0.003435,0,0,0,sms_short
+MSG-004225,redteam,Email,Elliott,0,0.00055,0,0,0,sms_short
+MSG-004232,redteam,Email,Batchelor,0,0.000389,0,0,0,sms_short
+MSG-004233,redteam,Email,Santa Teresa,0,0.000434,0,0,0,sms_short
+MSG-004240,redteam,Email,Pine Creek,0,0.000463,0,0,0,formal_residual
+MSG-004241,redteam,SMS,Gunbalanya,0,0.023291,0,0,0,sms_short
+MSG-004245,redteam,Web form,Ntaria,0,0.001182,0,0,0,formal_residual
+MSG-004250,redteam,Email,Batchelor,0,0.000447,0,0,0,sms_short
+MSG-004280,redteam,SMS,Elliott,0,0.015268,0,0,0,sms_short
+MSG-004284,redteam,Web form,Borroloola,0,9.2e-05,0,0,0,sms_short
+MSG-004285,redteam,Email,Numbulwar,0,0.000422,0,0,0,formal_residual
+MSG-005139,redteam,SMS,Galiwin'ku,0,0.04996,0,0,0,sms_short
+MSG-004291,redteam,Facebook,Batchelor,0,0.000923,0,0,0,formal_residual
+MSG-004303,redteam,SMS,Batchelor,0,0.012384,0,0,0,sms_short
+MSG-004536,redteam,Email,Tennant Creek,0,0.000656,0,0,0,formal_residual
+MSG-004342,redteam,Email,Darwin,0,0.000168,0,0,0,sms_short
+MSG-004383,redteam,SMS,Wadeye,0,0.006424,0,0,0,sms_short
+MSG-004395,redteam,Facebook,Papunya,0,0.001975,0,0,0,sms_short
+MSG-004404,redteam,Web form,Ramingining,0,0.00026,0,0,0,formal_residual
+MSG-004768,redteam,Email,Gunbalanya,0,0.000481,0,0,0,formal_residual
+MSG-004419,redteam,Email,Maningrida,0,0.00011,0,0,0,sms_short
+MSG-004421,redteam,Email,Palmerston,0,0.000418,0,0,0,formal_residual
+MSG-004434,redteam,Email,Borroloola,0,0.000155,0,0,0,formal_residual
+MSG-004438,redteam,Email,Ali Curung,0,0.001064,0,0,0,sms_short
+MSG-004449,redteam,Web form,Ngukurr,0,0.000524,0,0,0,sms_short
+MSG-004487,redteam,Web form,Palmerston,0,0.001123,0,0,0,formal_residual
+MSG-004494,redteam,Facebook,Batchelor,0,0.000105,0,0,0,sms_short
+MSG-004516,redteam,Email,Alice Springs,0,0.004566,0,0,0,sms_short
+MSG-004521,redteam,Email,Numbulwar,0,0.000455,0,0,0,formal_residual
+MSG-004535,redteam,SMS,Adelaide River,0,0.032013,0,0,0,sms_short
+MSG-004544,redteam,Facebook,Numbulwar,0,8.1e-05,0,0,0,sms_short
+MSG-004567,redteam,Email,Pine Creek,0,0.000421,0,0,0,formal_residual
+MSG-004568,redteam,Web form,Yirrkala,0,0.000645,0,0,0,formal_residual
+MSG-004600,redteam,Email,Yirrkala,0,0.000455,0,0,0,sms_short
+MSG-004665,redteam,Email,Ramingining,0,0.00016,0,0,0,sms_short
+MSG-004681,redteam,Email,Lajamanu,0,0.000188,0,0,0,sms_short
+MSG-004702,redteam,Facebook,Batchelor,0,0.000611,0,0,0,sms_short
+MSG-004707,redteam,Facebook,Tennant Creek,0,0.001689,0,0,0,sms_short
+MSG-004723,redteam,Email,Papunya,0,0.000572,0,0,0,formal_residual
+MSG-004739,redteam,Email,Borroloola,0,0.000441,0,0,0,sms_short
+MSG-004770,redteam,Email,Nauiyu,0,0.00013,0,0,0,sms_short
+MSG-004775,redteam,Email,Lajamanu,0,0.001125,0,0,0,sms_short
+MSG-004777,redteam,SMS,Batchelor,0,0.000366,0,0,0,sms_short
+MSG-004800,redteam,Email,Wadeye,0,0.000504,0,0,0,sms_short
+MSG-004818,redteam,Email,Lajamanu,0,0.000662,0,0,0,formal_residual
+MSG-004827,redteam,Email,Palmerston,0,0.002109,0,0,0,formal_residual
+MSG-004857,redteam,Email,Numbulwar,0,9.7e-05,0,0,0,sms_short
+MSG-004858,redteam,Email,Papunya,0,2.2e-05,0,0,0,sms_short
+MSG-004882,redteam,Email,Lajamanu,0,0.000573,0,0,0,formal_residual
+MSG-004883,redteam,Phone,Tennant Creek,0,0.006041,0,0,0,formal_residual
+MSG-004885,redteam,Email,Gunbalanya,0,0.000487,0,0,0,sms_short
+MSG-004888,redteam,SMS,Katherine,0,0.026115,0,0,0,sms_short
+MSG-004897,redteam,Email,Gunbalanya,0,0.003629,0,0,0,formal_residual
+MSG-004909,redteam,Email,Wadeye,0,0.000434,0,0,0,sms_short
+MSG-004915,redteam,Email,Ramingining,0,0.000315,0,0,0,sms_short
+MSG-004937,redteam,Email,Santa Teresa,0,0.000376,0,0,0,sms_short
+MSG-004977,redteam,Email,Ali Curung,0,0.000462,0,0,0,sms_short
+MSG-004994,redteam,SMS,,0,0.025457,0,0,0,sms_short
+MSG-004996,redteam,SMS,Tennant Creek,0,0.000373,0,0,0,sms_short
+MSG-004998,redteam,SMS,Batchelor,0,0.017617,0,0,0,sms_short
+MSG-005010,redteam,Facebook,Howard Springs,0,0.000962,0,0,0,formal_residual
+MSG-005177,redteam,Phone,Pine Creek,0,0.001027,0,0,0,formal_residual
+MSG-005018,redteam,Email,Papunya,0,0.000612,0,0,0,formal_residual
+MSG-005054,redteam,Facebook,Yuendumu,0,0.000388,0,0,0,sms_short
+MSG-005055,redteam,SMS,Maningrida,0,0.020741,0,0,0,sms_short
+MSG-005097,redteam,Email,Ntaria,0,0.004635,0,0,0,sms_short
+MSG-005103,redteam,Email,Palmerston,0,5.9e-05,0,0,0,sms_short
+MSG-005114,redteam,Web form,Katherine,0,0.000217,0,0,0,formal_residual
+MSG-005173,redteam,Web form,Ngukurr,0,0.000731,0,0,0,sms_short
+MSG-005217,redteam,Web form,,0,0.000644,0,0,0,sms_short
+MSG-005223,redteam,SMS,Santa Teresa,0,0.013234,0,0,0,sms_short
+MSG-005224,redteam,Phone,Papunya,0,0.003564,0,0,0,formal_residual
+MSG-005229,redteam,SMS,Wadeye,0,0.021715,0,0,0,sms_short
+MSG-005844,redteam,SMS,Ali Curung,0,0.011203,0,0,0,sms_short
+MSG-005945,redteam,SMS,Wadeye,0,0.010293,0,0,0,sms_short
+MSG-005240,redteam,Email,Ramingining,0,0.000106,0,0,0,sms_short
+MSG-005249,redteam,Web form,Elliott,0,0.001405,0,0,0,formal_residual
+MSG-005379,redteam,Email,,0,0.001272,0,0,0,formal_residual
+MSG-005256,redteam,Facebook,Pine Creek,0,7.9e-05,0,0,0,sms_short
+MSG-005366,redteam,SMS,Palmerston,0,0.006991,0,0,0,sms_short
+MSG-005388,redteam,Email,Galiwin'ku,0,0.000407,0,0,0,sms_short
+MSG-005391,redteam,Email,Katherine,0,0.00115,0,0,0,sms_short
+MSG-005396,redteam,Email,Papunya,0,0.00015,0,0,0,formal_residual
+MSG-006088,redteam,SMS,,0,0.116287,0,0,0,sms_short
+MSG-005459,redteam,Email,Elliott,0,0.001094,0,0,0,formal_residual
+MSG-005404,redteam,SMS,Santa Teresa,0,0.029533,0,0,0,sms_short
+MSG-005435,redteam,Facebook,Maningrida,0,0.000241,0,0,0,sms_short
+MSG-005436,redteam,Email,Batchelor,0,0.000393,0,0,0,formal_residual
+MSG-006416,redteam,Email,Maningrida,0,0.003928,0,0,0,formal_residual
+MSG-005447,redteam,Email,Numbulwar,0,0.000987,0,0,0,formal_residual
+MSG-005469,redteam,SMS,Gunbalanya,0,0.00611,0,0,0,sms_short
+MSG-005518,redteam,Email,Katherine,0,0.001388,0,0,0,sms_short
+MSG-005524,redteam,SMS,Darwin,0,0.000942,0,0,0,sms_short
+MSG-005539,redteam,Email,Yirrkala,0,0.000188,0,0,0,sms_short
+MSG-005540,redteam,Email,Yuendumu,0,9.9e-05,0,0,0,sms_short
+MSG-005558,redteam,Email,Papunya,0,0.000466,0,0,0,sms_short
+MSG-005569,redteam,Facebook,Ntaria,0,0.00015,0,0,0,sms_short
+MSG-005602,redteam,Web form,Ramingining,0,0.000529,0,0,0,sms_short
+MSG-005624,redteam,Web form,,0,0.000593,0,0,0,sms_short
+MSG-005634,redteam,Facebook,Wadeye,0,0.001258,0,0,0,sms_short
+MSG-005640,redteam,Email,Pine Creek,0,0.000941,0,0,0,sms_short
+MSG-005655,redteam,SMS,Wadeye,0,0.020849,0,0,0,sms_short
+MSG-005675,redteam,Web form,Yirrkala,0,0.000812,0,0,0,sms_short
+MSG-005823,redteam,SMS,Palmerston,0,0.01601,0,0,0,sms_short
+MSG-005676,redteam,Email,Ramingining,0,0.001084,0,0,0,formal_residual
+MSG-005717,redteam,Email,Ali Curung,0,6e-05,0,0,0,sms_short
+MSG-005718,redteam,Email,Ngukurr,0,0.000256,0,0,0,sms_short
+MSG-005720,redteam,Email,Yuendumu,0,2.2e-05,0,0,0,sms_short
+MSG-005723,redteam,Email,Ramingining,0,0.000341,0,0,0,sms_short
+MSG-005726,redteam,Email,Ntaria,0,2.2e-05,0,0,0,sms_short
+MSG-005750,redteam,Web form,Palmerston,0,0.000773,0,0,0,sms_short
+MSG-005761,redteam,Phone,Tennant Creek,0,0.000694,0,0,0,formal_residual
+MSG-005763,redteam,Email,Nauiyu,0,0.001367,0,0,0,formal_residual
+MSG-005926,redteam,SMS,Palmerston,0,0.030852,0,0,0,sms_short
+MSG-006421,redteam,Email,Gunbalanya,0,0.001001,0,0,0,formal_residual
+MSG-005799,redteam,Email,Gunbalanya,0,0.000535,0,0,0,sms_short
+MSG-005813,redteam,Facebook,,0,0.000788,0,0,0,formal_residual
+MSG-006819,redteam,SMS,Tennant Creek,0,0.029146,0,0,0,sms_short
+MSG-005814,redteam,SMS,,0,0.046239,0,0,0,sms_short
+MSG-005853,redteam,Web form,Yuendumu,0,0.001269,0,0,0,formal_residual
+MSG-005860,redteam,Email,Alice Springs,0,0.004418,0,0,0,sms_short
+MSG-005864,redteam,Email,Numbulwar,0,0.001115,0,0,0,formal_residual
+MSG-006381,redteam,SMS,Ngukurr,0,0.020292,0,0,0,sms_short
+MSG-005888,redteam,Email,Batchelor,0,0.001091,0,0,0,sms_short
+MSG-005890,redteam,SMS,Pine Creek,0,0.002946,0,0,0,sms_short
+MSG-005892,redteam,Email,Numbulwar,0,0.000495,0,0,0,formal_residual
+MSG-005894,redteam,Facebook,Pine Creek,0,0.000614,0,0,0,sms_short
+MSG-005915,redteam,Email,Nauiyu,0,0.000399,0,0,0,sms_short
+MSG-005925,redteam,Email,Borroloola,0,0.000977,0,0,0,formal_residual
+MSG-005971,redteam,SMS,Gunbalanya,0,0.024178,0,0,0,sms_short
+MSG-006360,redteam,Web form,Humpty Doo,1,0.999467,1,0,1,formal_residual
+MSG-005972,redteam,SMS,Katherine,0,0.01629,0,0,0,sms_short
+MSG-006005,redteam,Email,Ntaria,0,0.000502,0,0,0,sms_short
+MSG-006023,redteam,Email,Maningrida,0,0.000345,0,0,0,sms_short
+MSG-006062,redteam,Email,Papunya,1,0.999839,1,0,1,formal_residual
+MSG-006074,redteam,Facebook,Maningrida,0,8.8e-05,0,0,0,sms_short
+MSG-006075,redteam,Web form,Nauiyu,0,0.000378,0,0,0,formal_residual
+MSG-006082,redteam,Email,Ramingining,0,0.007798,0,0,0,formal_residual
+MSG-006107,redteam,Web form,Katherine,0,0.000338,0,0,0,formal_residual
+MSG-006147,redteam,SMS,Maningrida,0,0.001093,0,0,0,sms_short
+MSG-006153,redteam,Email,Batchelor,0,0.000969,0,0,0,formal_residual
+MSG-006154,redteam,Email,Katherine,0,0.004249,0,0,0,formal_residual
+MSG-006169,redteam,Phone,Darwin,0,0.019874,0,0,0,formal_residual
+MSG-006503,redteam,Facebook,Yirrkala,0,0.001604,0,0,0,formal_residual
+MSG-006189,redteam,Email,Yuendumu,0,0.00104,0,0,0,sms_short
+MSG-006196,redteam,Email,Borroloola,0,0.000453,0,0,0,sms_short
+MSG-006233,redteam,Email,Papunya,0,0.000389,0,0,0,sms_short
+MSG-006248,redteam,Email,Ramingining,0,0.000983,0,0,0,sms_short
+MSG-006257,redteam,Email,Lajamanu,0,0.00045,0,0,0,sms_short
+MSG-006284,redteam,Email,Ngukurr,0,0.000476,0,0,0,formal_residual
+MSG-006308,redteam,Email,Wadeye,0,0.000198,0,0,0,sms_short
+MSG-006316,redteam,Web form,Gunbalanya,0,0.000165,0,0,0,sms_short
+MSG-006318,redteam,SMS,Ramingining,0,0.038631,0,0,0,sms_short
+MSG-006349,redteam,Email,Howard Springs,0,0.000219,0,0,0,sms_short
+MSG-006373,redteam,Email,Batchelor,0,0.00049,0,0,0,sms_short
+MSG-006383,redteam,Email,Elliott,0,6.1e-05,0,0,0,sms_short
+MSG-006389,redteam,SMS,Ramingining,0,0.00094,0,0,0,sms_short
+MSG-006476,redteam,Email,Alice Springs,0,0.000441,0,0,0,sms_short
+MSG-006492,redteam,SMS,Tennant Creek,0,0.005447,0,0,0,sms_short
+MSG-006510,redteam,Email,Pine Creek,0,0.001431,0,0,0,sms_short
+MSG-006559,redteam,Email,Nauiyu,0,2.4e-05,0,0,0,sms_short
+MSG-006581,redteam,Email,Numbulwar,0,0.002204,0,0,0,sms_short
+MSG-006588,redteam,Email,Palmerston,0,0.001221,0,0,0,sms_short
+MSG-006604,redteam,Email,Palmerston,0,0.000535,0,0,0,sms_short
+MSG-006677,redteam,Web form,Darwin,0,0.001931,0,0,0,formal_residual
+MSG-006774,redteam,Phone,Pine Creek,0,0.000642,0,0,0,formal_residual
+MSG-006716,redteam,Web form,Batchelor,0,5.7e-05,0,0,0,formal_residual
+MSG-006726,redteam,Email,Humpty Doo,0,0.000543,0,0,0,sms_short
+MSG-006733,redteam,Email,Elliott,0,0.00102,0,0,0,sms_short
+MSG-006750,redteam,Email,Yirrkala,0,0.001204,0,0,0,formal_residual
+MSG-006758,redteam,Web form,Humpty Doo,0,0.002647,0,0,0,sms_short
+MSG-006772,redteam,Email,Maningrida,0,5.8e-05,0,0,0,sms_short
+MSG-006775,redteam,Facebook,Wadeye,0,0.001403,0,0,0,formal_residual
+MSG-006777,redteam,Email,Howard Springs,0,0.000132,0,0,0,sms_short
+MSG-006796,redteam,Web form,Palmerston,0,0.00069,0,0,0,sms_short
+MSG-006805,redteam,Facebook,Batchelor,0,0.001313,0,0,0,formal_residual
+MSG-006812,redteam,SMS,Darwin,0,0.001784,0,0,0,sms_short
+MSG-006820,redteam,SMS,Humpty Doo,0,0.00893,0,0,0,sms_short
+MSG-006823,redteam,Email,Alice Springs,0,0.001413,0,0,0,sms_short
+MSG-006852,redteam,Phone,Ngukurr,0,0.001249,0,0,0,formal_residual
+MSG-006857,redteam,Phone,Ngukurr,0,0.000881,0,0,0,formal_residual
+MSG-006858,redteam,Phone,Nauiyu,0,0.00296,0,0,0,formal_residual
+MSG-006859,redteam,Email,Yirrkala,0,0.000607,0,0,0,formal_residual
+MSG-006863,redteam,SMS,Nhulunbuy,0,0.068915,0,0,0,sms_short
+MSG-006870,redteam,SMS,Katherine,0,0.000384,0,0,0,sms_short
+MSG-006888,redteam,Email,Gunbalanya,0,0.000338,0,0,0,sms_short
+MSG-006890,redteam,Email,Borroloola,0,0.000102,0,0,0,formal_residual
+MSG-006918,redteam,Email,Santa Teresa,0,0.003186,0,0,0,formal_residual
+MSG-006934,redteam,Email,Pine Creek,0,2.5e-05,0,0,0,sms_short
+MSG-006945,redteam,Email,Katherine,0,0.00047,0,0,0,sms_short
+MSG-006956,redteam,Facebook,Ntaria,0,0.000502,0,0,0,sms_short
+MSG-006958,redteam,Web form,Adelaide River,0,0.000538,0,0,0,sms_short
+MSG-006979,redteam,Email,Numbulwar,0,0.00066,0,0,0,formal_residual
+MSG-007013,redteam,Web form,Lajamanu,0,0.001119,0,0,0,formal_residual
+MSG-007015,redteam,Email,Palmerston,0,5.8e-05,0,0,0,sms_short
+MSG-007053,redteam,SMS,Katherine,0,0.008173,0,0,0,sms_short
+MSG-007075,redteam,Web form,Borroloola,0,0.000546,0,0,0,sms_short
+MSG-007090,redteam,Facebook,Adelaide River,0,0.00055,0,0,0,sms_short
+MSG-007114,redteam,Email,Katherine,0,0.000562,0,0,0,sms_short
+MSG-007115,redteam,Email,Wadeye,0,0.000379,0,0,0,sms_short
+MSG-007151,redteam,SMS,Palmerston,0,0.00756,0,0,0,sms_short
+MSG-007171,redteam,Email,Numbulwar,0,0.000459,0,0,0,sms_short
+MSG-007173,redteam,Phone,Howard Springs,0,0.000836,0,0,0,formal_residual
+MSG-007208,redteam,Email,Ramingining,0,5.1e-05,0,0,0,sms_short
+MSG-007220,redteam,Web form,Adelaide River,0,0.000577,0,0,0,sms_short
+MSG-007264,redteam,Phone,Lajamanu,0,0.000961,0,0,0,formal_residual
+MSG-007283,redteam,Email,Santa Teresa,0,0.000429,0,0,0,sms_short
+MSG-007294,redteam,Facebook,Nauiyu,0,0.000566,0,0,0,sms_short
+MSG-007331,redteam,Email,Howard Springs,0,0.000209,0,0,0,sms_short
+MSG-007341,redteam,Web form,Numbulwar,0,0.002052,0,0,0,formal_residual
+MSG-007348,redteam,Web form,Nhulunbuy,0,0.000982,0,0,0,formal_residual
+MSG-007519,redteam,SMS,Yirrkala,0,0.014211,0,0,0,sms_short
+MSG-007358,redteam,Email,Humpty Doo,0,0.00067,0,0,0,formal_residual
+MSG-007362,redteam,Phone,Elliott,0,0.000636,0,0,0,formal_residual
+MSG-007370,redteam,Email,Yuendumu,0,0.000164,0,0,0,formal_residual
+MSG-008382,redteam,Email,Alice Springs,0,0.000695,0,0,0,formal_residual
+MSG-007384,redteam,Web form,Papunya,0,0.000731,0,0,0,sms_short
+MSG-007437,redteam,SMS,Batchelor,0,0.019436,0,0,0,sms_short
+MSG-007452,redteam,Facebook,Numbulwar,0,0.000106,0,0,0,sms_short
+MSG-007469,redteam,SMS,Howard Springs,0,0.027752,0,0,0,sms_short
+MSG-007475,redteam,SMS,Yirrkala,0,0.001155,0,0,0,sms_short
+MSG-007476,redteam,Web form,Maningrida,0,0.000679,0,0,0,formal_residual
+MSG-007520,redteam,Email,,0,0.000402,0,0,0,sms_short
+MSG-007525,redteam,SMS,Ngukurr,0,0.000396,0,0,0,sms_short
+MSG-007526,redteam,Web form,Nhulunbuy,0,0.000627,0,0,0,sms_short
+MSG-007544,redteam,Email,Elliott,0,0.000379,0,0,0,sms_short
+MSG-007551,redteam,SMS,Galiwin'ku,0,0.012468,0,0,0,sms_short
+MSG-007558,redteam,Email,Howard Springs,0,0.000445,0,0,0,sms_short
+MSG-007584,redteam,SMS,Katherine,0,0.006415,0,0,0,sms_short
+MSG-007605,redteam,Email,Elliott,0,9.9e-05,0,0,0,sms_short
+MSG-007632,redteam,Email,Yirrkala,0,0.001913,0,0,0,formal_residual
+MSG-007634,redteam,Web form,Wadeye,0,0.003023,0,0,0,formal_residual
+MSG-007637,redteam,Web form,Elliott,0,0.001083,0,0,0,formal_residual
+MSG-008041,redteam,Email,Nhulunbuy,0,0.001374,0,0,0,formal_residual
+MSG-007645,redteam,Web form,Lajamanu,0,0.000146,0,0,0,sms_short
+MSG-007664,redteam,SMS,Maningrida,0,0.016805,0,0,0,sms_short
+MSG-007665,redteam,Email,Alice Springs,0,0.0004,0,0,0,sms_short
+MSG-007681,redteam,Email,Maningrida,0,0.003016,0,0,0,formal_residual
+MSG-007697,redteam,SMS,Ngukurr,0,0.006842,0,0,0,sms_short
+MSG-007732,redteam,Email,Lajamanu,0,0.000424,0,0,0,sms_short
+MSG-007749,redteam,Web form,Ali Curung,0,0.000189,0,0,0,sms_short
+MSG-007801,redteam,SMS,Tennant Creek,0,0.001912,0,0,0,sms_short
+MSG-007808,redteam,Email,Ramingining,0,0.001184,0,0,0,formal_residual
+MSG-007809,redteam,Email,Humpty Doo,0,0.000424,0,0,0,sms_short
+MSG-007817,redteam,Email,Maningrida,0,6.3e-05,0,0,0,sms_short
+MSG-007868,redteam,Email,,0,0.000369,0,0,0,sms_short
+MSG-007882,redteam,SMS,Gunbalanya,0,0.00093,0,0,0,sms_short
+MSG-007891,redteam,Web form,Papunya,0,0.001096,0,0,0,formal_residual
+MSG-007918,redteam,Email,Humpty Doo,0,0.000298,0,0,0,sms_short
+MSG-007931,redteam,Phone,Ntaria,0,0.000343,0,0,0,formal_residual
+MSG-008012,redteam,Email,Nauiyu,0,0.001207,0,0,0,formal_residual
+MSG-007962,redteam,SMS,,0,0.001937,0,0,0,sms_short
+MSG-007984,redteam,SMS,Katherine,0,0.007161,0,0,0,sms_short
+MSG-007994,redteam,Email,Alice Springs,0,6.4e-05,0,0,0,sms_short
+MSG-008003,redteam,Email,Borroloola,0,0.000201,0,0,0,sms_short
+MSG-008005,redteam,Email,Galiwin'ku,0,0.000532,0,0,0,sms_short
+MSG-008016,redteam,Email,Borroloola,0,0.00099,0,0,0,formal_residual
+MSG-008055,redteam,SMS,Howard Springs,0,0.005628,0,0,0,sms_short
+MSG-008060,redteam,SMS,Papunya,0,0.017331,0,0,0,sms_short
+MSG-008066,redteam,Email,Nhulunbuy,0,0.000222,0,0,0,sms_short
+MSG-008072,redteam,Web form,Papunya,0,0.00112,0,0,0,formal_residual
+MSG-008085,redteam,Email,Gunbalanya,0,0.000612,0,0,0,formal_residual
+MSG-008156,redteam,Phone,Ali Curung,0,0.001797,0,0,0,formal_residual
+MSG-008168,redteam,Email,Wadeye,0,0.000998,0,0,0,sms_short
+MSG-008182,redteam,SMS,Yirrkala,0,0.0148,0,0,0,sms_short
+MSG-008206,redteam,SMS,Nhulunbuy,0,0.007194,0,0,0,sms_short
+MSG-008340,redteam,Email,Yirrkala,0,0.001184,0,0,0,formal_residual
+MSG-008788,redteam,SMS,Santa Teresa,0,0.023528,0,0,0,sms_short
+MSG-008219,redteam,Email,Ntaria,0,0.000265,0,0,0,sms_short
+MSG-008223,redteam,Email,Adelaide River,0,0.000163,0,0,0,sms_short
+MSG-008228,redteam,Facebook,Humpty Doo,0,8.9e-05,0,0,0,sms_short
+MSG-008232,redteam,SMS,Alice Springs,0,0.006655,0,0,0,sms_short
+MSG-008235,redteam,Phone,Nhulunbuy,0,0.001435,0,0,0,formal_residual
+MSG-008239,redteam,SMS,Katherine,0,0.017628,0,0,0,sms_short
+MSG-008242,redteam,SMS,,0,0.021533,0,0,0,sms_short
+MSG-008282,redteam,SMS,Papunya,0,0.03427,0,0,0,sms_short
+MSG-008286,redteam,Email,Papunya,0,0.000762,0,0,0,formal_residual
+MSG-008290,redteam,Web form,Galiwin'ku,0,0.000557,0,0,0,sms_short
+MSG-008304,redteam,Email,Ngukurr,0,0.000162,0,0,0,formal_residual
+MSG-008305,redteam,Facebook,Gunbalanya,1,0.999935,1,0,1,formal_residual
+MSG-008306,redteam,Web form,Pine Creek,0,0.000708,0,0,0,sms_short
+MSG-008308,redteam,Email,Howard Springs,0,0.000453,0,0,0,sms_short
+MSG-008310,redteam,Facebook,Nhulunbuy,0,0.000783,0,0,0,sms_short
+MSG-008357,redteam,Email,Gunbalanya,0,0.000122,0,0,0,sms_short
+MSG-008420,redteam,SMS,Tennant Creek,0,0.008791,0,0,0,sms_short
+MSG-008484,redteam,Facebook,Darwin,0,0.000248,0,0,0,formal_residual
+MSG-008489,redteam,Web form,Batchelor,0,0.000831,0,0,0,sms_short
+MSG-008491,redteam,Email,Tennant Creek,0,0.001334,0,0,0,sms_short
+MSG-008505,redteam,Facebook,Ramingining,0,0.000235,0,0,0,formal_residual
+MSG-008535,redteam,SMS,Elliott,0,0.025591,0,0,0,sms_short
+MSG-008536,redteam,Web form,Howard Springs,0,0.019181,0,0,0,formal_residual
+MSG-008597,redteam,Email,Ngukurr,0,0.001543,0,0,0,formal_residual
+MSG-008601,redteam,SMS,Ntaria,0,0.023364,0,0,0,sms_short
+MSG-008621,redteam,Email,Howard Springs,0,0.000154,0,0,0,sms_short
+MSG-008627,redteam,Phone,Katherine,0,0.000643,0,0,0,formal_residual
+MSG-008632,redteam,Email,Yuendumu,0,0.000294,0,0,0,sms_short
+MSG-008638,redteam,Phone,Wadeye,0,0.001386,0,0,0,formal_residual
+MSG-008918,redteam,SMS,Tennant Creek,0,0.00802,0,0,0,sms_short
+MSG-008654,redteam,Email,Ali Curung,0,0.000407,0,0,0,sms_short
+MSG-008670,redteam,Email,Nhulunbuy,0,0.001888,0,0,0,formal_residual
+MSG-008790,redteam,SMS,Lajamanu,0,0.117063,0,0,0,sms_short
+MSG-008678,redteam,Web form,Numbulwar,0,0.000232,0,0,0,formal_residual
+MSG-009324,redteam,Email,Ntaria,0,0.00039,0,0,0,formal_residual
+MSG-008708,redteam,Email,Katherine,0,6.1e-05,0,0,0,sms_short
+MSG-008714,redteam,Email,Howard Springs,0,0.000403,0,0,0,sms_short
+MSG-008734,redteam,Facebook,Tennant Creek,0,0.000528,0,0,0,sms_short
+MSG-008758,redteam,SMS,Howard Springs,0,0.024086,0,0,0,sms_short
+MSG-008760,redteam,SMS,Maningrida,0,0.034315,0,0,0,sms_short
+MSG-008765,redteam,Email,Nauiyu,0,6.7e-05,0,0,0,sms_short
+MSG-008794,redteam,Email,Palmerston,0,0.000929,0,0,0,formal_residual
+MSG-008802,redteam,SMS,Numbulwar,0,0.023632,0,0,0,sms_short
+MSG-008811,redteam,Email,Alice Springs,0,0.001473,0,0,0,sms_short
+MSG-008852,redteam,SMS,Ramingining,0,0.006833,0,0,0,sms_short
+MSG-008872,redteam,Facebook,Humpty Doo,0,0.000238,0,0,0,formal_residual
+MSG-008875,redteam,Email,,0,0.00087,0,0,0,formal_residual
+MSG-008889,redteam,Facebook,Ntaria,0,0.0058,0,0,0,sms_short
+MSG-008909,redteam,SMS,Howard Springs,0,0.020592,0,0,0,sms_short
+MSG-008929,redteam,Email,Adelaide River,0,0.000661,0,0,0,formal_residual
+MSG-009438,redteam,Email,Nhulunbuy,0,0.000633,0,0,0,formal_residual
+MSG-008945,redteam,Web form,Nhulunbuy,0,0.000873,0,0,0,formal_residual
+MSG-008992,redteam,Email,Nauiyu,0,2.2e-05,0,0,0,sms_short
+MSG-009010,redteam,Facebook,Wadeye,0,9e-05,0,0,0,sms_short
+MSG-009034,redteam,Facebook,Lajamanu,0,0.002535,0,0,0,sms_short
+MSG-009039,redteam,Email,Nauiyu,0,0.000477,0,0,0,formal_residual
+MSG-009069,redteam,SMS,Maningrida,0,0.001919,0,0,0,sms_short
+MSG-009089,redteam,Email,Wadeye,0,0.001137,0,0,0,sms_short
+MSG-009091,redteam,Email,Maningrida,0,0.000524,0,0,0,sms_short
+MSG-009111,redteam,Email,Humpty Doo,0,0.000362,0,0,0,sms_short
+MSG-009146,redteam,Web form,Lajamanu,0,0.000771,0,0,0,sms_short
+MSG-009164,redteam,Email,Papunya,0,0.001268,0,0,0,sms_short
+MSG-009168,redteam,SMS,Adelaide River,1,0.990837,1,0,1,sms_short
+MSG-009182,redteam,Email,Ramingining,0,0.000298,0,0,0,sms_short
+MSG-009197,redteam,Email,,0,0.000214,0,0,0,formal_residual
+MSG-010246,redteam,SMS,Elliott,0,0.08709,0,0,0,sms_short
+MSG-009202,redteam,Web form,Elliott,0,0.00019,0,0,0,sms_short
+MSG-009224,redteam,Web form,Tennant Creek,0,0.000578,0,0,0,sms_short
+MSG-009248,redteam,SMS,Palmerston,0,0.022207,0,0,0,sms_short
+MSG-009253,redteam,Phone,Batchelor,0,0.000611,0,0,0,formal_residual
+MSG-009259,redteam,Email,Howard Springs,0,0.000547,0,0,0,sms_short
+MSG-009336,redteam,Email,Howard Springs,0,0.000344,0,0,0,sms_short
+MSG-009345,redteam,Email,Tennant Creek,0,0.001504,0,0,0,sms_short
+MSG-009356,redteam,SMS,Palmerston,0,0.000934,0,0,0,sms_short
+MSG-009357,redteam,SMS,Numbulwar,0,0.01471,0,0,0,sms_short
+MSG-010080,redteam,Email,Howard Springs,0,0.004109,0,0,0,formal_residual
+MSG-009382,redteam,Email,Humpty Doo,0,0.00039,0,0,0,sms_short
+MSG-009385,redteam,Facebook,Yuendumu,0,0.000637,0,0,0,sms_short
+MSG-009389,redteam,Email,Pine Creek,0,0.002003,0,0,0,sms_short
+MSG-009399,redteam,Web form,Ngukurr,0,0.0008,0,0,0,formal_residual
+MSG-009400,redteam,Facebook,Gunbalanya,0,0.000572,0,0,0,sms_short
+MSG-009425,redteam,Phone,Papunya,0,0.001039,0,0,0,formal_residual
+MSG-009432,redteam,Facebook,Katherine,0,0.000701,0,0,0,sms_short
+MSG-009435,redteam,Web form,Adelaide River,0,0.000846,0,0,0,sms_short
+MSG-009459,redteam,Web form,Batchelor,0,0.000113,0,0,0,sms_short
+MSG-009493,redteam,Email,Papunya,0,6.4e-05,0,0,0,sms_short
+MSG-009515,redteam,Email,Lajamanu,0,0.000549,0,0,0,formal_residual
+MSG-009519,redteam,Web form,Ntaria,0,0.002097,0,0,0,sms_short
+MSG-009520,redteam,Phone,Yirrkala,0,0.002097,0,0,0,formal_residual
+MSG-009526,redteam,Email,Ngukurr,0,0.000265,0,0,0,sms_short
+MSG-009561,redteam,Email,Lajamanu,0,0.001209,0,0,0,sms_short
+MSG-009565,redteam,Email,Nauiyu,1,0.999951,1,0,1,distressed_caps
+MSG-009568,redteam,Email,Yirrkala,0,0.000449,0,0,0,sms_short
+MSG-009596,redteam,Phone,Nhulunbuy,0,0.000629,0,0,0,formal_residual
+MSG-009607,redteam,SMS,Elliott,0,0.006512,0,0,0,sms_short
+MSG-010235,redteam,SMS,Wadeye,0,0.034997,0,0,0,sms_short
+MSG-009616,redteam,Email,Numbulwar,0,5.8e-05,0,0,0,sms_short
+MSG-009620,redteam,Email,Palmerston,0,0.001278,0,0,0,sms_short
+MSG-009647,redteam,SMS,Nauiyu,0,0.003904,0,0,0,sms_short
+MSG-009667,redteam,Web form,Borroloola,0,0.001367,0,0,0,formal_residual
+MSG-009668,redteam,Email,Ngukurr,0,0.000464,0,0,0,sms_short
+MSG-009673,redteam,SMS,Wadeye,0,0.001099,0,0,0,sms_short
+MSG-009696,redteam,Email,Yuendumu,0,0.000621,0,0,0,formal_residual
+MSG-009699,redteam,Email,Borroloola,0,0.000376,0,0,0,sms_short
+MSG-009761,redteam,SMS,Alice Springs,0,0.001682,0,0,0,sms_short
+MSG-009804,redteam,Email,Pine Creek,0,0.001332,0,0,0,sms_short
+MSG-009826,redteam,Email,Yuendumu,0,2.5e-05,0,0,0,sms_short
+MSG-009862,redteam,Web form,,0,0.002024,0,0,0,sms_short
+MSG-009882,redteam,Web form,Borroloola,0,0.000551,0,0,0,sms_short
+MSG-009893,redteam,Email,Ali Curung,0,0.002065,0,0,0,sms_short
+MSG-009895,redteam,Email,Palmerston,0,0.000578,0,0,0,formal_residual
+MSG-009903,redteam,Phone,Ngukurr,0,0.000781,0,0,0,formal_residual
+MSG-009987,redteam,Web form,Yuendumu,0,0.000341,0,0,0,formal_residual
+MSG-009920,redteam,Email,Ali Curung,0,0.00021,0,0,0,formal_residual
+MSG-010699,redteam,Email,Numbulwar,0,0.001677,0,0,0,formal_residual
+MSG-010005,redteam,Phone,Howard Springs,0,0.001897,0,0,0,formal_residual
+MSG-009924,redteam,Web form,Alice Springs,0,8.8e-05,0,0,0,sms_short
+MSG-009962,redteam,Email,,0,0.000253,0,0,0,formal_residual
+MSG-010008,redteam,SMS,Ntaria,0,0.003979,0,0,0,sms_short
+MSG-010009,redteam,Web form,Papunya,0,8.5e-05,0,0,0,sms_short
+MSG-010015,redteam,SMS,Elliott,0,0.009072,0,0,0,sms_short
+MSG-010052,redteam,Email,Maningrida,0,0.001431,0,0,0,sms_short
+MSG-010059,redteam,SMS,Tennant Creek,0,0.007237,0,0,0,sms_short
+MSG-010097,redteam,Email,Galiwin'ku,0,2.4e-05,0,0,0,sms_short
+MSG-010114,redteam,Email,Santa Teresa,0,0.000409,0,0,0,sms_short
+MSG-010127,redteam,Email,Lajamanu,0,0.001109,0,0,0,sms_short
+MSG-010148,redteam,SMS,Lajamanu,0,0.007802,0,0,0,sms_short
+MSG-010164,redteam,Email,Batchelor,0,0.000158,0,0,0,sms_short
+MSG-010244,redteam,Email,Gunbalanya,0,0.000862,0,0,0,formal_residual
+MSG-010249,redteam,Email,Darwin,0,0.000502,0,0,0,sms_short
+MSG-010253,redteam,SMS,Santa Teresa,0,0.008442,0,0,0,sms_short
+MSG-010258,redteam,SMS,Numbulwar,0,0.002035,0,0,0,sms_short
+MSG-010302,redteam,SMS,Lajamanu,0,0.001256,0,0,0,sms_short
+MSG-010339,redteam,SMS,Palmerston,0,0.001676,0,0,0,sms_short
+MSG-010345,redteam,Email,Nhulunbuy,0,0.000416,0,0,0,sms_short
+MSG-010347,redteam,Email,Borroloola,0,0.000693,0,0,0,formal_residual
+MSG-010354,redteam,SMS,Ngukurr,0,0.016708,0,0,0,sms_short
+MSG-010362,redteam,Email,Yuendumu,0,0.000409,0,0,0,sms_short
+MSG-010387,redteam,Web form,Howard Springs,0,0.000367,0,0,0,formal_residual
+MSG-010400,redteam,SMS,Adelaide River,0,0.001006,0,0,0,sms_short
+MSG-010411,redteam,SMS,Palmerston,0,0.025244,0,0,0,sms_short
+MSG-010420,redteam,Email,Maningrida,0,0.001547,0,0,0,sms_short
+MSG-010445,redteam,SMS,Nhulunbuy,0,0.011249,0,0,0,sms_short
+MSG-010487,redteam,SMS,Maningrida,0,0.001051,0,0,0,sms_short
+MSG-010502,redteam,Email,Ali Curung,0,0.000374,0,0,0,sms_short
+MSG-010507,redteam,Email,Numbulwar,0,0.000626,0,0,0,formal_residual
+MSG-010520,redteam,SMS,Nauiyu,0,0.008458,0,0,0,sms_short
+MSG-010572,redteam,Email,Ali Curung,0,0.001241,0,0,0,sms_short
+MSG-010575,redteam,Web form,Katherine,1,0.999542,1,1,1,formal_residual
+MSG-010637,redteam,SMS,Howard Springs,0,0.004979,0,0,0,sms_short
+MSG-010641,redteam,Email,Ntaria,0,0.000565,0,0,0,formal_residual
+MSG-010646,redteam,Web form,Darwin,0,0.000544,0,0,0,sms_short
+MSG-010656,redteam,Email,Santa Teresa,0,9.7e-05,0,0,0,sms_short
+MSG-010708,redteam,SMS,Maningrida,0,0.089301,0,0,0,sms_short
+MSG-010722,redteam,Email,Gunbalanya,0,0.000561,0,0,0,sms_short
+MSG-010746,redteam,SMS,Ngukurr,0,0.001068,0,0,0,sms_short
+MSG-010795,redteam,Email,Papunya,0,2.4e-05,0,0,0,sms_short
+MSG-010863,redteam,Email,Tennant Creek,0,0.000553,0,0,0,formal_residual
+MSG-010869,redteam,Facebook,Wadeye,0,0.004449,0,0,0,formal_residual
+MSG-011095,redteam,Email,Lajamanu,0,0.00019,0,0,0,formal_residual
+MSG-011275,redteam,SMS,Ngukurr,0,0.036167,0,0,0,sms_short
+MSG-010874,redteam,Email,Borroloola,0,0.003152,0,0,0,formal_residual
+MSG-010901,redteam,SMS,Ramingining,0,0.007238,0,0,0,sms_short
+MSG-010902,redteam,Web form,Santa Teresa,0,0.001049,0,0,0,formal_residual
+MSG-011180,redteam,SMS,Yirrkala,0,0.076729,0,0,0,sms_short
+MSG-010928,redteam,Email,Tennant Creek,0,0.004035,0,0,0,formal_residual
+MSG-010975,redteam,SMS,Katherine,0,0.014715,0,0,0,sms_short
+MSG-010978,redteam,Email,Santa Teresa,0,0.001102,0,0,0,sms_short
+MSG-011015,redteam,SMS,Alice Springs,0,0.010154,0,0,0,sms_short
+MSG-011027,redteam,SMS,Santa Teresa,0,0.020453,0,0,0,sms_short
+MSG-011034,redteam,Email,Nauiyu,0,0.000497,0,0,0,sms_short
+MSG-011054,redteam,Phone,Lajamanu,0,0.00109,0,0,0,formal_residual
+MSG-012162,redteam,Email,Borroloola,0,0.000687,0,0,0,formal_residual
+MSG-011069,redteam,Email,Nhulunbuy,0,9.9e-05,0,0,0,formal_residual
+MSG-011075,redteam,Web form,Yuendumu,0,0.000481,0,0,0,sms_short
+MSG-011079,redteam,Email,Ngukurr,0,0.00046,0,0,0,formal_residual
+MSG-011083,redteam,Email,Ntaria,0,0.002144,0,0,0,formal_residual
+MSG-011090,redteam,SMS,Humpty Doo,0,0.026222,0,0,0,sms_short
+MSG-011097,redteam,Web form,,0,0.000567,0,0,0,formal_residual
+MSG-011121,redteam,Web form,Lajamanu,0,0.001574,0,0,0,formal_residual
+MSG-011130,redteam,Web form,Palmerston,0,0.001202,0,0,0,formal_residual
+MSG-011159,redteam,Web form,Ngukurr,0,9.3e-05,0,0,0,sms_short
+MSG-011164,redteam,Phone,Galiwin'ku,1,0.999928,1,1,1,formal_residual
+MSG-011166,redteam,Email,Ali Curung,0,0.000133,0,0,0,sms_short
+MSG-011181,redteam,SMS,Gunbalanya,0,0.047052,0,0,0,sms_short
+MSG-011208,redteam,Phone,Ali Curung,0,0.001448,0,0,0,formal_residual
+MSG-011643,redteam,Facebook,Pine Creek,0,0.002047,0,0,0,formal_residual
+MSG-011214,redteam,Email,,0,0.000316,0,0,0,sms_short
+MSG-011258,redteam,Email,Lajamanu,0,0.000428,0,0,0,sms_short
+MSG-011261,redteam,Email,Yirrkala,0,0.000473,0,0,0,sms_short
+MSG-011274,redteam,Email,,0,0.000189,0,0,0,sms_short
+MSG-011278,redteam,SMS,Howard Springs,0,0.123284,0,0,0,sms_short
+MSG-011282,redteam,Web form,Wadeye,0,3.6e-05,0,0,0,sms_short
+MSG-011360,redteam,Facebook,Borroloola,0,0.001275,0,0,0,formal_residual
+MSG-011370,redteam,Web form,Ali Curung,0,0.001078,0,0,0,sms_short
+MSG-011408,redteam,Phone,Ramingining,0,0.001158,0,0,0,formal_residual
+MSG-011428,redteam,Web form,Adelaide River,0,0.000688,0,0,0,sms_short
+MSG-011445,redteam,Email,Gunbalanya,0,0.000438,0,0,0,formal_residual
+MSG-011458,redteam,SMS,Papunya,0,0.001075,0,0,0,sms_short
+MSG-011493,redteam,Email,Galiwin'ku,0,5.9e-05,0,0,0,sms_short
+MSG-011502,redteam,Email,Tennant Creek,0,0.000649,0,0,0,formal_residual
+MSG-011512,redteam,Email,Wadeye,0,7.9e-05,0,0,0,formal_residual
+MSG-011517,redteam,SMS,Ntaria,0,0.017563,0,0,0,sms_short
+MSG-011531,redteam,Email,Maningrida,0,0.000335,0,0,0,sms_short
+MSG-011541,redteam,Email,Elliott,0,0.000377,0,0,0,sms_short
+MSG-011542,redteam,Phone,Batchelor,0,0.003165,0,0,0,formal_residual
+MSG-011889,redteam,Phone,Numbulwar,0,0.002084,0,0,0,formal_residual
+MSG-011645,redteam,Email,Wadeye,0,9.3e-05,0,0,0,sms_short
+MSG-011648,redteam,Email,Yuendumu,0,0.000392,0,0,0,sms_short
+MSG-011679,redteam,Email,Nhulunbuy,0,0.000661,0,0,0,formal_residual
+MSG-011680,redteam,SMS,Pine Creek,0,0.070865,0,0,0,sms_short
+MSG-011699,redteam,Email,Galiwin'ku,0,0.00047,0,0,0,sms_short
+MSG-011706,redteam,Email,Nauiyu,0,0.000409,0,0,0,sms_short
+MSG-011709,redteam,SMS,Santa Teresa,0,0.002018,0,0,0,sms_short
+MSG-011715,redteam,Facebook,Galiwin'ku,0,0.000524,0,0,0,sms_short
+MSG-011735,redteam,SMS,Humpty Doo,0,0.001049,0,0,0,sms_short
+MSG-011739,redteam,SMS,Gunbalanya,0,0.00587,0,0,0,sms_short
+MSG-011743,redteam,SMS,Galiwin'ku,0,0.021346,0,0,0,sms_short
+MSG-011757,redteam,Email,Ntaria,0,0.000396,0,0,0,formal_residual
+MSG-011765,redteam,Web form,Papunya,0,0.000704,0,0,0,sms_short
+MSG-011789,redteam,Facebook,Alice Springs,0,0.001474,0,0,0,formal_residual
+MSG-011799,redteam,Email,Ngukurr,0,0.000143,0,0,0,sms_short
+MSG-011834,redteam,SMS,Yirrkala,0,0.001109,0,0,0,sms_short
+MSG-011841,redteam,Web form,Yirrkala,0,0.000585,0,0,0,formal_residual
+MSG-011863,redteam,SMS,Yuendumu,0,0.025864,0,0,0,sms_short
+MSG-012727,redteam,Email,Ntaria,0,0.000984,0,0,0,formal_residual
+MSG-011867,redteam,Web form,Palmerston,0,0.001908,0,0,0,sms_short
+MSG-011874,redteam,Email,Adelaide River,0,0.000154,0,0,0,sms_short
+MSG-011876,redteam,Email,Yuendumu,0,0.000444,0,0,0,sms_short
+MSG-011881,redteam,Facebook,Papunya,0,0.001038,0,0,0,formal_residual
+MSG-012421,redteam,Email,Yirrkala,0,0.00081,0,0,0,formal_residual
+MSG-011882,redteam,Web form,Batchelor,0,0.000365,0,0,0,formal_residual
+MSG-012899,redteam,Phone,Papunya,0,0.002977,0,0,0,formal_residual
+MSG-011895,redteam,Email,Papunya,0,0.000469,0,0,0,sms_short
+MSG-011934,redteam,Email,Maningrida,0,0.000404,0,0,0,sms_short
+MSG-011960,redteam,Email,Katherine,0,0.000393,0,0,0,sms_short
+MSG-011971,redteam,Email,,0,7.7e-05,0,0,0,sms_short
+MSG-011985,redteam,SMS,Ali Curung,0,0.008885,0,0,0,sms_short
+MSG-012005,redteam,Email,Darwin,0,0.000523,0,0,0,sms_short
+MSG-012022,redteam,Email,Howard Springs,0,0.000567,0,0,0,sms_short
+MSG-012024,redteam,SMS,Numbulwar,0,0.240699,0,0,0,sms_short
+MSG-012041,redteam,Phone,Pine Creek,0,0.000862,0,0,0,formal_residual
+MSG-012048,redteam,Email,Pine Creek,0,0.000505,0,0,0,sms_short
+MSG-012057,redteam,Email,Tennant Creek,0,0.001089,0,0,0,sms_short
+MSG-012059,redteam,Web form,Pine Creek,0,0.002783,0,0,0,sms_short
+MSG-012069,redteam,Email,Nhulunbuy,0,0.000446,0,0,0,sms_short
+MSG-012080,redteam,Email,Adelaide River,0,0.000801,0,0,0,formal_residual
+MSG-012098,redteam,Email,Galiwin'ku,1,0.999962,1,0,1,distressed_caps
+MSG-012133,redteam,Phone,Tennant Creek,0,0.002017,0,0,0,formal_residual
+MSG-012100,redteam,Email,Ali Curung,0,0.000423,0,0,0,sms_short
+MSG-012112,redteam,Phone,Galiwin'ku,0,0.002115,0,0,0,formal_residual
+MSG-012481,redteam,Email,Batchelor,0,0.000225,0,0,0,formal_residual
+MSG-012462,redteam,Email,Pine Creek,0,0.000624,0,0,0,formal_residual
+MSG-012164,redteam,SMS,Gunbalanya,0,0.033812,0,0,0,sms_short
+MSG-012127,redteam,Email,Ali Curung,0,0.000487,0,0,0,sms_short
+MSG-012130,redteam,Email,Tennant Creek,0,0.000324,0,0,0,sms_short
+MSG-012170,redteam,Facebook,Yuendumu,0,0.000473,0,0,0,sms_short
+MSG-012174,redteam,Email,Lajamanu,0,0.000151,0,0,0,formal_residual
+MSG-012175,redteam,Email,Howard Springs,0,0.000671,0,0,0,formal_residual
+MSG-012176,redteam,SMS,Yirrkala,0,0.028126,0,0,0,sms_short
+MSG-012536,redteam,SMS,,0,0.028334,0,0,0,sms_short
+MSG-012195,redteam,Phone,Katherine,0,0.001308,0,0,0,formal_residual
+MSG-012635,redteam,Phone,Numbulwar,0,0.000983,0,0,0,formal_residual
+MSG-012202,redteam,Email,Pine Creek,0,0.000604,0,0,0,sms_short
+MSG-012319,redteam,Email,Nhulunbuy,0,0.001245,0,0,0,formal_residual
+MSG-012322,redteam,Email,Palmerston,0,0.000462,0,0,0,sms_short
+MSG-012330,redteam,Email,Santa Teresa,0,0.001044,0,0,0,sms_short
+MSG-012345,redteam,SMS,Ngukurr,0,0.007508,0,0,0,sms_short
+MSG-012355,redteam,Email,Adelaide River,0,0.000831,0,0,0,formal_residual
+MSG-013256,redteam,Email,Batchelor,0,0.003626,0,0,0,formal_residual
+MSG-012358,redteam,Facebook,Lajamanu,0,0.000306,0,0,0,formal_residual
+MSG-012359,redteam,Email,Tennant Creek,0,0.000441,0,0,0,sms_short
+MSG-012362,redteam,Email,Pine Creek,0,0.00054,0,0,0,sms_short
+MSG-012370,redteam,Email,Borroloola,1,0.99607,1,0,1,formal_residual
+MSG-012836,redteam,Email,Humpty Doo,0,0.002991,0,0,0,formal_residual
+MSG-012384,redteam,SMS,Tennant Creek,0,0.003011,0,0,0,sms_short
+MSG-012459,redteam,Email,Tennant Creek,0,0.000982,0,0,0,sms_short
+MSG-012467,redteam,Email,Papunya,0,0.000444,0,0,0,sms_short
+MSG-012483,redteam,Email,Pine Creek,0,0.000454,0,0,0,sms_short
+MSG-012486,redteam,Facebook,Wadeye,0,0.001944,0,0,0,sms_short
+MSG-012519,redteam,Email,Galiwin'ku,0,0.00101,0,0,0,formal_residual
+MSG-012525,redteam,SMS,Galiwin'ku,0,0.018716,0,0,0,sms_short
+MSG-012548,redteam,SMS,Nhulunbuy,0,0.042313,0,0,0,sms_short
+MSG-012566,redteam,Web form,Wadeye,0,0.002259,0,0,0,sms_short
+MSG-012585,redteam,Email,Katherine,0,6.8e-05,0,0,0,sms_short
+MSG-012591,redteam,SMS,Pine Creek,0,0.037073,0,0,0,sms_short
+MSG-012598,redteam,Email,Wadeye,0,0.000391,0,0,0,sms_short
+MSG-012604,redteam,Email,Yuendumu,0,0.000139,0,0,0,sms_short
+MSG-012605,redteam,Email,Wadeye,0,0.000538,0,0,0,sms_short
+MSG-012612,redteam,Facebook,Tennant Creek,0,2.9e-05,0,0,0,sms_short
+MSG-012633,redteam,Web form,Gunbalanya,0,0.002679,0,0,0,sms_short
+MSG-012645,redteam,Email,Gunbalanya,0,0.000936,0,0,0,sms_short
+MSG-012646,redteam,Facebook,Ali Curung,0,0.00391,0,0,0,formal_residual
+MSG-012716,redteam,Email,Yirrkala,0,0.000848,0,0,0,formal_residual
+MSG-012722,redteam,Email,Ali Curung,0,0.000366,0,0,0,sms_short
+MSG-012765,redteam,SMS,Numbulwar,0,0.000989,0,0,0,sms_short
+MSG-012772,redteam,Phone,Howard Springs,0,0.001069,0,0,0,formal_residual
+MSG-012785,redteam,SMS,Lajamanu,0,0.061073,0,0,0,sms_short
+MSG-012818,redteam,Web form,Humpty Doo,0,0.004189,0,0,0,formal_residual
+MSG-012862,redteam,Web form,,0,9.3e-05,0,0,0,sms_short
+MSG-012874,redteam,Web form,Elliott,0,0.001513,0,0,0,sms_short
+MSG-012884,redteam,SMS,,0,0.008716,0,0,0,sms_short
+MSG-012897,redteam,SMS,,0,0.012639,0,0,0,sms_short
+MSG-012900,redteam,Web form,Lajamanu,0,0.000886,0,0,0,sms_short
+MSG-012956,redteam,Web form,Pine Creek,0,0.001539,0,0,0,formal_residual
+MSG-013931,redteam,SMS,Yuendumu,0,0.024304,0,0,0,sms_short
+MSG-012967,redteam,Email,Adelaide River,0,6.1e-05,0,0,0,sms_short
+MSG-012983,redteam,SMS,Ngukurr,0,0.001012,0,0,0,sms_short
+MSG-012992,redteam,SMS,Ntaria,0,0.000418,0,0,0,sms_short
+MSG-013001,redteam,SMS,Humpty Doo,0,0.001162,0,0,0,sms_short
+MSG-013003,redteam,Email,Nauiyu,0,0.000537,0,0,0,sms_short
+MSG-013035,redteam,Email,Humpty Doo,0,0.000544,0,0,0,sms_short
+MSG-013052,redteam,Email,Papunya,1,0.999974,1,0,1,formal_residual
+MSG-014010,redteam,SMS,Nhulunbuy,0,0.133726,0,0,0,sms_short
+MSG-013209,redteam,Web form,Santa Teresa,0,0.002311,0,0,0,formal_residual
+MSG-013073,redteam,Email,Borroloola,0,6.7e-05,0,0,0,sms_short
+MSG-013093,redteam,SMS,Yirrkala,0,0.020457,0,0,0,sms_short
+MSG-014088,redteam,Email,Borroloola,0,0.00111,0,0,0,formal_residual
+MSG-013103,redteam,Web form,Maningrida,0,0.000768,0,0,0,sms_short
+MSG-013112,redteam,Email,Adelaide River,0,0.000468,0,0,0,sms_short
+MSG-013132,redteam,SMS,Nauiyu,0,0.023079,0,0,0,sms_short
+MSG-013235,redteam,Email,Wadeye,0,0.000514,0,0,0,formal_residual
+MSG-013135,redteam,Email,Humpty Doo,0,0.00055,0,0,0,sms_short
+MSG-013144,redteam,Email,Elliott,0,0.000125,0,0,0,sms_short
+MSG-013151,redteam,Email,Adelaide River,0,0.000345,0,0,0,sms_short
+MSG-013208,redteam,Email,,0,0.00011,0,0,0,sms_short
+MSG-013213,redteam,Email,Ngukurr,0,0.000447,0,0,0,sms_short
+MSG-013234,redteam,Email,Ntaria,0,6.9e-05,0,0,0,sms_short
+MSG-013277,redteam,Email,Pine Creek,0,0.000425,0,0,0,sms_short
+MSG-013292,redteam,Email,Adelaide River,0,0.000384,0,0,0,formal_residual
+MSG-013297,redteam,SMS,Alice Springs,0,0.018277,0,0,0,sms_short
+MSG-013342,redteam,Email,Yirrkala,0,0.000406,0,0,0,sms_short
+MSG-013352,redteam,Email,Darwin,0,0.001604,0,0,0,sms_short
+MSG-013362,redteam,Web form,Adelaide River,0,0.001483,0,0,0,formal_residual
+MSG-013388,redteam,Email,Alice Springs,0,0.000388,0,0,0,sms_short
+MSG-013415,redteam,SMS,Tennant Creek,0,0.013478,0,0,0,sms_short
+MSG-013420,redteam,Email,Gunbalanya,0,0.001076,0,0,0,sms_short
+MSG-013449,redteam,Phone,Ngukurr,0,0.001807,0,0,0,formal_residual
+MSG-013481,redteam,SMS,Batchelor,0,0.006475,0,0,0,sms_short
+MSG-013501,redteam,Facebook,Papunya,0,0.002821,0,0,0,sms_short
+MSG-013557,redteam,Email,Galiwin'ku,0,6.3e-05,0,0,0,sms_short
+MSG-013564,redteam,Email,,0,0.001382,0,0,0,formal_residual
+MSG-013572,redteam,Email,Nhulunbuy,0,0.000341,0,0,0,sms_short
+MSG-013578,redteam,Email,Galiwin'ku,0,0.00034,0,0,0,sms_short
+MSG-013606,redteam,Web form,Nauiyu,0,0.000187,0,0,0,sms_short
+MSG-013624,redteam,Email,Nauiyu,0,1.8e-05,0,0,0,sms_short
+MSG-013641,redteam,SMS,Nauiyu,0,0.004084,0,0,0,sms_short
+MSG-013661,redteam,Email,Darwin,0,0.000327,0,0,0,sms_short
+MSG-013752,redteam,Email,Alice Springs,0,0.001367,0,0,0,sms_short
+MSG-013761,redteam,SMS,Alice Springs,0,0.016089,0,0,0,sms_short
+MSG-013778,redteam,Email,Yirrkala,0,0.001552,0,0,0,sms_short
+MSG-013800,redteam,Email,Borroloola,0,0.000338,0,0,0,sms_short
+MSG-013809,redteam,Facebook,,0,3.8e-05,0,0,0,sms_short
+MSG-013812,redteam,Email,Ramingining,0,6.5e-05,0,0,0,sms_short
+MSG-013813,redteam,Email,Santa Teresa,0,0.001453,0,0,0,sms_short
+MSG-013840,redteam,Email,Ramingining,0,0.00111,0,0,0,formal_residual
+MSG-013841,redteam,Phone,Lajamanu,0,0.001284,0,0,0,formal_residual
+MSG-013863,redteam,Email,Yuendumu,0,0.000377,0,0,0,sms_short
+MSG-013865,redteam,Phone,Alice Springs,0,0.001396,0,0,0,formal_residual
+MSG-013884,redteam,Email,Nhulunbuy,1,0.997862,1,0,1,formal_residual
+MSG-014663,redteam,SMS,Tennant Creek,0,0.021661,0,0,0,sms_short
+MSG-013888,redteam,Phone,Maningrida,0,0.000853,0,0,0,formal_residual
+MSG-013899,redteam,Email,Pine Creek,0,0.000543,0,0,0,sms_short
+MSG-013923,redteam,Email,Ngukurr,0,0.000329,0,0,0,sms_short
+MSG-013958,redteam,Web form,Tennant Creek,0,0.000801,0,0,0,sms_short
+MSG-013970,redteam,Email,Papunya,0,0.000325,0,0,0,sms_short
+MSG-013975,redteam,Email,Yuendumu,0,0.001311,0,0,0,sms_short
+MSG-013978,redteam,Web form,Nhulunbuy,0,0.001289,0,0,0,formal_residual
+MSG-014013,redteam,Email,Ali Curung,0,6.2e-05,0,0,0,sms_short
+MSG-014014,redteam,Email,Yirrkala,0,0.004074,0,0,0,formal_residual
+MSG-014033,redteam,Email,Maningrida,0,0.000305,0,0,0,sms_short
+MSG-014050,redteam,Email,Yirrkala,0,0.000319,0,0,0,sms_short
+MSG-014096,redteam,Web form,Wadeye,0,0.001428,0,0,0,formal_residual
+MSG-014101,redteam,Web form,Darwin,0,0.000747,0,0,0,sms_short
+MSG-014124,redteam,Email,Ngukurr,0,0.000725,0,0,0,formal_residual
+MSG-014855,redteam,Facebook,Yirrkala,0,0.002015,0,0,0,formal_residual
+MSG-014157,redteam,Facebook,,0,9.5e-05,0,0,0,sms_short
+MSG-014178,redteam,Email,Santa Teresa,0,0.000478,0,0,0,sms_short
+MSG-014209,redteam,SMS,Wadeye,0,0.020574,0,0,0,sms_short
+MSG-014267,redteam,Web form,Numbulwar,0,0.000539,0,0,0,sms_short
+MSG-014270,redteam,Email,Gunbalanya,0,0.00093,0,0,0,formal_residual
+MSG-014272,redteam,SMS,Lajamanu,0,0.026004,0,0,0,sms_short
+MSG-014317,redteam,Facebook,Alice Springs,0,0.001703,0,0,0,sms_short
+MSG-014334,redteam,Web form,Humpty Doo,0,0.002011,0,0,0,sms_short
+MSG-014339,redteam,Email,Ngukurr,0,0.000339,0,0,0,sms_short
+MSG-014395,redteam,SMS,Tennant Creek,0,0.028611,0,0,0,sms_short
+MSG-014397,redteam,SMS,Palmerston,0,0.006031,0,0,0,sms_short
+MSG-014418,redteam,Email,Yirrkala,0,0.000437,0,0,0,sms_short
+MSG-014425,redteam,Email,Santa Teresa,0,6.8e-05,0,0,0,sms_short
+MSG-014437,redteam,Email,Katherine,0,0.000357,0,0,0,sms_short
+MSG-014444,redteam,Email,Humpty Doo,0,0.000921,0,0,0,formal_residual
+MSG-014449,redteam,Email,Gunbalanya,0,5.5e-05,0,0,0,sms_short
+MSG-014452,redteam,SMS,Santa Teresa,0,0.020117,0,0,0,sms_short
+MSG-014455,redteam,Email,Borroloola,0,0.000403,0,0,0,sms_short
+MSG-014474,redteam,Web form,Yirrkala,0,0.001649,0,0,0,formal_residual
+MSG-014507,redteam,Email,Ntaria,0,0.000482,0,0,0,formal_residual
+MSG-014513,redteam,SMS,Humpty Doo,0,0.007907,0,0,0,sms_short
+MSG-014544,redteam,Email,Darwin,0,0.001286,0,0,0,sms_short
+MSG-014574,redteam,Email,Ntaria,0,0.000368,0,0,0,sms_short
+MSG-014578,redteam,Email,Humpty Doo,0,2.1e-05,0,0,0,sms_short
+MSG-014579,redteam,SMS,Ntaria,0,0.014376,0,0,0,sms_short
+MSG-014614,redteam,Email,Humpty Doo,0,0.00038,0,0,0,sms_short
+MSG-014636,redteam,Email,Santa Teresa,0,6.1e-05,0,0,0,sms_short
+MSG-014667,redteam,Web form,Ngukurr,0,0.001103,0,0,0,formal_residual
+MSG-014675,redteam,Email,Batchelor,0,0.000123,0,0,0,sms_short
+MSG-014681,redteam,Email,Yuendumu,0,0.000481,0,0,0,sms_short
+MSG-014726,redteam,SMS,Borroloola,0,0.002916,0,0,0,sms_short
+MSG-014750,redteam,SMS,Papunya,0,0.005765,0,0,0,sms_short
+MSG-014752,redteam,SMS,Batchelor,0,0.006204,0,0,0,sms_short
+MSG-014786,redteam,Email,Tennant Creek,0,0.000858,0,0,0,formal_residual
+MSG-014810,redteam,SMS,Ntaria,0,0.007488,0,0,0,sms_short
+MSG-014829,redteam,Email,Ali Curung,0,6.2e-05,0,0,0,sms_short
+MSG-014835,redteam,Email,Santa Teresa,0,0.00032,0,0,0,sms_short
+MSG-014839,redteam,Web form,Santa Teresa,0,0.000507,0,0,0,formal_residual
+MSG-014857,redteam,Email,Papunya,0,0.000469,0,0,0,sms_short
+MSG-014876,redteam,Phone,Ali Curung,0,0.001677,0,0,0,formal_residual
+MSG-015175,redteam,Web form,Nhulunbuy,0,0.001497,0,0,0,formal_residual
+MSG-014904,redteam,Email,Nhulunbuy,0,6.1e-05,0,0,0,sms_short
+MSG-014957,redteam,Email,Nauiyu,0,0.000625,0,0,0,formal_residual
+MSG-014966,redteam,Web form,Howard Springs,0,0.000709,0,0,0,sms_short
+MSG-014978,redteam,Email,Papunya,0,0.00057,0,0,0,sms_short
+MSG-015006,redteam,Email,Elliott,0,0.000429,0,0,0,sms_short
+MSG-015017,redteam,Email,,0,0.000166,0,0,0,sms_short
+MSG-015037,redteam,Web form,,0,0.000807,0,0,0,formal_residual
+MSG-015070,redteam,Email,Katherine,0,0.000533,0,0,0,sms_short
+MSG-015094,redteam,Email,Ngukurr,0,0.000387,0,0,0,sms_short
+MSG-015107,redteam,Facebook,Humpty Doo,0,0.006362,0,0,0,sms_short
+MSG-015108,redteam,SMS,Numbulwar,0,0.020304,0,0,0,sms_short
+MSG-015113,redteam,SMS,Papunya,0,0.008665,0,0,0,sms_short
+MSG-015114,redteam,Phone,Nhulunbuy,0,0.000709,0,0,0,formal_residual
+MSG-015139,redteam,Phone,Nhulunbuy,0,0.000989,0,0,0,formal_residual
+MSG-015186,redteam,Email,Nhulunbuy,0,0.00063,0,0,0,formal_residual
+MSG-015196,redteam,Facebook,Santa Teresa,0,0.002504,0,0,0,sms_short
+MSG-015220,redteam,Email,Galiwin'ku,0,0.00051,0,0,0,formal_residual
+MSG-016192,redteam,SMS,Pine Creek,0,0.029846,0,0,0,sms_short
+MSG-015245,redteam,Email,Yuendumu,0,0.000465,0,0,0,sms_short
+MSG-015270,redteam,Email,Katherine,0,0.000631,0,0,0,sms_short
+MSG-015279,redteam,Facebook,Adelaide River,0,0.006396,0,0,0,sms_short
+MSG-015350,redteam,SMS,,0,0.016194,0,0,0,sms_short
+MSG-015397,redteam,SMS,Batchelor,0,0.001065,0,0,0,sms_short
+MSG-015440,redteam,Email,Maningrida,0,2e-05,0,0,0,sms_short
+MSG-015461,redteam,Web form,Papunya,0,0.003278,0,0,0,sms_short
+MSG-015474,redteam,SMS,Ramingining,0,0.01174,0,0,0,sms_short
+MSG-015480,redteam,Email,Ali Curung,0,0.001349,0,0,0,formal_residual
+MSG-015490,redteam,Facebook,Ntaria,0,0.000542,0,0,0,sms_short
+MSG-015500,redteam,Email,Yirrkala,0,0.005993,0,0,0,sms_short
+MSG-015505,redteam,SMS,Lajamanu,0,0.006892,0,0,0,sms_short
+MSG-015514,redteam,Email,Pine Creek,0,0.001834,0,0,0,sms_short
+MSG-015516,redteam,Email,Lajamanu,0,0.001004,0,0,0,sms_short
+MSG-015519,redteam,Facebook,Howard Springs,0,0.000775,0,0,0,formal_residual
+MSG-015540,redteam,SMS,Pine Creek,0,0.027877,0,0,0,sms_short
+MSG-015812,redteam,Email,Yirrkala,0,0.00106,0,0,0,formal_residual
+MSG-015563,redteam,Email,Pine Creek,0,0.000559,0,0,0,formal_residual
+MSG-015591,redteam,Email,Ramingining,0,0.001495,0,0,0,sms_short
+MSG-015610,redteam,SMS,Adelaide River,0,0.001081,0,0,0,sms_short
+MSG-015611,redteam,Email,Numbulwar,0,0.001545,0,0,0,formal_residual
+MSG-015614,redteam,Email,,0,0.000871,0,0,0,formal_residual
+MSG-016062,redteam,Email,Darwin,0,0.000105,0,0,0,formal_residual
+MSG-015693,redteam,Email,Nauiyu,0,0.000541,0,0,0,formal_residual
+MSG-016848,redteam,SMS,Lajamanu,0,0.022497,0,0,0,sms_short
+MSG-015616,redteam,SMS,Yirrkala,0,0.003542,0,0,0,sms_short
+MSG-015626,redteam,Email,Ntaria,0,0.000429,0,0,0,sms_short
+MSG-015635,redteam,Phone,Gunbalanya,0,0.003122,0,0,0,formal_residual
+MSG-015642,redteam,SMS,Pine Creek,0,0.001201,0,0,0,sms_short
+MSG-015645,redteam,Email,Yuendumu,0,0.000298,0,0,0,sms_short
+MSG-015673,redteam,Facebook,Alice Springs,0,0.000281,0,0,0,sms_short
+MSG-015688,redteam,Web form,Ramingining,0,3.6e-05,0,0,0,sms_short
+MSG-015698,redteam,Email,Lajamanu,0,0.000556,0,0,0,formal_residual
+MSG-015707,redteam,Facebook,Alice Springs,0,0.00064,0,0,0,sms_short
+MSG-015730,redteam,SMS,Gunbalanya,0,0.006593,0,0,0,sms_short
+MSG-015738,redteam,Email,Yuendumu,0,0.00016,0,0,0,sms_short
+MSG-015744,redteam,SMS,Ngukurr,0,0.006913,0,0,0,sms_short
+MSG-015756,redteam,Email,Nhulunbuy,0,0.000518,0,0,0,sms_short
+MSG-015797,redteam,Email,Yirrkala,0,0.000451,0,0,0,sms_short
+MSG-015807,redteam,Email,Tennant Creek,0,0.000291,0,0,0,sms_short
+MSG-015824,redteam,Email,Lajamanu,0,0.004294,0,0,0,formal_residual
+MSG-015836,redteam,Email,Darwin,0,0.000408,0,0,0,formal_residual
+MSG-015837,redteam,Web form,Lajamanu,0,0.000656,0,0,0,sms_short
+MSG-015854,redteam,Web form,Lajamanu,0,0.008128,0,0,0,sms_short
+MSG-015874,redteam,Facebook,Tennant Creek,0,0.000202,0,0,0,formal_residual
+MSG-015888,redteam,Web form,Papunya,0,0.000645,0,0,0,sms_short
+MSG-015894,redteam,SMS,Elliott,0,0.027619,0,0,0,sms_short
+MSG-015926,redteam,Phone,Batchelor,0,0.002307,0,0,0,formal_residual
+MSG-015929,redteam,Email,Katherine,0,0.000472,0,0,0,sms_short
+MSG-015939,redteam,Email,Wadeye,0,6.7e-05,0,0,0,sms_short
+MSG-015943,redteam,Email,,0,0.000976,0,0,0,sms_short
+MSG-015956,redteam,Email,Alice Springs,0,0.000318,0,0,0,sms_short
+MSG-015964,redteam,SMS,Ngukurr,0,0.004819,0,0,0,sms_short
+MSG-015985,redteam,SMS,Tennant Creek,0,0.023224,0,0,0,sms_short
+MSG-016040,redteam,Email,Wadeye,0,5.2e-05,0,0,0,sms_short
+MSG-016091,redteam,Web form,Alice Springs,0,0.000514,0,0,0,sms_short
+MSG-016140,redteam,Facebook,Katherine,0,0.001086,0,0,0,formal_residual
+MSG-016146,redteam,Email,Maningrida,0,0.000434,0,0,0,sms_short
+MSG-016166,redteam,Email,Katherine,0,7.9e-05,0,0,0,sms_short
+MSG-016221,redteam,Web form,Yuendumu,0,0.00309,0,0,0,sms_short
+MSG-016222,redteam,Email,Wadeye,0,0.000369,0,0,0,sms_short
+MSG-016283,redteam,Email,Nhulunbuy,0,0.00042,0,0,0,sms_short
+MSG-016310,redteam,SMS,Palmerston,0,0.006982,0,0,0,sms_short
+MSG-016335,redteam,SMS,Elliott,0,0.023122,0,0,0,sms_short
+MSG-016411,redteam,Facebook,Maningrida,0,0.000125,0,0,0,sms_short
+MSG-016417,redteam,Email,Numbulwar,0,0.00037,0,0,0,sms_short
+MSG-016423,redteam,Web form,Yirrkala,0,0.002208,0,0,0,sms_short
+MSG-016450,redteam,Email,,0,0.000383,0,0,0,sms_short
+MSG-016451,redteam,Email,Ramingining,0,0.000106,0,0,0,sms_short
+MSG-016464,redteam,SMS,Ntaria,0,0.004655,0,0,0,sms_short
+MSG-016476,redteam,Email,Palmerston,0,0.000343,0,0,0,sms_short
+MSG-016499,redteam,Phone,Ali Curung,1,0.997313,1,0,1,formal_residual
+MSG-016505,redteam,Email,Katherine,0,0.000764,0,0,0,formal_residual
+MSG-016508,redteam,Email,Gunbalanya,0,0.000876,0,0,0,sms_short
+MSG-016511,redteam,SMS,Nauiyu,0,0.001845,0,0,0,sms_short
+MSG-016516,redteam,SMS,Yuendumu,0,0.016485,0,0,0,sms_short
+MSG-016521,redteam,Email,Yirrkala,0,0.000462,0,0,0,sms_short
+MSG-016536,redteam,Email,,0,0.000341,0,0,0,sms_short
+MSG-016537,redteam,Email,Pine Creek,0,0.00042,0,0,0,sms_short
+MSG-016569,redteam,Web form,Katherine,0,0.000763,0,0,0,sms_short
+MSG-016584,redteam,Email,Maningrida,0,0.000451,0,0,0,sms_short
+MSG-016633,redteam,SMS,,0,0.02873,0,0,0,sms_short
+MSG-016851,redteam,Facebook,Numbulwar,0,0.000812,0,0,0,formal_residual
+MSG-016644,redteam,Phone,Alice Springs,0,0.00126,0,0,0,formal_residual
+MSG-016790,redteam,Facebook,Elliott,0,0.00143,0,0,0,formal_residual
+MSG-016657,redteam,Web form,Humpty Doo,0,0.001668,0,0,0,formal_residual
+MSG-016658,redteam,Email,Ngukurr,0,0.000415,0,0,0,formal_residual
+MSG-016662,redteam,Email,Pine Creek,0,0.000935,0,0,0,formal_residual
+MSG-016672,redteam,Email,Wadeye,0,0.001734,0,0,0,formal_residual
+MSG-016864,redteam,Web form,Humpty Doo,0,0.001783,0,0,0,formal_residual
+MSG-016716,redteam,Email,Yuendumu,0,0.001141,0,0,0,formal_residual
+MSG-016730,redteam,SMS,Nhulunbuy,0,0.040941,0,0,0,sms_short
+MSG-016732,redteam,Facebook,Ramingining,0,0.001312,0,0,0,formal_residual
+MSG-017135,redteam,SMS,Yirrkala,0,0.034238,0,0,0,sms_short
+MSG-016735,redteam,Email,Howard Springs,0,2.1e-05,0,0,0,sms_short
+MSG-016783,redteam,Email,Papunya,0,0.000747,0,0,0,formal_residual
+MSG-016788,redteam,Email,Gunbalanya,0,0.000474,0,0,0,sms_short
+MSG-016806,redteam,Email,Ngukurr,0,0.0012,0,0,0,sms_short
+MSG-016811,redteam,Web form,,0,0.003491,0,0,0,formal_residual
+MSG-016830,redteam,Email,Elliott,0,0.00139,0,0,0,sms_short
+MSG-016852,redteam,Email,Gunbalanya,0,0.000379,0,0,0,sms_short
+MSG-016855,redteam,Email,Wadeye,0,0.000107,0,0,0,sms_short
+MSG-016861,redteam,Facebook,Ramingining,0,0.002224,0,0,0,formal_residual
+MSG-017723,redteam,Web form,Numbulwar,0,0.000633,0,0,0,formal_residual
+MSG-016867,redteam,SMS,Palmerston,0,0.013649,0,0,0,sms_short
+MSG-016885,redteam,Facebook,Gunbalanya,0,0.007607,0,0,0,sms_short
+MSG-016886,redteam,SMS,Ngukurr,0,0.018161,0,0,0,sms_short
+MSG-016887,redteam,Web form,Humpty Doo,0,0.005712,0,0,0,formal_residual
+MSG-017343,redteam,SMS,Galiwin'ku,0,0.049633,0,0,0,sms_short
+MSG-016890,redteam,Email,Nhulunbuy,0,2.3e-05,0,0,0,sms_short
+MSG-016891,redteam,Facebook,Elliott,0,0.002742,0,0,0,sms_short
+MSG-016910,redteam,Email,Papunya,0,0.000458,0,0,0,sms_short
+MSG-016926,redteam,Email,Numbulwar,0,0.000945,0,0,0,sms_short
+MSG-016942,redteam,Facebook,Lajamanu,0,0.000733,0,0,0,sms_short
+MSG-016953,redteam,Email,Tennant Creek,0,0.000839,0,0,0,formal_residual
+MSG-016962,redteam,Facebook,Palmerston,0,8.3e-05,0,0,0,sms_short
+MSG-016973,redteam,SMS,Palmerston,1,0.985742,1,0,1,sms_short
+MSG-016974,redteam,Email,Nhulunbuy,0,0.001293,0,0,0,sms_short
+MSG-016983,redteam,Facebook,Yuendumu,0,0.005101,0,0,0,formal_residual
+MSG-017005,redteam,SMS,Darwin,0,0.013813,0,0,0,sms_short
+MSG-017027,redteam,Email,Ntaria,0,0.000405,0,0,0,sms_short
+MSG-017071,redteam,Email,Tennant Creek,0,0.000484,0,0,0,sms_short
+MSG-017076,redteam,Email,Lajamanu,0,0.000468,0,0,0,sms_short
+MSG-017080,redteam,Email,Santa Teresa,0,0.000336,0,0,0,sms_short
+MSG-017111,redteam,Email,Yirrkala,1,0.998908,1,0,1,formal_residual
+MSG-017112,redteam,Email,Adelaide River,0,0.000604,0,0,0,sms_short
+MSG-017129,redteam,Email,,0,0.000107,0,0,0,sms_short
+MSG-017148,redteam,Phone,Katherine,0,0.000872,0,0,0,formal_residual
+MSG-017859,redteam,SMS,Humpty Doo,1,0.973356,1,0,1,sms_short
+MSG-017161,redteam,Email,Papunya,0,0.001551,0,0,0,formal_residual
+MSG-017181,redteam,Email,Papunya,0,2.4e-05,0,0,0,sms_short
+MSG-017190,redteam,Email,,0,5.7e-05,0,0,0,sms_short
+MSG-017233,redteam,SMS,Humpty Doo,0,0.260551,0,0,0,sms_short
+MSG-017305,redteam,SMS,,0,0.120575,0,0,0,sms_short
+MSG-017739,redteam,SMS,Maningrida,0,0.019516,0,0,0,sms_short
+MSG-017259,redteam,SMS,Ngukurr,0,0.047149,0,0,0,sms_short
+MSG-017262,redteam,Web form,,0,3e-05,0,0,0,sms_short
+MSG-017282,redteam,Email,Darwin,0,0.000321,0,0,0,sms_short
+MSG-017287,redteam,Facebook,Pine Creek,0,0.005961,0,0,0,formal_residual
+MSG-017329,redteam,SMS,Darwin,0,0.005413,0,0,0,sms_short
+MSG-017337,redteam,Email,Ramingining,0,0.001272,0,0,0,sms_short
+MSG-017357,redteam,Web form,Ntaria,0,0.006676,0,0,0,formal_residual
+MSG-018026,redteam,Web form,Pine Creek,0,0.001148,0,0,0,formal_residual
+MSG-017362,redteam,SMS,Maningrida,0,0.015765,0,0,0,sms_short
+MSG-017367,redteam,Web form,Howard Springs,0,0.000207,0,0,0,formal_residual
+MSG-017382,redteam,Web form,Palmerston,0,0.000268,0,0,0,formal_residual
+MSG-017763,redteam,Phone,Pine Creek,0,0.001437,0,0,0,formal_residual
+MSG-017394,redteam,SMS,Nhulunbuy,0,0.006082,0,0,0,sms_short
+MSG-017403,redteam,SMS,Ntaria,0,0.00602,0,0,0,sms_short
+MSG-017430,redteam,SMS,Santa Teresa,0,0.005661,0,0,0,sms_short
+MSG-017441,redteam,Email,Tennant Creek,0,5.5e-05,0,0,0,sms_short
+MSG-017464,redteam,SMS,Maningrida,0,0.000993,0,0,0,sms_short
+MSG-017474,redteam,SMS,Wadeye,0,0.006772,0,0,0,sms_short
+MSG-017486,redteam,Email,Ntaria,0,0.000633,0,0,0,formal_residual
+MSG-017492,redteam,Email,Tennant Creek,0,0.000405,0,0,0,sms_short
+MSG-017508,redteam,Email,Santa Teresa,0,0.000555,0,0,0,formal_residual
+MSG-017510,redteam,Email,Humpty Doo,0,0.002856,0,0,0,formal_residual
+MSG-017511,redteam,Email,Borroloola,0,0.000292,0,0,0,sms_short
+MSG-017513,redteam,Email,Ramingining,0,0.000489,0,0,0,formal_residual
+MSG-017547,redteam,Email,Nauiyu,0,0.000459,0,0,0,sms_short
+MSG-017549,redteam,Web form,Yirrkala,0,0.000651,0,0,0,sms_short
+MSG-017573,redteam,Facebook,Batchelor,0,0.000625,0,0,0,sms_short
+MSG-017574,redteam,Web form,Numbulwar,0,0.001929,0,0,0,sms_short
+MSG-017598,redteam,Email,Ali Curung,0,0.000455,0,0,0,sms_short
+MSG-017609,redteam,Email,Ngukurr,0,1.9e-05,0,0,0,sms_short
+MSG-017611,redteam,SMS,Nauiyu,0,0.001197,0,0,0,sms_short
+MSG-017621,redteam,Email,Ali Curung,0,0.00185,0,0,0,sms_short
+MSG-017638,redteam,Facebook,Howard Springs,0,0.000509,0,0,0,sms_short
+MSG-017672,redteam,Email,Pine Creek,0,0.001672,0,0,0,sms_short
+MSG-017687,redteam,Phone,Nauiyu,0,0.001538,0,0,0,formal_residual
+MSG-018666,redteam,Web form,Howard Springs,0,0.000911,0,0,0,formal_residual
+MSG-017693,redteam,Email,Wadeye,0,0.000477,0,0,0,sms_short
+MSG-017698,redteam,Email,,0,6.9e-05,0,0,0,sms_short
+MSG-017730,redteam,SMS,Papunya,0,0.012024,0,0,0,sms_short
+MSG-017731,redteam,Web form,Wadeye,0,0.000724,0,0,0,sms_short
+MSG-017734,redteam,SMS,Yirrkala,0,0.022543,0,0,0,sms_short
+MSG-017800,redteam,Email,Papunya,0,0.001349,0,0,0,formal_residual
+MSG-018698,redteam,Email,Wadeye,0,0.00167,0,0,0,formal_residual
+MSG-017801,redteam,Facebook,Numbulwar,0,0.015966,0,0,0,formal_residual
+MSG-018020,redteam,SMS,Palmerston,0,0.027847,0,0,0,sms_short
+MSG-017898,redteam,Email,Darwin,0,0.000522,0,0,0,formal_residual
+MSG-017844,redteam,Web form,Numbulwar,0,0.00018,0,0,0,sms_short
+MSG-017853,redteam,Web form,Elliott,0,0.001079,0,0,0,formal_residual
+MSG-018795,redteam,Email,Adelaide River,0,0.000439,0,0,0,formal_residual
+MSG-017878,redteam,Email,Adelaide River,0,0.000485,0,0,0,sms_short
+MSG-017903,redteam,Email,Batchelor,1,0.999977,1,0,1,formal_residual
+MSG-018229,redteam,SMS,Yirrkala,0,0.02105,0,0,0,sms_short
+MSG-018399,redteam,SMS,Nhulunbuy,0,0.049507,0,0,0,sms_short
+MSG-017907,redteam,SMS,Gunbalanya,0,0.028233,0,0,0,sms_short
+MSG-017916,redteam,Email,Adelaide River,0,0.000207,0,0,0,formal_residual
+MSG-017938,redteam,SMS,Yuendumu,0,0.005364,0,0,0,sms_short
+MSG-017988,redteam,SMS,Katherine,0,0.019242,0,0,0,sms_short
+MSG-018001,redteam,Email,Howard Springs,0,0.000189,0,0,0,formal_residual
+MSG-018006,redteam,SMS,Humpty Doo,0,0.014007,0,0,0,sms_short
+MSG-018098,redteam,Email,Howard Springs,0,0.001061,0,0,0,sms_short
+MSG-018125,redteam,Web form,Galiwin'ku,0,0.001992,0,0,0,sms_short
+MSG-018141,redteam,Email,,0,0.000401,0,0,0,sms_short
+MSG-018149,redteam,Email,Numbulwar,0,0.002399,0,0,0,sms_short
+MSG-018153,redteam,Email,Humpty Doo,0,1.9e-05,0,0,0,sms_short
+MSG-018198,redteam,SMS,,0,0.001829,0,0,0,sms_short
+MSG-018200,redteam,Email,Nhulunbuy,0,0.000306,0,0,0,sms_short
+MSG-018265,redteam,Web form,Yirrkala,0,0.001388,0,0,0,formal_residual
+MSG-018267,redteam,Email,Ali Curung,0,0.000741,0,0,0,formal_residual
+MSG-019324,redteam,Web form,Adelaide River,0,0.00262,0,0,0,formal_residual
+MSG-018271,redteam,Email,Galiwin'ku,0,0.000995,0,0,0,sms_short
+MSG-018293,redteam,Email,Numbulwar,0,0.00263,0,0,0,formal_residual
+MSG-018294,redteam,SMS,Santa Teresa,0,0.005832,0,0,0,sms_short
+MSG-018295,redteam,Facebook,Papunya,0,0.000673,0,0,0,sms_short
+MSG-018297,redteam,SMS,Gunbalanya,1,0.996005,1,0,1,sms_short
+MSG-018314,redteam,Email,Nauiyu,0,0.000101,0,0,0,sms_short
+MSG-018759,redteam,Phone,Yirrkala,0,0.00143,0,0,0,formal_residual
+MSG-018318,redteam,Phone,Pine Creek,0,0.000586,0,0,0,formal_residual
+MSG-018320,redteam,Web form,Borroloola,0,0.000645,0,0,0,sms_short
+MSG-018363,redteam,Facebook,,0,0.000254,0,0,0,sms_short
+MSG-018407,redteam,Email,Palmerston,0,0.000455,0,0,0,sms_short
+MSG-018420,redteam,Web form,,0,0.000801,0,0,0,formal_residual
+MSG-018436,redteam,SMS,Nauiyu,0,0.02702,0,0,0,sms_short
+MSG-018448,redteam,Facebook,Nhulunbuy,0,0.000534,0,0,0,sms_short
+MSG-018466,redteam,Email,Pine Creek,0,0.000569,0,0,0,formal_residual
+MSG-018491,redteam,Email,Pine Creek,0,0.000896,0,0,0,sms_short
+MSG-018492,redteam,Web form,Tennant Creek,0,0.000183,0,0,0,sms_short
+MSG-018507,redteam,Email,Howard Springs,0,0.000429,0,0,0,sms_short
+MSG-018518,redteam,Web form,Lajamanu,0,0.002032,0,0,0,sms_short
+MSG-018521,redteam,Email,Wadeye,0,0.00043,0,0,0,sms_short
+MSG-018555,redteam,Facebook,Yuendumu,0,0.00256,0,0,0,sms_short
+MSG-018557,redteam,SMS,Ngukurr,0,0.000374,0,0,0,sms_short
+MSG-018566,redteam,Email,Ntaria,0,0.000164,0,0,0,sms_short
+MSG-018577,redteam,Web form,Tennant Creek,0,0.000525,0,0,0,sms_short
+MSG-018615,redteam,SMS,,0,0.000378,0,0,0,sms_short
+MSG-018648,redteam,SMS,Nauiyu,0,0.008821,0,0,0,sms_short
+MSG-018668,redteam,Web form,Papunya,0,0.000721,0,0,0,sms_short
+MSG-018680,redteam,Facebook,Humpty Doo,0,0.000362,0,0,0,sms_short
+MSG-018696,redteam,Email,Darwin,0,0.000468,0,0,0,sms_short
+MSG-018697,redteam,Web form,Maningrida,0,0.002146,0,0,0,sms_short
+MSG-018706,redteam,Email,,0,0.000463,0,0,0,sms_short
+MSG-018733,redteam,Facebook,Nhulunbuy,0,0.001789,0,0,0,sms_short
+MSG-018736,redteam,Email,Maningrida,0,8.2e-05,0,0,0,sms_short
+MSG-018750,redteam,Web form,Ali Curung,0,0.001309,0,0,0,sms_short
+MSG-018778,redteam,Web form,Galiwin'ku,0,0.000879,0,0,0,sms_short
+MSG-018784,redteam,SMS,Pine Creek,0,0.015035,0,0,0,sms_short
+MSG-019644,redteam,SMS,Gunbalanya,0,0.022295,0,0,0,sms_short
+MSG-018796,redteam,Email,Katherine,0,0.003007,0,0,0,formal_residual
+MSG-018831,redteam,Email,Yuendumu,0,0.000883,0,0,0,sms_short
+MSG-018836,redteam,Email,Ali Curung,0,0.001302,0,0,0,sms_short
+MSG-018840,redteam,Email,Nauiyu,0,0.001534,0,0,0,sms_short
+MSG-018848,redteam,SMS,Numbulwar,0,0.001081,0,0,0,sms_short
+MSG-018859,redteam,Email,Pine Creek,0,0.000508,0,0,0,sms_short
+MSG-018862,redteam,Email,Nauiyu,0,0.000613,0,0,0,formal_residual
+MSG-018873,redteam,SMS,Batchelor,0,0.003619,0,0,0,sms_short
+MSG-018878,redteam,Facebook,Palmerston,0,0.013514,0,0,0,formal_residual
+MSG-018880,redteam,SMS,Alice Springs,0,0.005352,0,0,0,sms_short
+MSG-018939,redteam,SMS,Tennant Creek,0,0.003189,0,0,0,sms_short
+MSG-018951,redteam,Email,Tennant Creek,0,0.000797,0,0,0,formal_residual
+MSG-019595,redteam,SMS,Santa Teresa,0,0.017881,0,0,0,sms_short
+MSG-018972,redteam,Email,Nauiyu,0,8.2e-05,0,0,0,formal_residual
+MSG-018984,redteam,Email,Papunya,0,0.00033,0,0,0,sms_short
+MSG-018992,redteam,SMS,Tennant Creek,0,0.034978,0,0,0,sms_short
+MSG-019370,redteam,SMS,Gunbalanya,1,0.993685,1,0,1,sms_short
+MSG-019094,redteam,Phone,Borroloola,0,0.001187,0,0,0,formal_residual
+MSG-020051,redteam,Email,Ngukurr,1,0.999662,1,1,1,formal_residual
+MSG-019137,redteam,Phone,Maningrida,0,0.001244,0,0,0,formal_residual
+MSG-019150,redteam,SMS,Adelaide River,0,0.000935,0,0,0,sms_short
+MSG-019171,redteam,Email,Yirrkala,0,0.00037,0,0,0,sms_short
+MSG-019186,redteam,SMS,Ramingining,0,0.006591,0,0,0,sms_short
+MSG-019191,redteam,Phone,Lajamanu,0,0.000399,0,0,0,formal_residual
+MSG-019212,redteam,SMS,Pine Creek,0,0.005514,0,0,0,sms_short
+MSG-019235,redteam,Web form,Elliott,0,5.6e-05,0,0,0,formal_residual
+MSG-019237,redteam,Phone,Nhulunbuy,0,0.000311,0,0,0,formal_residual
+MSG-019275,redteam,Email,Papunya,1,0.999877,1,0,1,formal_residual
+MSG-019297,redteam,Facebook,Ntaria,0,0.000516,0,0,0,sms_short
+MSG-019302,redteam,Email,Santa Teresa,0,0.000964,0,0,0,formal_residual
+MSG-019327,redteam,Email,Howard Springs,0,0.000869,0,0,0,formal_residual
+MSG-019351,redteam,Email,Nhulunbuy,0,0.00147,0,0,0,sms_short
+MSG-019377,redteam,Email,Katherine,0,0.000458,0,0,0,sms_short
+MSG-019431,redteam,Web form,Yuendumu,0,0.000512,0,0,0,sms_short
+MSG-019452,redteam,Email,Ramingining,0,0.000526,0,0,0,formal_residual
+MSG-019468,redteam,Facebook,Tennant Creek,0,0.000513,0,0,0,sms_short
+MSG-019474,redteam,Email,,0,0.000364,0,0,0,formal_residual
+MSG-020451,redteam,Email,Yirrkala,0,0.000452,0,0,0,formal_residual
+MSG-019486,redteam,Facebook,Santa Teresa,0,0.000687,0,0,0,sms_short
+MSG-019490,redteam,Email,,0,0.000212,0,0,0,sms_short
+MSG-019493,redteam,SMS,Maningrida,0,0.006248,0,0,0,sms_short
+MSG-019517,redteam,Email,Wadeye,0,0.004884,0,0,0,sms_short
+MSG-019534,redteam,Email,Darwin,0,0.001939,0,0,0,sms_short
+MSG-019555,redteam,Web form,Ngukurr,0,0.000668,0,0,0,formal_residual
+MSG-019559,redteam,SMS,Pine Creek,0,0.014588,0,0,0,sms_short
+MSG-019581,redteam,Email,Galiwin'ku,0,0.000426,0,0,0,sms_short
+MSG-019633,redteam,Phone,Humpty Doo,0,0.000556,0,0,0,formal_residual
+MSG-020634,redteam,SMS,Galiwin'ku,0,0.013034,0,0,0,sms_short
+MSG-019670,redteam,Facebook,Nhulunbuy,0,7.1e-05,0,0,0,sms_short
+MSG-019674,redteam,SMS,Ramingining,0,0.0193,0,0,0,sms_short
+MSG-019685,redteam,Email,,0,0.000386,0,0,0,sms_short
+MSG-019691,redteam,Web form,Yuendumu,0,0.000649,0,0,0,formal_residual
+MSG-019725,redteam,Email,Darwin,0,6.8e-05,0,0,0,sms_short
+MSG-019731,redteam,SMS,Humpty Doo,0,0.021915,0,0,0,sms_short
+MSG-019748,redteam,SMS,Elliott,0,0.000353,0,0,0,sms_short
+MSG-019761,redteam,Facebook,Wadeye,0,0.001479,0,0,0,sms_short
+MSG-019777,redteam,Email,,1,0.999912,1,0,1,formal_residual
+MSG-020525,redteam,Email,Ntaria,0,0.000896,0,0,0,formal_residual
+MSG-020651,redteam,Email,Papunya,0,0.000548,0,0,0,formal_residual
+MSG-019801,redteam,Email,,0,0.00337,0,0,0,formal_residual
+MSG-020758,redteam,Facebook,Ntaria,0,0.001588,0,0,0,formal_residual
+MSG-019888,redteam,SMS,Adelaide River,0,0.006894,0,0,0,sms_short
+MSG-019905,redteam,Email,,0,0.001612,0,0,0,formal_residual
+MSG-020901,redteam,Email,Katherine,0,0.000669,0,0,0,formal_residual
+MSG-019980,redteam,Web form,Wadeye,0,0.003101,0,0,0,sms_short
+MSG-019985,redteam,Email,Adelaide River,0,0.000321,0,0,0,sms_short
+MSG-019987,redteam,Email,Numbulwar,0,0.000101,0,0,0,formal_residual
+MSG-019992,redteam,Email,Santa Teresa,0,0.0007,0,0,0,formal_residual
+MSG-019996,redteam,Email,Gunbalanya,0,0.000319,0,0,0,sms_short
+MSG-020000,redteam,Email,Palmerston,0,0.000231,0,0,0,sms_short
+MSG-020053,redteam,SMS,Elliott,0,0.001974,0,0,0,sms_short
+MSG-020056,redteam,Email,Nhulunbuy,0,0.000432,0,0,0,sms_short
+MSG-020058,redteam,Email,Ngukurr,0,0.001976,0,0,0,sms_short
+MSG-020067,redteam,Email,Maningrida,0,0.000539,0,0,0,sms_short
+MSG-020078,redteam,Email,Gunbalanya,0,0.000385,0,0,0,sms_short
+MSG-020095,redteam,Email,Batchelor,0,0.001167,0,0,0,sms_short
+MSG-020099,redteam,Email,Tennant Creek,0,0.001115,0,0,0,formal_residual
+MSG-020107,redteam,Email,,0,0.000808,0,0,0,formal_residual
+MSG-020115,redteam,Email,Darwin,0,0.0031,0,0,0,sms_short
+MSG-020205,redteam,Facebook,Santa Teresa,0,0.001602,0,0,0,sms_short
+MSG-020220,redteam,Email,Santa Teresa,0,0.000588,0,0,0,sms_short
+MSG-020223,redteam,Email,Humpty Doo,0,0.000537,0,0,0,sms_short
+MSG-020238,redteam,Email,Lajamanu,0,0.000327,0,0,0,sms_short
+MSG-020239,redteam,Email,Nhulunbuy,0,0.00142,0,0,0,formal_residual
+MSG-020259,redteam,SMS,,0,0.006164,0,0,0,sms_short
+MSG-020261,redteam,Email,,0,0.000442,0,0,0,sms_short
+MSG-020265,redteam,Email,Papunya,0,0.000153,0,0,0,sms_short
+MSG-020270,redteam,Facebook,Numbulwar,0,0.000501,0,0,0,sms_short
+MSG-020275,redteam,Email,Ntaria,0,0.000281,0,0,0,formal_residual
+MSG-020293,redteam,Phone,Elliott,0,0.000222,0,0,0,formal_residual
+MSG-020395,redteam,SMS,Tennant Creek,1,0.941203,1,0,1,polite_indirect
+MSG-020307,redteam,Web form,Borroloola,0,0.002003,0,0,0,sms_short
+MSG-020334,redteam,SMS,Alice Springs,0,0.005006,0,0,0,sms_short
+MSG-020346,redteam,Email,Galiwin'ku,0,0.000181,0,0,0,formal_residual
+MSG-020363,redteam,SMS,Nauiyu,0,0.002881,0,0,0,sms_short
+MSG-020370,redteam,Facebook,Ramingining,0,0.000438,0,0,0,sms_short
+MSG-020398,redteam,SMS,Darwin,0,0.026925,0,0,0,sms_short
+MSG-021085,redteam,SMS,,0,0.022803,0,0,0,sms_short
+MSG-020438,redteam,Email,Nauiyu,0,0.000339,0,0,0,sms_short
+MSG-020443,redteam,Email,Tennant Creek,0,6.5e-05,0,0,0,sms_short
+MSG-020460,redteam,Email,Ali Curung,0,0.000177,0,0,0,formal_residual
+MSG-020500,redteam,Email,Borroloola,0,0.000511,0,0,0,sms_short
+MSG-020511,redteam,Email,Lajamanu,0,0.001306,0,0,0,sms_short
+MSG-020538,redteam,Email,,0,0.000107,0,0,0,sms_short
+MSG-020545,redteam,Facebook,Tennant Creek,0,0.001514,0,0,0,sms_short
+MSG-020574,redteam,SMS,Pine Creek,0,0.021427,0,0,0,sms_short
+MSG-020607,redteam,Email,Borroloola,0,0.000514,0,0,0,sms_short
+MSG-020632,redteam,Email,,0,0.000418,0,0,0,sms_short
+MSG-020644,redteam,SMS,Numbulwar,0,0.017442,0,0,0,sms_short
+MSG-020646,redteam,Web form,,0,0.000266,0,0,0,formal_residual
+MSG-020657,redteam,Email,Lajamanu,0,0.000257,0,0,0,formal_residual
+MSG-021356,redteam,Email,Pine Creek,0,0.000754,0,0,0,formal_residual
+MSG-020661,redteam,Email,Numbulwar,0,0.000523,0,0,0,sms_short
+MSG-020672,redteam,Email,Nauiyu,0,0.000406,0,0,0,sms_short
+MSG-020693,redteam,Email,Katherine,0,0.000788,0,0,0,formal_residual
+MSG-020746,redteam,SMS,Gunbalanya,0,0.007615,0,0,0,sms_short
+MSG-020747,redteam,Email,Darwin,0,0.000318,0,0,0,sms_short
+MSG-020762,redteam,SMS,Adelaide River,0,0.006527,0,0,0,sms_short
+MSG-020766,redteam,SMS,Ramingining,0,0.001191,0,0,0,sms_short
+MSG-020782,redteam,Phone,,1,0.99961,1,1,1,formal_residual
+MSG-020786,redteam,SMS,Yirrkala,0,0.038245,0,0,0,sms_short
+MSG-020796,redteam,SMS,Ntaria,0,0.00773,0,0,0,sms_short
+MSG-020814,redteam,Email,Nhulunbuy,0,0.00043,0,0,0,sms_short
+MSG-020823,redteam,Email,Darwin,0,0.000418,0,0,0,sms_short
+MSG-020837,redteam,Email,Numbulwar,0,0.00824,0,0,0,sms_short
+MSG-020872,redteam,Email,Yirrkala,0,0.001348,0,0,0,formal_residual
+MSG-020879,redteam,Web form,Gunbalanya,0,3.2e-05,0,0,0,sms_short
+MSG-020887,redteam,Email,Borroloola,0,0.001081,0,0,0,formal_residual
+MSG-021182,redteam,Facebook,Ngukurr,0,0.004806,0,0,0,formal_residual
+MSG-020888,redteam,Email,Santa Teresa,0,6.2e-05,0,0,0,sms_short
+MSG-020914,redteam,Facebook,Ntaria,0,0.001769,0,0,0,formal_residual
+MSG-020921,redteam,Email,Yirrkala,0,0.003343,0,0,0,formal_residual
+MSG-020944,redteam,Email,Darwin,0,0.00051,0,0,0,sms_short
+MSG-020956,redteam,Email,Yuendumu,1,0.999793,1,0,1,formal_residual
+MSG-020979,redteam,Email,Nhulunbuy,0,0.000434,0,0,0,sms_short
+MSG-020990,redteam,Email,Palmerston,0,0.000404,0,0,0,sms_short
+MSG-020992,redteam,Email,Humpty Doo,0,0.000416,0,0,0,sms_short
+MSG-021005,redteam,Phone,Tennant Creek,0,0.007732,0,0,0,formal_residual
+MSG-021114,redteam,Facebook,Howard Springs,0,0.001448,0,0,0,formal_residual
+MSG-021122,redteam,Facebook,Elliott,0,0.001397,0,0,0,formal_residual
+MSG-021131,redteam,Web form,Humpty Doo,0,0.000655,0,0,0,sms_short
+MSG-021140,redteam,Email,Gunbalanya,0,0.000125,0,0,0,sms_short
+MSG-021143,redteam,SMS,Gunbalanya,0,0.007769,0,0,0,sms_short
+MSG-021155,redteam,SMS,Ali Curung,0,0.005686,0,0,0,sms_short
+MSG-021201,redteam,Email,,0,0.000502,0,0,0,sms_short
+MSG-021202,redteam,Email,Howard Springs,0,0.000343,0,0,0,sms_short
+MSG-021223,redteam,Email,Darwin,0,0.001343,0,0,0,sms_short
+MSG-021230,redteam,Web form,Yirrkala,0,0.000288,0,0,0,sms_short
+MSG-021244,redteam,Email,Pine Creek,0,0.000108,0,0,0,sms_short
+MSG-021247,redteam,Web form,Howard Springs,0,0.001942,0,0,0,sms_short
+MSG-021260,redteam,SMS,Katherine,0,0.042595,0,0,0,sms_short
+MSG-021267,redteam,Phone,Ali Curung,0,0.006928,0,0,0,formal_residual
+MSG-021334,redteam,Facebook,Pine Creek,0,8.3e-05,0,0,0,sms_short
+MSG-021375,redteam,Email,Ngukurr,0,6.3e-05,0,0,0,sms_short
+MSG-021378,redteam,SMS,Elliott,0,0.00553,0,0,0,sms_short
+MSG-021383,redteam,Email,Ramingining,0,2.2e-05,0,0,0,sms_short
+MSG-021392,redteam,Email,,0,5.1e-05,0,0,0,sms_short
+MSG-021410,redteam,Facebook,Howard Springs,0,0.001273,0,0,0,formal_residual
+MSG-021414,redteam,Email,Galiwin'ku,0,0.0008,0,0,0,formal_residual
+MSG-021415,redteam,Email,Papunya,0,0.000576,0,0,0,formal_residual
+MSG-021423,redteam,Email,Elliott,0,9.4e-05,0,0,0,sms_short
+MSG-021434,redteam,Web form,Ali Curung,0,0.000827,0,0,0,formal_residual
+MSG-022162,redteam,Email,Galiwin'ku,0,0.000531,0,0,0,formal_residual
+MSG-021441,redteam,Email,Tennant Creek,0,2.1e-05,0,0,0,sms_short
+MSG-021458,redteam,Email,Batchelor,0,0.000537,0,0,0,formal_residual
+MSG-021479,redteam,SMS,Yirrkala,0,0.000895,0,0,0,sms_short
+MSG-021481,redteam,SMS,Santa Teresa,0,0.032233,0,0,0,sms_short
+MSG-021989,redteam,Email,Darwin,0,0.006568,0,0,0,formal_residual
+MSG-021497,redteam,SMS,Numbulwar,0,0.008925,0,0,0,sms_short
+MSG-021520,redteam,Web form,,0,0.001474,0,0,0,formal_residual
+MSG-021536,redteam,Web form,Yuendumu,0,0.000305,0,0,0,formal_residual
+MSG-021547,redteam,Email,Pine Creek,0,0.000729,0,0,0,formal_residual
+MSG-022136,redteam,Web form,Howard Springs,0,0.001979,0,0,0,formal_residual
+MSG-021589,redteam,Email,Ramingining,0,0.000422,0,0,0,sms_short
+MSG-021609,redteam,SMS,Yirrkala,0,0.005344,0,0,0,sms_short
+MSG-021685,redteam,SMS,Ramingining,0,0.061874,0,0,0,sms_short
+MSG-021715,redteam,SMS,Galiwin'ku,0,0.0785,0,0,0,sms_short
+MSG-021721,redteam,Facebook,Gunbalanya,0,0.000435,0,0,0,sms_short
+MSG-021730,redteam,Email,Nauiyu,0,0.000353,0,0,0,sms_short
+MSG-021749,redteam,Web form,Ngukurr,0,0.002055,0,0,0,formal_residual
+MSG-021921,redteam,Facebook,Katherine,0,0.00484,0,0,0,formal_residual
+MSG-021791,redteam,Email,Katherine,0,0.001017,0,0,0,formal_residual
+MSG-021819,redteam,Facebook,Santa Teresa,0,0.00015,0,0,0,formal_residual
+MSG-021825,redteam,Phone,Maningrida,0,0.001926,0,0,0,formal_residual
+MSG-021830,redteam,Web form,,0,0.001323,0,0,0,formal_residual
+MSG-022827,redteam,Email,Wadeye,0,0.014182,0,0,0,formal_residual
+MSG-021831,redteam,Web form,Borroloola,0,9.3e-05,0,0,0,sms_short
+MSG-021834,redteam,Phone,Batchelor,0,0.000882,0,0,0,formal_residual
+MSG-021852,redteam,Phone,Humpty Doo,0,0.000934,0,0,0,formal_residual
+MSG-021866,redteam,SMS,Palmerston,0,0.006804,0,0,0,sms_short
+MSG-021867,redteam,SMS,Adelaide River,0,0.029179,0,0,0,sms_short
+MSG-021879,redteam,Web form,Lajamanu,0,0.000742,0,0,0,sms_short
+MSG-021886,redteam,Email,Elliott,0,0.000397,0,0,0,sms_short
+MSG-021889,redteam,Web form,Lajamanu,0,0.000642,0,0,0,sms_short
+MSG-021894,redteam,Email,Ramingining,0,5.6e-05,0,0,0,sms_short
+MSG-021900,redteam,Phone,Wadeye,0,0.001384,0,0,0,formal_residual
+MSG-021903,redteam,Email,Santa Teresa,0,2e-05,0,0,0,sms_short
+MSG-021946,redteam,Email,Ali Curung,0,0.000319,0,0,0,sms_short
+MSG-021966,redteam,SMS,Gunbalanya,0,0.009573,0,0,0,sms_short
+MSG-022074,redteam,Email,,0,0.000258,0,0,0,formal_residual
+MSG-021968,redteam,SMS,Maningrida,0,0.007661,0,0,0,sms_short
+MSG-021981,redteam,Email,Gunbalanya,0,0.000366,0,0,0,sms_short
+MSG-021984,redteam,Email,Galiwin'ku,0,0.004425,0,0,0,formal_residual
+MSG-022005,redteam,Email,Ramingining,0,0.002175,0,0,0,sms_short
+MSG-022052,redteam,Email,Elliott,0,0.000335,0,0,0,sms_short
+MSG-022075,redteam,Web form,Pine Creek,0,0.000458,0,0,0,sms_short
+MSG-022092,redteam,Web form,Wadeye,0,0.000493,0,0,0,sms_short
+MSG-022100,redteam,Facebook,Gunbalanya,0,0.000941,0,0,0,sms_short
+MSG-022106,redteam,SMS,Alice Springs,0,0.006165,0,0,0,sms_short
+MSG-022146,redteam,Email,Papunya,0,0.000514,0,0,0,sms_short
+MSG-022176,redteam,Email,Ramingining,0,6.8e-05,0,0,0,sms_short
+MSG-022181,redteam,Email,Batchelor,0,0.000991,0,0,0,sms_short
+MSG-022184,redteam,SMS,Nauiyu,0,0.013126,0,0,0,sms_short
+MSG-022185,redteam,Email,Ramingining,0,6.2e-05,0,0,0,sms_short
+MSG-022201,redteam,Email,Galiwin'ku,0,0.000505,0,0,0,formal_residual
+MSG-022218,redteam,Facebook,Borroloola,0,0.001473,0,0,0,sms_short
+MSG-022229,redteam,Email,Ramingining,0,0.000358,0,0,0,sms_short
+MSG-022283,redteam,Email,,0,0.003083,0,0,0,formal_residual
+MSG-022324,redteam,Email,Alice Springs,0,5.8e-05,0,0,0,sms_short
+MSG-022340,redteam,Email,Yirrkala,0,6.6e-05,0,0,0,sms_short
+MSG-022368,redteam,Phone,Borroloola,0,0.003024,0,0,0,formal_residual
+MSG-022369,redteam,SMS,Adelaide River,0,0.013409,0,0,0,sms_short
+MSG-022410,redteam,Email,Wadeye,0,0.000335,0,0,0,sms_short
+MSG-022412,redteam,Email,Numbulwar,0,0.001689,0,0,0,formal_residual
+MSG-022417,redteam,Email,Batchelor,0,0.000334,0,0,0,formal_residual
+MSG-022418,redteam,Phone,Ali Curung,0,4.7e-05,0,0,0,formal_residual
+MSG-022442,redteam,Email,Lajamanu,0,0.003597,0,0,0,formal_residual
+MSG-022448,redteam,Facebook,Ntaria,0,0.002288,0,0,0,sms_short
+MSG-022471,redteam,Email,Nauiyu,0,0.000369,0,0,0,sms_short
+MSG-022496,redteam,Facebook,Howard Springs,0,0.001672,0,0,0,formal_residual
+MSG-022508,redteam,Email,Nhulunbuy,0,6.1e-05,0,0,0,sms_short
+MSG-022515,redteam,Email,Yirrkala,0,0.000374,0,0,0,sms_short
+MSG-022535,redteam,Email,Wadeye,0,0.000493,0,0,0,sms_short
+MSG-022541,redteam,Facebook,Tennant Creek,0,0.000982,0,0,0,formal_residual
+MSG-022544,redteam,Email,Palmerston,0,0.001331,0,0,0,sms_short
+MSG-022554,redteam,SMS,Batchelor,0,0.009171,0,0,0,sms_short
+MSG-022565,redteam,Email,Katherine,0,0.000843,0,0,0,formal_residual
+MSG-022572,redteam,Web form,Yuendumu,0,0.000776,0,0,0,formal_residual
+MSG-022573,redteam,SMS,Yuendumu,0,0.021227,0,0,0,sms_short
+MSG-022596,redteam,SMS,Wadeye,0,0.021371,0,0,0,sms_short
+MSG-022617,redteam,Web form,Pine Creek,0,0.000673,0,0,0,sms_short
+MSG-022620,redteam,Email,Yirrkala,0,0.006566,0,0,0,sms_short
+MSG-022630,redteam,Email,Papunya,0,0.000492,0,0,0,sms_short
+MSG-022654,redteam,Email,Katherine,0,0.000879,0,0,0,formal_residual
+MSG-022662,redteam,Web form,Santa Teresa,0,0.000625,0,0,0,sms_short
+MSG-022664,redteam,Email,Wadeye,0,5.7e-05,0,0,0,sms_short
+MSG-022679,redteam,Web form,Batchelor,0,0.000217,0,0,0,formal_residual
+MSG-022752,redteam,Web form,Yuendumu,1,0.999627,1,1,1,formal_residual
+MSG-022697,redteam,Email,Gunbalanya,0,0.001534,0,0,0,sms_short
+MSG-022712,redteam,Phone,Nhulunbuy,0,0.001485,0,0,0,formal_residual
+MSG-022714,redteam,Phone,Ali Curung,0,0.001382,0,0,0,formal_residual
+MSG-022756,redteam,Email,Wadeye,0,4.4e-05,0,0,0,formal_residual
+MSG-022761,redteam,Email,Howard Springs,0,6.4e-05,0,0,0,sms_short
+MSG-022768,redteam,Phone,Ramingining,0,0.001286,0,0,0,formal_residual
+MSG-022770,redteam,Email,Borroloola,0,0.00119,0,0,0,formal_residual
+MSG-022919,redteam,Email,Wadeye,0,0.001502,0,0,0,formal_residual
+MSG-022793,redteam,Web form,Ngukurr,0,3.7e-05,0,0,0,sms_short
+MSG-022798,redteam,SMS,Ngukurr,0,0.020796,0,0,0,sms_short
+MSG-022899,redteam,Email,Gunbalanya,0,0.002875,0,0,0,formal_residual
+MSG-022937,redteam,Email,Howard Springs,0,0.0004,0,0,0,sms_short
+MSG-022960,redteam,SMS,Galiwin'ku,0,0.006909,0,0,0,sms_short
+MSG-022980,redteam,Facebook,Lajamanu,0,0.000109,0,0,0,sms_short
+MSG-022996,redteam,SMS,Papunya,1,0.998934,1,0,1,sms_short
+MSG-023474,redteam,Facebook,Wadeye,0,0.001074,0,0,0,formal_residual
+MSG-023529,redteam,Web form,Pine Creek,0,0.001704,0,0,0,formal_residual
+MSG-022998,redteam,SMS,Katherine,0,0.00515,0,0,0,sms_short
+MSG-023004,redteam,Email,Katherine,0,2.2e-05,0,0,0,sms_short
+MSG-023019,redteam,Facebook,Ramingining,0,0.000108,0,0,0,sms_short
+MSG-023038,redteam,Email,Gunbalanya,1,0.999958,1,0,1,formal_residual
+MSG-023123,redteam,Email,Ramingining,0,0.001219,0,0,0,sms_short
+MSG-023162,redteam,Email,Maningrida,0,0.000355,0,0,0,sms_short
+MSG-023171,redteam,Email,Numbulwar,0,0.001695,0,0,0,sms_short
+MSG-023200,redteam,Email,Nauiyu,0,0.003629,0,0,0,formal_residual
+MSG-023201,redteam,Email,Pine Creek,0,0.004775,0,0,0,sms_short
+MSG-023222,redteam,Email,Gunbalanya,0,0.001341,0,0,0,sms_short
+MSG-023237,redteam,Facebook,Ramingining,0,0.001157,0,0,0,formal_residual
+MSG-023246,redteam,Email,,0,2.5e-05,0,0,0,sms_short
+MSG-023254,redteam,Email,Nhulunbuy,0,0.000528,0,0,0,formal_residual
+MSG-023258,redteam,Email,Galiwin'ku,0,0.000342,0,0,0,sms_short
+MSG-023315,redteam,Web form,Elliott,0,0.000699,0,0,0,sms_short
+MSG-023335,redteam,Web form,Alice Springs,0,0.001163,0,0,0,formal_residual
+MSG-023336,redteam,SMS,Katherine,0,0.000784,0,0,0,sms_short
+MSG-023374,redteam,Email,Darwin,0,0.000917,0,0,0,formal_residual
+MSG-023377,redteam,Web form,Katherine,0,0.002379,0,0,0,sms_short
+MSG-023384,redteam,Email,Ntaria,0,0.000569,0,0,0,formal_residual
+MSG-023385,redteam,Email,Palmerston,0,0.000622,0,0,0,formal_residual
+MSG-023393,redteam,Email,Humpty Doo,0,5.2e-05,0,0,0,sms_short
+MSG-023408,redteam,Phone,Nauiyu,0,0.001814,0,0,0,formal_residual
+MSG-023419,redteam,Web form,Elliott,0,0.008084,0,0,0,sms_short
+MSG-023424,redteam,SMS,Yuendumu,0,0.005956,0,0,0,sms_short
+MSG-023430,redteam,Web form,,0,0.000794,0,0,0,formal_residual
+MSG-023432,redteam,Email,Ngukurr,0,0.0005,0,0,0,sms_short
+MSG-023435,redteam,Web form,Numbulwar,0,0.001224,0,0,0,formal_residual
+MSG-023436,redteam,Email,Nhulunbuy,0,0.000588,0,0,0,formal_residual
+MSG-023470,redteam,SMS,Nauiyu,0,0.01475,0,0,0,sms_short
+MSG-023484,redteam,Email,Ramingining,0,0.001122,0,0,0,sms_short
+MSG-023502,redteam,Facebook,Ntaria,0,0.000678,0,0,0,sms_short
+MSG-023526,redteam,Email,Palmerston,0,0.000349,0,0,0,sms_short
+MSG-023536,redteam,SMS,Borroloola,0,0.080003,0,0,0,sms_short
+MSG-023545,redteam,Email,Yirrkala,0,0.000116,0,0,0,sms_short
+MSG-023620,redteam,Email,Elliott,0,0.00012,0,0,0,sms_short
+MSG-023636,redteam,Phone,Ntaria,0,0.000746,0,0,0,formal_residual
+MSG-023653,redteam,Email,Borroloola,0,0.000941,0,0,0,formal_residual
+MSG-023670,redteam,Web form,Ngukurr,0,0.000362,0,0,0,sms_short
+MSG-023681,redteam,Email,Numbulwar,0,0.000333,0,0,0,sms_short
+MSG-023683,redteam,Web form,Ntaria,0,0.000162,0,0,0,sms_short
+MSG-023697,redteam,Email,Numbulwar,0,0.00561,0,0,0,sms_short
+MSG-023701,redteam,SMS,Batchelor,0,0.001902,0,0,0,sms_short
+MSG-023706,redteam,SMS,Numbulwar,0,0.015392,0,0,0,sms_short
+MSG-023728,redteam,Email,Yirrkala,0,0.000337,0,0,0,sms_short
+MSG-023753,redteam,Email,Lajamanu,0,0.000534,0,0,0,sms_short
+MSG-023754,redteam,SMS,,0,0.023385,0,0,0,sms_short
+MSG-023758,redteam,SMS,Howard Springs,0,0.0086,0,0,0,sms_short
+MSG-023783,redteam,Email,,0,0.0014,0,0,0,sms_short
+MSG-023785,redteam,Email,Ramingining,0,0.000858,0,0,0,formal_residual
+MSG-023796,redteam,SMS,Maningrida,0,0.001296,0,0,0,sms_short
+MSG-023865,redteam,Email,Numbulwar,0,0.000287,0,0,0,formal_residual
+MSG-023889,redteam,Web form,Ali Curung,0,0.000544,0,0,0,sms_short
+MSG-023893,redteam,Email,Galiwin'ku,0,0.00057,0,0,0,sms_short
+MSG-023897,redteam,Facebook,Santa Teresa,0,0.006149,0,0,0,formal_residual
+MSG-023898,redteam,Facebook,Ramingining,0,0.001454,0,0,0,sms_short
+MSG-023947,redteam,Email,Howard Springs,0,0.000511,0,0,0,formal_residual
+MSG-023978,redteam,Email,Numbulwar,0,0.005121,0,0,0,formal_residual
+MSG-024607,redteam,SMS,Ngukurr,0,0.027638,0,0,0,sms_short
+MSG-023990,redteam,Email,Nhulunbuy,0,0.000308,0,0,0,sms_short
+MSG-023995,redteam,Web form,Tennant Creek,0,0.002315,0,0,0,sms_short
+MSG-024002,redteam,Email,Borroloola,0,6.1e-05,0,0,0,sms_short
+MSG-024022,redteam,Email,Gunbalanya,0,0.004143,0,0,0,formal_residual
+MSG-024035,redteam,Facebook,Alice Springs,0,0.000131,0,0,0,formal_residual
+MSG-024290,redteam,Email,Nhulunbuy,0,7.1e-05,0,0,0,formal_residual
+MSG-024038,redteam,Facebook,Numbulwar,0,0.000201,0,0,0,sms_short
+MSG-024083,redteam,SMS,Nhulunbuy,0,0.025231,0,0,0,sms_short
+MSG-024100,redteam,SMS,Gunbalanya,0,0.072323,0,0,0,sms_short
+MSG-024109,redteam,SMS,Nhulunbuy,0,0.013726,0,0,0,sms_short
+MSG-024124,redteam,SMS,Papunya,0,0.008568,0,0,0,sms_short
+MSG-024130,redteam,SMS,Howard Springs,0,0.010183,0,0,0,sms_short
+MSG-024760,redteam,Email,Numbulwar,0,0.000168,0,0,0,formal_residual
+MSG-024141,redteam,SMS,Ramingining,0,0.015367,0,0,0,sms_short
+MSG-024158,redteam,Email,Nhulunbuy,0,0.000473,0,0,0,sms_short
+MSG-024176,redteam,SMS,Adelaide River,0,0.025063,0,0,0,sms_short
+MSG-024201,redteam,Web form,Lajamanu,0,0.000964,0,0,0,formal_residual
+MSG-024229,redteam,Email,Papunya,0,0.001538,0,0,0,sms_short
+MSG-024240,redteam,Web form,Ramingining,0,0.000692,0,0,0,sms_short
+MSG-024267,redteam,Email,Tennant Creek,0,5.6e-05,0,0,0,sms_short
+MSG-024268,redteam,Email,Nhulunbuy,0,0.000462,0,0,0,sms_short
+MSG-024328,redteam,SMS,Elliott,0,0.004364,0,0,0,sms_short
+MSG-024329,redteam,Email,Elliott,0,0.00057,0,0,0,sms_short
+MSG-024331,redteam,Email,Howard Springs,0,0.002769,0,0,0,formal_residual
+MSG-024368,redteam,SMS,Numbulwar,0,0.005704,0,0,0,sms_short
+MSG-024377,redteam,Phone,Nauiyu,0,0.000219,0,0,0,formal_residual
+MSG-024388,redteam,Email,Galiwin'ku,0,0.000523,0,0,0,formal_residual
+MSG-024440,redteam,Email,Darwin,0,0.000223,0,0,0,sms_short
+MSG-024465,redteam,Email,Ngukurr,0,0.00042,0,0,0,sms_short
+MSG-024486,redteam,Email,Yirrkala,0,0.000153,0,0,0,sms_short
+MSG-024502,redteam,Email,Papunya,0,0.005577,0,0,0,sms_short
+MSG-024525,redteam,SMS,Papunya,0,0.006895,0,0,0,sms_short
+MSG-024530,redteam,Email,Gunbalanya,0,0.000433,0,0,0,sms_short
+MSG-024539,redteam,Email,Papunya,0,0.000419,0,0,0,sms_short
+MSG-024566,redteam,SMS,Wadeye,0,0.001169,0,0,0,sms_short
+MSG-024586,redteam,Email,Nauiyu,0,0.000139,0,0,0,formal_residual
+MSG-024589,redteam,Email,Gunbalanya,0,0.00023,0,0,0,sms_short
+MSG-024599,redteam,SMS,Humpty Doo,0,0.007294,0,0,0,sms_short
+MSG-024602,redteam,Email,Wadeye,0,0.000646,0,0,0,formal_residual
+MSG-025691,redteam,Email,Santa Teresa,0,0.001392,0,0,0,formal_residual
+MSG-024690,redteam,Email,Humpty Doo,0,4.6e-05,0,0,0,sms_short
+MSG-024699,redteam,SMS,Pine Creek,0,0.009348,0,0,0,sms_short
+MSG-024726,redteam,SMS,Numbulwar,0,0.018801,0,0,0,sms_short
+MSG-024732,redteam,Phone,Papunya,0,0.001311,0,0,0,formal_residual
+MSG-024737,redteam,Phone,Borroloola,0,0.000357,0,0,0,formal_residual
+MSG-024757,redteam,Phone,Nauiyu,0,0.001198,0,0,0,formal_residual
+MSG-024769,redteam,Email,Darwin,0,6.6e-05,0,0,0,sms_short
+MSG-024774,redteam,SMS,Wadeye,0,0.006104,0,0,0,sms_short
+MSG-024802,redteam,Email,,0,0.000481,0,0,0,sms_short
+MSG-024841,redteam,Web form,Wadeye,0,0.000588,0,0,0,sms_short
+MSG-024842,redteam,Facebook,Humpty Doo,0,0.00236,0,0,0,sms_short
+MSG-024851,redteam,Web form,Adelaide River,0,0.000211,0,0,0,sms_short
+MSG-024855,redteam,Email,Katherine,0,0.000338,0,0,0,sms_short
+MSG-024876,redteam,Email,Gunbalanya,0,0.00036,0,0,0,sms_short
+MSG-024895,redteam,Email,Santa Teresa,0,0.000919,0,0,0,formal_residual
+MSG-024919,redteam,SMS,Ramingining,0,0.014342,0,0,0,sms_short
+MSG-024957,redteam,Email,Batchelor,0,0.001609,0,0,0,sms_short
+MSG-024960,redteam,Email,,0,0.000499,0,0,0,sms_short
+MSG-024974,redteam,Email,,0,0.000429,0,0,0,sms_short
+MSG-024982,redteam,SMS,Ngukurr,0,0.002981,0,0,0,sms_short
+MSG-025007,redteam,SMS,Ramingining,0,0.017827,0,0,0,sms_short
+MSG-025027,redteam,Web form,Batchelor,0,0.000205,0,0,0,sms_short
+MSG-025029,redteam,Facebook,Borroloola,0,0.002577,0,0,0,formal_residual
+MSG-025039,redteam,Web form,Tennant Creek,0,0.003693,0,0,0,formal_residual
+MSG-025051,redteam,Email,Santa Teresa,0,0.00036,0,0,0,sms_short
+MSG-025077,redteam,Email,Gunbalanya,0,6.6e-05,0,0,0,sms_short
+MSG-025084,redteam,Phone,Lajamanu,0,0.003125,0,0,0,formal_residual
+MSG-025087,redteam,Email,Ntaria,0,0.00044,0,0,0,sms_short
+MSG-025097,redteam,Email,Nhulunbuy,0,0.004342,0,0,0,sms_short
+MSG-025101,redteam,SMS,Papunya,0,0.008437,0,0,0,sms_short
+MSG-025129,redteam,Web form,Alice Springs,0,0.000478,0,0,0,sms_short
+MSG-025137,redteam,SMS,Ntaria,0,0.007108,0,0,0,sms_short
+MSG-025140,redteam,Email,Wadeye,0,0.000728,0,0,0,formal_residual
+MSG-025372,redteam,Phone,Ntaria,0,0.006821,0,0,0,formal_residual
+MSG-025142,redteam,Web form,Alice Springs,0,0.004544,0,0,0,formal_residual
+MSG-025150,redteam,SMS,Pine Creek,1,0.999178,1,0,1,sms_short
+MSG-025268,redteam,Facebook,Ali Curung,0,0.001362,0,0,0,formal_residual
+MSG-025152,redteam,Email,Nauiyu,0,5e-05,0,0,0,sms_short
+MSG-025197,redteam,SMS,Galiwin'ku,0,0.024425,0,0,0,sms_short
+MSG-025200,redteam,Web form,Katherine,0,0.038964,0,0,0,formal_residual
+MSG-025247,redteam,SMS,Alice Springs,0,0.000386,0,0,0,sms_short
+MSG-025265,redteam,Email,Ali Curung,0,0.000628,0,0,0,formal_residual
+MSG-025278,redteam,Email,Pine Creek,0,0.000557,0,0,0,formal_residual
+MSG-025346,redteam,Email,Ali Curung,0,0.001086,0,0,0,formal_residual
+MSG-026207,redteam,Phone,Ali Curung,0,0.000793,0,0,0,formal_residual
+MSG-025366,redteam,SMS,Borroloola,0,0.007237,0,0,0,sms_short
+MSG-025370,redteam,Facebook,Tennant Creek,0,0.000777,0,0,0,formal_residual
+MSG-025377,redteam,Web form,Ngukurr,0,8.2e-05,0,0,0,sms_short
+MSG-025380,redteam,Email,Ali Curung,0,0.00034,0,0,0,sms_short
+MSG-025396,redteam,SMS,Maningrida,0,0.007817,0,0,0,sms_short
+MSG-025398,redteam,Email,Galiwin'ku,0,0.000134,0,0,0,formal_residual
+MSG-025414,redteam,SMS,Tennant Creek,0,0.319605,0,0,0,sms_short
+MSG-025553,redteam,SMS,Katherine,0,0.073532,0,0,0,sms_short
+MSG-025831,redteam,Facebook,Palmerston,0,0.000542,0,0,0,formal_residual
+MSG-026090,redteam,Facebook,Katherine,0,0.001516,0,0,0,formal_residual
+MSG-025415,redteam,Web form,Papunya,0,0.000588,0,0,0,sms_short
+MSG-025431,redteam,Facebook,Palmerston,0,0.00087,0,0,0,formal_residual
+MSG-025453,redteam,Email,Darwin,0,0.000166,0,0,0,formal_residual
+MSG-025787,redteam,SMS,Darwin,0,0.016824,0,0,0,sms_short
+MSG-025463,redteam,SMS,Katherine,0,0.004994,0,0,0,sms_short
+MSG-025464,redteam,Phone,Yuendumu,0,0.001459,0,0,0,formal_residual
+MSG-025472,redteam,Facebook,Yuendumu,0,0.000542,0,0,0,sms_short
+MSG-025481,redteam,Email,Ngukurr,0,0.001136,0,0,0,formal_residual
+MSG-025497,redteam,Email,Gunbalanya,0,0.000164,0,0,0,sms_short
+MSG-025542,redteam,SMS,Ramingining,0,0.00708,0,0,0,sms_short
+MSG-025546,redteam,Web form,Adelaide River,0,0.000242,0,0,0,sms_short
+MSG-025547,redteam,Email,Batchelor,0,0.000918,0,0,0,formal_residual
+MSG-025567,redteam,Email,Ntaria,0,0.000305,0,0,0,sms_short
+MSG-025568,redteam,SMS,Numbulwar,0,0.010611,0,0,0,sms_short
+MSG-026578,redteam,SMS,Papunya,0,0.018562,0,0,0,sms_short
+MSG-025569,redteam,Email,Adelaide River,0,0.000428,0,0,0,sms_short
+MSG-025606,redteam,Email,Ngukurr,0,0.000513,0,0,0,formal_residual
+MSG-025645,redteam,Web form,Nauiyu,0,0.000105,0,0,0,sms_short
+MSG-025649,redteam,Phone,Palmerston,0,0.00125,0,0,0,formal_residual
+MSG-025659,redteam,Web form,Galiwin'ku,0,0.0001,0,0,0,sms_short
+MSG-025695,redteam,SMS,Howard Springs,0,0.04224,0,0,0,sms_short
+MSG-025701,redteam,Email,Elliott,0,0.000464,0,0,0,formal_residual
+MSG-025774,redteam,Email,Santa Teresa,0,0.000782,0,0,0,formal_residual
+MSG-025704,redteam,Email,Nauiyu,0,0.012183,0,0,0,formal_residual
+MSG-025711,redteam,Email,Maningrida,0,6.9e-05,0,0,0,sms_short
+MSG-025731,redteam,Email,Elliott,0,0.000482,0,0,0,sms_short
+MSG-025750,redteam,Email,Ntaria,0,0.000538,0,0,0,sms_short
+MSG-025755,redteam,SMS,Darwin,0,0.004508,0,0,0,sms_short
+MSG-025759,redteam,Email,Wadeye,0,0.000562,0,0,0,sms_short
+MSG-025785,redteam,Email,Tennant Creek,1,0.999915,1,0,1,formal_residual
+MSG-025802,redteam,Email,Ngukurr,0,0.001336,0,0,0,sms_short
+MSG-025803,redteam,Facebook,Tennant Creek,1,0.99997,1,0,1,formal_residual
+MSG-025826,redteam,Email,Palmerston,0,0.000334,0,0,0,sms_short
+MSG-025837,redteam,Email,Yuendumu,0,0.000419,0,0,0,sms_short
+MSG-025846,redteam,SMS,Ntaria,0,0.001779,0,0,0,sms_short
+MSG-025857,redteam,Email,,0,0.000481,0,0,0,sms_short
+MSG-025912,redteam,Email,Borroloola,0,0.000441,0,0,0,sms_short
+MSG-025945,redteam,Email,Nhulunbuy,0,2e-05,0,0,0,sms_short
+MSG-025948,redteam,Phone,Pine Creek,0,0.000823,0,0,0,formal_residual
+MSG-025960,redteam,Email,Palmerston,0,0.000367,0,0,0,sms_short
+MSG-025963,redteam,Phone,Pine Creek,0,0.005223,0,0,0,formal_residual
+MSG-025979,redteam,Email,,0,0.000469,0,0,0,sms_short
+MSG-025981,redteam,Email,,0,0.000346,0,0,0,sms_short
+MSG-025982,redteam,Web form,Gunbalanya,0,0.000595,0,0,0,sms_short
+MSG-025990,redteam,SMS,Tennant Creek,0,0.014458,0,0,0,sms_short
+MSG-026008,redteam,Web form,Nhulunbuy,0,0.004414,0,0,0,formal_residual
+MSG-026009,redteam,SMS,Nhulunbuy,0,0.000953,0,0,0,sms_short
+MSG-026027,redteam,Email,Papunya,0,0.000483,0,0,0,sms_short
+MSG-026033,redteam,Email,Ali Curung,0,0.000131,0,0,0,sms_short
+MSG-026069,redteam,SMS,Maningrida,0,0.004898,0,0,0,sms_short
+MSG-026114,redteam,Email,Batchelor,0,0.00033,0,0,0,sms_short
+MSG-026141,redteam,Web form,Maningrida,0,8.8e-05,0,0,0,sms_short
+MSG-026146,redteam,SMS,Adelaide River,0,0.001137,0,0,0,sms_short
+MSG-026171,redteam,Email,Yirrkala,0,0.001223,0,0,0,formal_residual
+MSG-026195,redteam,Phone,Batchelor,0,0.000929,0,0,0,formal_residual
+MSG-026205,redteam,Web form,Humpty Doo,0,9.4e-05,0,0,0,sms_short
+MSG-026209,redteam,Web form,Galiwin'ku,0,0.000237,0,0,0,formal_residual
+MSG-026234,redteam,Email,Alice Springs,0,0.000461,0,0,0,sms_short
+MSG-026242,redteam,Facebook,Wadeye,0,0.000526,0,0,0,sms_short
+MSG-026246,redteam,Email,Wadeye,0,0.000484,0,0,0,sms_short
+MSG-026265,redteam,Email,Tennant Creek,0,0.001557,0,0,0,formal_residual
+MSG-026272,redteam,Facebook,Maningrida,0,0.001431,0,0,0,formal_residual
+MSG-026298,redteam,Email,Santa Teresa,0,0.000112,0,0,0,sms_short
+MSG-026314,redteam,SMS,Tennant Creek,0,0.043435,0,0,0,sms_short
+MSG-026818,redteam,SMS,,0,0.010713,0,0,0,sms_short
+MSG-026332,redteam,SMS,Howard Springs,0,0.018851,0,0,0,sms_short
+MSG-026336,redteam,Email,Nauiyu,0,0.000422,0,0,0,sms_short
+MSG-026355,redteam,Web form,Batchelor,0,0.001574,0,0,0,formal_residual
+MSG-026366,redteam,Web form,Katherine,0,8.1e-05,0,0,0,sms_short
+MSG-026367,redteam,Facebook,Numbulwar,0,0.000719,0,0,0,sms_short
+MSG-026384,redteam,Email,Galiwin'ku,0,0.000474,0,0,0,sms_short
+MSG-026388,redteam,Email,Numbulwar,0,0.000769,0,0,0,formal_residual
+MSG-027432,redteam,SMS,Alice Springs,0,0.146732,0,0,0,sms_short
+MSG-026403,redteam,Email,Tennant Creek,1,0.99505,1,0,1,polite_indirect
+MSG-026405,redteam,Facebook,Ramingining,0,0.000663,0,0,0,sms_short
+MSG-026408,redteam,Email,Nhulunbuy,1,0.999975,1,0,1,formal_residual
+MSG-026424,redteam,Email,Lajamanu,0,5.8e-05,0,0,0,sms_short
+MSG-026437,redteam,Email,Galiwin'ku,0,0.000757,0,0,0,formal_residual
+MSG-026440,redteam,SMS,Palmerston,0,0.056769,0,0,0,sms_short
+MSG-026451,redteam,Email,,0,0.000358,0,0,0,sms_short
+MSG-026455,redteam,Email,Maningrida,0,6e-05,0,0,0,sms_short
+MSG-026472,redteam,Email,Batchelor,0,2.5e-05,0,0,0,sms_short
+MSG-026520,redteam,SMS,Katherine,0,0.019797,0,0,0,sms_short
+MSG-026533,redteam,SMS,Batchelor,0,0.009123,0,0,0,sms_short
+MSG-026539,redteam,SMS,Santa Teresa,0,0.005303,0,0,0,sms_short
+MSG-026565,redteam,SMS,Nhulunbuy,0,0.006233,0,0,0,sms_short
+MSG-026567,redteam,SMS,Numbulwar,0,0.00101,0,0,0,sms_short
+MSG-026568,redteam,Email,Maningrida,0,0.00329,0,0,0,formal_residual
+MSG-026571,redteam,Phone,Gunbalanya,0,0.002287,0,0,0,formal_residual
+MSG-026573,redteam,SMS,Howard Springs,0,0.006097,0,0,0,sms_short
+MSG-026577,redteam,Email,Galiwin'ku,0,0.00111,0,0,0,sms_short
+MSG-026581,redteam,Email,Yirrkala,0,0.000519,0,0,0,sms_short
+MSG-026583,redteam,Email,Numbulwar,0,0.000505,0,0,0,sms_short
+MSG-026596,redteam,Email,Wadeye,0,0.000297,0,0,0,sms_short
+MSG-026613,redteam,Email,Wadeye,0,0.001168,0,0,0,sms_short
+MSG-026630,redteam,SMS,Nhulunbuy,0,0.006685,0,0,0,sms_short
+MSG-026639,redteam,Email,Tennant Creek,0,0.001754,0,0,0,formal_residual
+MSG-026645,redteam,Email,Gunbalanya,0,0.001018,0,0,0,sms_short
+MSG-026655,redteam,Email,Darwin,0,0.000407,0,0,0,sms_short
+MSG-026664,redteam,Web form,Elliott,0,0.002438,0,0,0,sms_short
+MSG-026683,redteam,SMS,Katherine,0,0.018402,0,0,0,sms_short
+MSG-026692,redteam,Email,Ali Curung,0,0.000388,0,0,0,sms_short
+MSG-026697,redteam,Email,,0,0.002972,0,0,0,formal_residual
+MSG-026706,redteam,Web form,Humpty Doo,0,0.000402,0,0,0,formal_residual
+MSG-026755,redteam,Email,Palmerston,0,0.000682,0,0,0,formal_residual
+MSG-027870,redteam,Email,Palmerston,0,0.000443,0,0,0,formal_residual
+MSG-026787,redteam,Email,Numbulwar,0,6.1e-05,0,0,0,sms_short
+MSG-026794,redteam,Phone,Pine Creek,0,0.001277,0,0,0,formal_residual
+MSG-027404,redteam,SMS,Maningrida,0,0.088998,0,0,0,sms_short
+MSG-026799,redteam,Email,Lajamanu,0,0.00137,0,0,0,formal_residual
+MSG-026875,redteam,Facebook,Borroloola,0,0.002959,0,0,0,formal_residual
+MSG-026801,redteam,Email,Nauiyu,0,0.001367,0,0,0,sms_short
+MSG-026845,redteam,Email,Nhulunbuy,0,0.000741,0,0,0,sms_short
+MSG-026863,redteam,Web form,Wadeye,0,0.000674,0,0,0,sms_short
+MSG-026909,redteam,Email,Borroloola,0,5.5e-05,0,0,0,sms_short
+MSG-026926,redteam,SMS,Borroloola,0,0.002794,0,0,0,sms_short
+MSG-026927,redteam,Web form,Numbulwar,0,0.003728,0,0,0,formal_residual
+MSG-027225,redteam,SMS,Palmerston,0,0.029791,0,0,0,sms_short
+MSG-026930,redteam,Facebook,,0,0.003618,0,0,0,formal_residual
+MSG-027713,redteam,SMS,Katherine,0,0.058185,0,0,0,sms_short
+MSG-026937,redteam,Web form,Papunya,0,0.006347,0,0,0,sms_short
+MSG-026940,redteam,Web form,Nhulunbuy,0,0.000876,0,0,0,formal_residual
+MSG-026942,redteam,SMS,Ramingining,0,0.001135,0,0,0,sms_short
+MSG-026960,redteam,SMS,,0,0.021655,0,0,0,sms_short
+MSG-026966,redteam,SMS,Papunya,0,0.021825,0,0,0,sms_short
+MSG-028019,redteam,SMS,,0,0.006412,0,0,0,sms_short
+MSG-026974,redteam,Facebook,Palmerston,0,3.1e-05,0,0,0,sms_short
+MSG-026995,redteam,Facebook,Wadeye,0,0.001923,0,0,0,formal_residual
+MSG-027022,redteam,Web form,Wadeye,0,0.000163,0,0,0,sms_short
+MSG-027040,redteam,Email,Adelaide River,0,6.5e-05,0,0,0,sms_short
+MSG-027047,redteam,SMS,Lajamanu,0,0.006604,0,0,0,sms_short
+MSG-027052,redteam,Email,Palmerston,0,0.001615,0,0,0,sms_short
+MSG-027061,redteam,Phone,Santa Teresa,0,0.0015,0,0,0,formal_residual
+MSG-027062,redteam,Phone,Ntaria,0,0.001209,0,0,0,formal_residual
+MSG-027075,redteam,Email,Humpty Doo,0,0.000889,0,0,0,sms_short
+MSG-027093,redteam,Email,Nhulunbuy,0,0.000538,0,0,0,sms_short
+MSG-027099,redteam,Email,Elliott,0,0.000482,0,0,0,sms_short
+MSG-027115,redteam,SMS,Katherine,0,0.008246,0,0,0,sms_short
+MSG-027117,redteam,SMS,Lajamanu,0,0.019763,0,0,0,sms_short
+MSG-027153,redteam,Phone,Elliott,0,0.002963,0,0,0,formal_residual
+MSG-027337,redteam,Email,Elliott,0,0.000599,0,0,0,formal_residual
+MSG-027158,redteam,Facebook,Wadeye,0,9.4e-05,0,0,0,sms_short
+MSG-027172,redteam,Email,Palmerston,0,0.001782,0,0,0,sms_short
+MSG-027230,redteam,Web form,Batchelor,0,0.00502,0,0,0,formal_residual
+MSG-028385,redteam,Email,Ntaria,0,0.000734,0,0,0,formal_residual
+MSG-027237,redteam,SMS,Tennant Creek,0,0.024987,0,0,0,sms_short
+MSG-027242,redteam,SMS,Pine Creek,0,0.006059,0,0,0,sms_short
+MSG-027252,redteam,Email,,0,0.001467,0,0,0,sms_short
+MSG-027254,redteam,SMS,Papunya,0,0.014936,0,0,0,sms_short
+MSG-028112,redteam,Email,Borroloola,0,0.002903,0,0,0,formal_residual
+MSG-027270,redteam,SMS,Gunbalanya,0,0.013695,0,0,0,sms_short
+MSG-027291,redteam,Facebook,Darwin,0,0.001016,0,0,0,formal_residual
+MSG-027311,redteam,Web form,Lajamanu,0,0.002209,0,0,0,sms_short
+MSG-027312,redteam,SMS,,0,0.005528,0,0,0,sms_short
+MSG-027318,redteam,SMS,Wadeye,0,0.005346,0,0,0,sms_short
+MSG-027342,redteam,Web form,Ramingining,0,0.002094,0,0,0,sms_short
+MSG-027359,redteam,SMS,Gunbalanya,0,0.008068,0,0,0,sms_short
+MSG-027361,redteam,Email,Numbulwar,0,0.00039,0,0,0,sms_short
+MSG-027367,redteam,Facebook,Galiwin'ku,0,0.012137,0,0,0,formal_residual
+MSG-028495,redteam,SMS,Humpty Doo,0,0.013711,0,0,0,sms_short
+MSG-027818,redteam,Web form,,0,0.003944,0,0,0,formal_residual
+MSG-027371,redteam,Email,Nauiyu,0,7.6e-05,0,0,0,sms_short
+MSG-027388,redteam,Email,Yirrkala,0,0.000447,0,0,0,sms_short
+MSG-027403,redteam,Email,Elliott,0,0.001357,0,0,0,sms_short
+MSG-027455,redteam,SMS,,0,0.007062,0,0,0,sms_short
+MSG-027483,redteam,SMS,Ramingining,0,0.001735,0,0,0,sms_short
+MSG-027531,redteam,Web form,Pine Creek,0,0.000608,0,0,0,sms_short
+MSG-027564,redteam,SMS,Yirrkala,0,0.01912,0,0,0,sms_short
+MSG-027570,redteam,Facebook,Howard Springs,0,0.001091,0,0,0,formal_residual
+MSG-027588,redteam,Facebook,Adelaide River,0,3.3e-05,0,0,0,sms_short
+MSG-027599,redteam,Email,Santa Teresa,0,0.000483,0,0,0,sms_short
+MSG-027606,redteam,Email,Palmerston,0,1.9e-05,0,0,0,sms_short
+MSG-027641,redteam,Web form,Lajamanu,0,0.000533,0,0,0,sms_short
+MSG-027644,redteam,Email,Ramingining,0,0.000566,0,0,0,formal_residual
+MSG-027647,redteam,Email,Numbulwar,0,0.000974,0,0,0,formal_residual
+MSG-028633,redteam,Phone,Ramingining,0,0.001625,0,0,0,formal_residual
+MSG-027723,redteam,Email,Borroloola,0,0.000194,0,0,0,formal_residual
+MSG-027727,redteam,Email,Ngukurr,0,2.1e-05,0,0,0,sms_short
+MSG-027745,redteam,SMS,Howard Springs,0,0.015993,0,0,0,sms_short
+MSG-027757,redteam,Phone,Ntaria,0,0.000154,0,0,0,formal_residual
+MSG-028559,redteam,Email,Ali Curung,0,0.000666,0,0,0,formal_residual
+MSG-027776,redteam,SMS,Gunbalanya,0,0.00097,0,0,0,sms_short
+MSG-027780,redteam,Email,Yirrkala,0,0.000527,0,0,0,formal_residual
+MSG-028278,redteam,Email,Palmerston,0,0.000724,0,0,0,formal_residual
+MSG-027796,redteam,Facebook,Alice Springs,0,0.001188,0,0,0,formal_residual
+MSG-027843,redteam,Email,Gunbalanya,0,0.001242,0,0,0,sms_short
+MSG-027864,redteam,Email,Ntaria,0,0.000716,0,0,0,formal_residual
+MSG-027865,redteam,Web form,Batchelor,0,3.6e-05,0,0,0,sms_short
+MSG-027868,redteam,Email,Nhulunbuy,0,0.000346,0,0,0,sms_short
+MSG-027879,redteam,SMS,Santa Teresa,0,0.001119,0,0,0,sms_short
+MSG-027882,redteam,Email,Katherine,0,5.6e-05,0,0,0,sms_short
+MSG-027883,redteam,Facebook,Batchelor,0,0.000595,0,0,0,sms_short
+MSG-027900,redteam,Email,Ngukurr,0,2.2e-05,0,0,0,sms_short
+MSG-027909,redteam,Email,Gunbalanya,0,0.000338,0,0,0,sms_short
+MSG-027924,redteam,Web form,Nhulunbuy,0,0.006398,0,0,0,formal_residual
+MSG-027978,redteam,Phone,,0,0.001582,0,0,0,formal_residual
+MSG-027983,redteam,Email,,0,0.001465,0,0,0,sms_short
+MSG-028009,redteam,Email,Pine Creek,0,0.003963,0,0,0,formal_residual
+MSG-028017,redteam,Web form,Gunbalanya,0,0.00077,0,0,0,sms_short
+MSG-028053,redteam,Web form,Alice Springs,0,0.002166,0,0,0,formal_residual
+MSG-028079,redteam,Email,Santa Teresa,0,0.000444,0,0,0,sms_short
+MSG-028095,redteam,SMS,Batchelor,0,0.017548,0,0,0,sms_short
+MSG-028146,redteam,Facebook,Nhulunbuy,0,0.007066,0,0,0,sms_short
+MSG-028170,redteam,Email,Yuendumu,0,0.00033,0,0,0,formal_residual
+MSG-028173,redteam,SMS,Humpty Doo,0,0.000363,0,0,0,sms_short
+MSG-028188,redteam,Facebook,,0,8.2e-05,0,0,0,sms_short
+MSG-028200,redteam,Email,Maningrida,0,5.8e-05,0,0,0,sms_short
+MSG-028204,redteam,SMS,Palmerston,0,0.078561,0,0,0,sms_short
+MSG-028212,redteam,Email,Galiwin'ku,0,0.000391,0,0,0,sms_short
+MSG-028246,redteam,SMS,Batchelor,0,0.005221,0,0,0,sms_short
+MSG-028252,redteam,Phone,Ngukurr,0,0.017217,0,0,0,formal_residual
+MSG-028254,redteam,SMS,Wadeye,0,0.000369,0,0,0,sms_short
+MSG-028270,redteam,SMS,Santa Teresa,0,0.001915,0,0,0,sms_short
+MSG-028274,redteam,SMS,Humpty Doo,0,0.022455,0,0,0,sms_short
+MSG-028285,redteam,Facebook,Gunbalanya,0,0.000855,0,0,0,formal_residual
+MSG-028296,redteam,Email,Galiwin'ku,0,0.000712,0,0,0,formal_residual
+MSG-028342,redteam,Web form,Ngukurr,0,0.005983,0,0,0,formal_residual
+MSG-028306,redteam,Web form,Alice Springs,0,0.002044,0,0,0,sms_short
+MSG-028334,redteam,SMS,Humpty Doo,0,0.001989,0,0,0,sms_short
+MSG-028361,redteam,Phone,Pine Creek,0,0.000691,0,0,0,formal_residual
+MSG-028363,redteam,Email,Ramingining,0,0.000437,0,0,0,sms_short
+MSG-028364,redteam,Email,Nauiyu,0,0.000369,0,0,0,sms_short
+MSG-028378,redteam,Email,Howard Springs,0,0.000532,0,0,0,formal_residual
+MSG-028403,redteam,Web form,Alice Springs,1,0.999927,1,0,1,formal_residual
+MSG-028405,redteam,Email,Ali Curung,0,0.000379,0,0,0,sms_short
+MSG-028415,redteam,SMS,Adelaide River,0,0.009382,0,0,0,sms_short
+MSG-028485,redteam,Email,Wadeye,0,0.000136,0,0,0,formal_residual
+MSG-028519,redteam,Email,Nhulunbuy,0,0.000108,0,0,0,sms_short
+MSG-028555,redteam,Email,Nauiyu,0,0.000414,0,0,0,formal_residual
+MSG-029441,redteam,SMS,Numbulwar,0,0.076124,0,0,0,sms_short
+MSG-029158,redteam,Email,Yirrkala,0,0.000653,0,0,0,formal_residual
+MSG-028588,redteam,Web form,Batchelor,0,0.000756,0,0,0,sms_short
+MSG-028596,redteam,SMS,Borroloola,0,0.082364,0,0,0,sms_short
+MSG-028599,redteam,Email,Howard Springs,0,0.001304,0,0,0,formal_residual
+MSG-028618,redteam,Email,Ramingining,0,0.000812,0,0,0,formal_residual
+MSG-028620,redteam,Email,Papunya,0,0.000178,0,0,0,sms_short
+MSG-028639,redteam,Email,Papunya,0,0.001254,0,0,0,sms_short
+MSG-028645,redteam,Email,Borroloola,0,0.00042,0,0,0,sms_short
+MSG-028649,redteam,Email,Nauiyu,0,0.000123,0,0,0,formal_residual
+MSG-028658,redteam,SMS,Papunya,0,0.001081,0,0,0,sms_short
+MSG-028661,redteam,Web form,Wadeye,0,0.001247,0,0,0,formal_residual
+MSG-028665,redteam,Email,Nauiyu,0,0.000928,0,0,0,formal_residual
+MSG-028717,redteam,Email,Maningrida,0,0.005411,0,0,0,formal_residual
+MSG-028736,redteam,Email,Ramingining,0,0.000285,0,0,0,sms_short
+MSG-028745,redteam,Email,Wadeye,0,0.000497,0,0,0,formal_residual
+MSG-029274,redteam,Email,Adelaide River,0,0.001097,0,0,0,formal_residual
+MSG-029496,redteam,Phone,Palmerston,0,0.000858,0,0,0,formal_residual
+MSG-028798,redteam,Email,,0,0.000727,0,0,0,formal_residual
+MSG-028799,redteam,Email,Ngukurr,0,0.002813,0,0,0,formal_residual
+MSG-028847,redteam,Email,Batchelor,0,0.000559,0,0,0,sms_short
+MSG-028866,redteam,Facebook,Nhulunbuy,0,0.00644,0,0,0,sms_short
+MSG-028869,redteam,Email,Ntaria,0,8.4e-05,0,0,0,sms_short
+MSG-028873,redteam,Email,Yuendumu,0,0.001397,0,0,0,sms_short
+MSG-028878,redteam,SMS,Adelaide River,0,0.007353,0,0,0,sms_short
+MSG-028890,redteam,Web form,Elliott,0,0.001504,0,0,0,formal_residual
+MSG-028895,redteam,Email,Humpty Doo,0,0.000416,0,0,0,sms_short
+MSG-028901,redteam,SMS,Santa Teresa,0,0.006271,0,0,0,sms_short
+MSG-028909,redteam,Facebook,Ramingining,0,0.000106,0,0,0,sms_short
+MSG-028915,redteam,Email,Nhulunbuy,0,0.000384,0,0,0,sms_short
+MSG-028922,redteam,Email,Maningrida,0,0.001097,0,0,0,sms_short
+MSG-028934,redteam,Email,Yuendumu,0,0.000128,0,0,0,sms_short
+MSG-028937,redteam,Email,Alice Springs,0,0.00039,0,0,0,sms_short
+MSG-028956,redteam,SMS,Yuendumu,0,0.007686,0,0,0,sms_short
+MSG-028979,redteam,Facebook,Wadeye,0,0.00088,0,0,0,formal_residual
+MSG-029211,redteam,Facebook,Howard Springs,0,0.001011,0,0,0,formal_residual
+MSG-028992,redteam,Email,Howard Springs,0,2.2e-05,0,0,0,sms_short
+MSG-028993,redteam,Email,Numbulwar,0,0.000427,0,0,0,sms_short
+MSG-028997,redteam,Email,Pine Creek,0,0.000104,0,0,0,sms_short
+MSG-029012,redteam,Web form,Batchelor,0,0.000539,0,0,0,formal_residual
+MSG-029729,redteam,Email,Ali Curung,0,0.002514,0,0,0,formal_residual
+MSG-029018,redteam,Email,Papunya,0,0.000448,0,0,0,sms_short
+MSG-029023,redteam,Email,Ntaria,0,0.00049,0,0,0,formal_residual
+MSG-029025,redteam,Email,Lajamanu,0,0.000393,0,0,0,sms_short
+MSG-029029,redteam,Web form,Galiwin'ku,0,0.000366,0,0,0,formal_residual
+MSG-029037,redteam,Email,Galiwin'ku,0,0.00054,0,0,0,sms_short
+MSG-029042,redteam,Email,Ali Curung,0,0.001972,0,0,0,sms_short
+MSG-029065,redteam,Email,Howard Springs,0,0.000314,0,0,0,sms_short
+MSG-029079,redteam,Email,Lajamanu,0,0.000469,0,0,0,formal_residual
+MSG-029098,redteam,Email,Ramingining,0,0.001017,0,0,0,formal_residual
+MSG-029121,redteam,Email,Papunya,0,0.000326,0,0,0,sms_short
+MSG-029123,redteam,SMS,Nauiyu,0,0.007549,0,0,0,sms_short
+MSG-029129,redteam,Phone,Ntaria,0,0.000991,0,0,0,formal_residual
+MSG-030125,redteam,SMS,Maningrida,0,0.019029,0,0,0,sms_short
+MSG-029138,redteam,Email,Darwin,0,0.000512,0,0,0,formal_residual
+MSG-029146,redteam,Email,Ali Curung,0,0.000391,0,0,0,sms_short
+MSG-029149,redteam,Facebook,Lajamanu,0,0.000292,0,0,0,formal_residual
+MSG-029152,redteam,Email,Howard Springs,0,0.001338,0,0,0,sms_short
+MSG-029159,redteam,SMS,Numbulwar,0,0.00119,0,0,0,sms_short
+MSG-029165,redteam,Email,Katherine,0,0.000335,0,0,0,sms_short
+MSG-029196,redteam,Email,Howard Springs,0,0.000515,0,0,0,sms_short
+MSG-029207,redteam,Email,Ali Curung,0,0.000937,0,0,0,formal_residual
+MSG-029259,redteam,SMS,Howard Springs,0,0.014339,0,0,0,sms_short
+MSG-029208,redteam,Email,Borroloola,0,0.000105,0,0,0,sms_short
+MSG-029225,redteam,Web form,Humpty Doo,0,0.00062,0,0,0,sms_short
+MSG-029240,redteam,Email,Nauiyu,0,0.000294,0,0,0,sms_short
+MSG-029256,redteam,Facebook,Alice Springs,0,0.002388,0,0,0,sms_short
+MSG-029257,redteam,Email,Ramingining,0,0.000175,0,0,0,formal_residual
+MSG-029667,redteam,Web form,Borroloola,1,0.999261,1,0,1,formal_residual
+MSG-029258,redteam,Email,,0,6.4e-05,0,0,0,sms_short
+MSG-029268,redteam,SMS,Ali Curung,0,0.033136,0,0,0,sms_short
+MSG-029269,redteam,SMS,Nhulunbuy,0,0.005606,0,0,0,sms_short
+MSG-029294,redteam,Email,Maningrida,0,0.000471,0,0,0,sms_short
+MSG-029344,redteam,SMS,Howard Springs,0,0.016197,0,0,0,sms_short
+MSG-029358,redteam,Email,Adelaide River,0,0.00055,0,0,0,sms_short
+MSG-029359,redteam,Web form,Papunya,0,0.001979,0,0,0,sms_short
+MSG-029365,redteam,Web form,Palmerston,0,0.000629,0,0,0,formal_residual
+MSG-029386,redteam,SMS,Ramingining,0,0.006762,0,0,0,sms_short
+MSG-029398,redteam,Email,Santa Teresa,0,0.000535,0,0,0,sms_short
+MSG-029402,redteam,Email,Maningrida,0,0.000344,0,0,0,sms_short
+MSG-029405,redteam,Web form,Nhulunbuy,0,3.5e-05,0,0,0,sms_short
+MSG-029429,redteam,Email,Tennant Creek,0,0.000982,0,0,0,sms_short
+MSG-029435,redteam,SMS,Galiwin'ku,0,0.058555,0,0,0,sms_short
+MSG-029436,redteam,Email,Humpty Doo,0,6.4e-05,0,0,0,sms_short
+MSG-029443,redteam,Email,Yuendumu,0,0.000431,0,0,0,sms_short
+MSG-029465,redteam,Facebook,Ntaria,0,0.000505,0,0,0,sms_short
+MSG-029536,redteam,Email,Lajamanu,0,0.001539,0,0,0,sms_short
+MSG-029553,redteam,Email,Nauiyu,0,0.000438,0,0,0,sms_short
+MSG-029568,redteam,Email,Galiwin'ku,0,0.001429,0,0,0,sms_short
+MSG-029580,redteam,Facebook,Numbulwar,0,0.000139,0,0,0,formal_residual
+MSG-029613,redteam,Facebook,Ramingining,0,0.000157,0,0,0,formal_residual
+MSG-029617,redteam,Email,Ramingining,0,0.001425,0,0,0,sms_short
+MSG-029629,redteam,SMS,Galiwin'ku,0,0.026357,0,0,0,sms_short
+MSG-030702,redteam,Email,Wadeye,0,0.000216,0,0,0,formal_residual
+MSG-029682,redteam,Facebook,Numbulwar,0,0.002593,0,0,0,sms_short
+MSG-029695,redteam,Email,Yirrkala,0,6.1e-05,0,0,0,sms_short
+MSG-029719,redteam,Email,,0,6.7e-05,0,0,0,sms_short
+MSG-029732,redteam,Email,Ngukurr,0,0.004083,0,0,0,formal_residual
+MSG-030344,redteam,Email,Ntaria,0,0.004009,0,0,0,formal_residual
+MSG-030038,redteam,SMS,Adelaide River,0,0.073309,0,0,0,sms_short
+MSG-029756,redteam,Email,Yuendumu,0,0.000506,0,0,0,sms_short
+MSG-029759,redteam,Email,Yirrkala,0,0.000869,0,0,0,formal_residual
+MSG-030027,redteam,Facebook,Nauiyu,0,0.00107,0,0,0,formal_residual
+MSG-029838,redteam,Email,Wadeye,0,0.000665,0,0,0,formal_residual
+MSG-029844,redteam,Email,Batchelor,0,0.000494,0,0,0,sms_short
+MSG-029874,redteam,Email,Batchelor,0,7.5e-05,0,0,0,sms_short
+MSG-029891,redteam,SMS,Lajamanu,0,0.001086,0,0,0,sms_short
+MSG-029893,redteam,Email,Gunbalanya,0,0.000475,0,0,0,formal_residual
+MSG-029906,redteam,SMS,Howard Springs,0,0.002042,0,0,0,sms_short
+MSG-029925,redteam,Email,Alice Springs,0,0.000404,0,0,0,sms_short
+MSG-029932,redteam,Email,,0,0.000431,0,0,0,formal_residual
+MSG-029936,redteam,Facebook,Numbulwar,0,0.000645,0,0,0,formal_residual
+MSG-029958,redteam,Email,Howard Springs,0,0.000123,0,0,0,formal_residual
+MSG-029964,redteam,Email,Galiwin'ku,0,6e-05,0,0,0,sms_short
+MSG-029998,redteam,Email,Gunbalanya,0,0.000424,0,0,0,sms_short
+MSG-030036,redteam,Email,Nauiyu,0,0.000413,0,0,0,sms_short
+MSG-030040,redteam,Email,Borroloola,0,0.000311,0,0,0,sms_short
+MSG-030081,redteam,Email,Ramingining,0,0.000524,0,0,0,sms_short
+MSG-030103,redteam,SMS,Maningrida,0,0.007917,0,0,0,sms_short
+MSG-030144,redteam,Web form,Darwin,0,0.000575,0,0,0,sms_short
+MSG-030158,redteam,SMS,Palmerston,0,0.034368,0,0,0,sms_short
+MSG-030825,redteam,Email,Alice Springs,0,0.000688,0,0,0,formal_residual
+MSG-030169,redteam,Phone,Adelaide River,1,0.99951,1,0,1,formal_residual
+MSG-030176,redteam,Phone,Palmerston,0,0.000794,0,0,0,formal_residual
+MSG-031058,redteam,SMS,Adelaide River,0,0.019932,0,0,0,sms_short
+MSG-030181,redteam,Email,Pine Creek,0,6.6e-05,0,0,0,sms_short
+MSG-030219,redteam,Email,Yirrkala,0,0.000103,0,0,0,sms_short
+MSG-030244,redteam,Email,Howard Springs,0,0.000787,0,0,0,formal_residual
+MSG-030251,redteam,Web form,Humpty Doo,0,0.000596,0,0,0,sms_short
+MSG-030259,redteam,Email,Adelaide River,0,0.001265,0,0,0,formal_residual
+MSG-030270,redteam,Email,Humpty Doo,0,2.4e-05,0,0,0,sms_short
+MSG-030315,redteam,Email,Ntaria,0,0.000501,0,0,0,sms_short
+MSG-030330,redteam,Email,,0,0.00045,0,0,0,sms_short
+MSG-030384,redteam,SMS,,0,0.015731,0,0,0,sms_short
+MSG-030412,redteam,Phone,Elliott,0,0.001639,0,0,0,formal_residual
+MSG-030417,redteam,Email,Lajamanu,0,0.000382,0,0,0,sms_short
+MSG-030453,redteam,Facebook,Humpty Doo,0,0.000749,0,0,0,formal_residual
+MSG-030456,redteam,Phone,Ntaria,0,0.001267,0,0,0,formal_residual
+MSG-030465,redteam,SMS,Pine Creek,0,0.007499,0,0,0,sms_short
+MSG-030478,redteam,SMS,Alice Springs,0,0.100482,0,0,0,sms_short
+MSG-030509,redteam,Email,Nhulunbuy,0,0.001466,0,0,0,sms_short
+MSG-030512,redteam,Email,Elliott,0,0.000113,0,0,0,sms_short
+MSG-030528,redteam,Phone,Borroloola,0,0.000679,0,0,0,formal_residual
+MSG-030541,redteam,Web form,Maningrida,0,0.004149,0,0,0,formal_residual
+MSG-030547,redteam,Web form,Darwin,0,0.000597,0,0,0,sms_short
+MSG-030550,redteam,Web form,Yirrkala,0,0.000465,0,0,0,sms_short
+MSG-030556,redteam,Email,Yuendumu,0,0.000391,0,0,0,sms_short
+MSG-030557,redteam,SMS,,0,0.006217,0,0,0,sms_short
+MSG-030573,redteam,Email,Tennant Creek,0,0.001415,0,0,0,sms_short
+MSG-030580,redteam,Email,Yirrkala,0,0.000719,0,0,0,formal_residual
+MSG-030849,redteam,SMS,Katherine,0,0.00567,0,0,0,sms_short
+MSG-030587,redteam,SMS,Papunya,0,0.007339,0,0,0,sms_short
+MSG-030595,redteam,Email,Ramingining,0,0.000846,0,0,0,sms_short
+MSG-030598,redteam,Email,Humpty Doo,0,0.015016,0,0,0,formal_residual
+MSG-030607,redteam,Email,,0,0.001036,0,0,0,formal_residual
+MSG-031730,redteam,Phone,Alice Springs,0,0.0011,0,0,0,formal_residual
+MSG-030626,redteam,Email,Ramingining,0,0.000562,0,0,0,formal_residual
+MSG-031278,redteam,Phone,Palmerston,0,0.000735,0,0,0,formal_residual
+MSG-030639,redteam,Email,Gunbalanya,0,0.001166,0,0,0,formal_residual
+MSG-030669,redteam,SMS,Numbulwar,0,0.019262,0,0,0,sms_short
+MSG-030684,redteam,Web form,Nauiyu,0,0.002724,0,0,0,sms_short
+MSG-030696,redteam,Email,Santa Teresa,0,0.000102,0,0,0,sms_short
+MSG-030701,redteam,Email,Palmerston,0,0.000257,0,0,0,sms_short
+MSG-030725,redteam,Email,Nhulunbuy,0,0.00049,0,0,0,sms_short
+MSG-030729,redteam,Email,Lajamanu,0,0.00013,0,0,0,formal_residual
+MSG-030731,redteam,Email,Nhulunbuy,0,0.000366,0,0,0,sms_short
+MSG-030752,redteam,Email,Elliott,0,0.000614,0,0,0,formal_residual
+MSG-031118,redteam,SMS,Yuendumu,0,0.018039,0,0,0,sms_short
+MSG-030758,redteam,SMS,Tennant Creek,0,0.033386,0,0,0,sms_short
+MSG-031859,redteam,Email,Adelaide River,0,0.000427,0,0,0,formal_residual
+MSG-030761,redteam,Web form,Numbulwar,0,0.004473,0,0,0,formal_residual
+MSG-031265,redteam,Phone,Lajamanu,0,0.002673,0,0,0,formal_residual
+MSG-030790,redteam,Web form,Howard Springs,0,0.003486,0,0,0,formal_residual
+MSG-031875,redteam,SMS,Maningrida,0,0.029151,0,0,0,sms_short
+MSG-030800,redteam,SMS,Pine Creek,0,0.007719,0,0,0,sms_short
+MSG-030808,redteam,Web form,Numbulwar,0,0.000244,0,0,0,formal_residual
+MSG-030813,redteam,Email,Ntaria,0,2.1e-05,0,0,0,sms_short
+MSG-030818,redteam,Email,Nhulunbuy,0,0.00031,0,0,0,sms_short
+MSG-030826,redteam,Email,Maningrida,0,0.001499,0,0,0,sms_short
+MSG-030831,redteam,Phone,Adelaide River,0,0.001229,0,0,0,formal_residual
+MSG-030838,redteam,Email,,0,0.000413,0,0,0,sms_short
+MSG-030851,redteam,Web form,Alice Springs,0,0.000627,0,0,0,sms_short
+MSG-030879,redteam,Email,,0,0.0003,0,0,0,sms_short
+MSG-030904,redteam,Web form,Gunbalanya,0,0.002043,0,0,0,sms_short
+MSG-030942,redteam,Web form,Ntaria,0,0.000115,0,0,0,sms_short
+MSG-030969,redteam,Email,Katherine,0,0.012417,0,0,0,formal_residual
+MSG-030974,redteam,Email,Borroloola,0,2.4e-05,0,0,0,sms_short
+MSG-030995,redteam,Web form,Gunbalanya,0,0.001207,0,0,0,formal_residual
+MSG-031034,redteam,SMS,Ramingining,0,0.007692,0,0,0,sms_short
+MSG-031036,redteam,Email,Palmerston,0,0.001264,0,0,0,sms_short
+MSG-031056,redteam,SMS,Palmerston,1,0.982536,1,1,1,sms_short
+MSG-031061,redteam,Web form,Tennant Creek,0,0.001856,0,0,0,formal_residual
+MSG-031089,redteam,Email,Palmerston,0,0.00034,0,0,0,sms_short
+MSG-031110,redteam,Web form,Alice Springs,0,0.000738,0,0,0,formal_residual
+MSG-031177,redteam,Web form,Yirrkala,0,0.002342,0,0,0,sms_short
+MSG-031191,redteam,Web form,Elliott,0,0.001304,0,0,0,formal_residual
+MSG-031633,redteam,Email,Darwin,0,0.001038,0,0,0,formal_residual
+MSG-031192,redteam,Facebook,Ngukurr,0,0.000282,0,0,0,sms_short
+MSG-031204,redteam,Email,Yirrkala,0,0.000491,0,0,0,sms_short
+MSG-031209,redteam,Email,Pine Creek,0,0.001171,0,0,0,sms_short
+MSG-031233,redteam,SMS,Numbulwar,0,0.001191,0,0,0,sms_short
+MSG-031244,redteam,SMS,Alice Springs,0,0.007507,0,0,0,sms_short
+MSG-031246,redteam,Phone,Ngukurr,0,0.000197,0,0,0,formal_residual
+MSG-031294,redteam,Email,Borroloola,0,0.00034,0,0,0,sms_short
+MSG-031337,redteam,Facebook,Adelaide River,0,9.5e-05,0,0,0,sms_short
+MSG-031386,redteam,Email,,0,0.001909,0,0,0,formal_residual
+MSG-031403,redteam,Facebook,Wadeye,0,0.000431,0,0,0,sms_short
+MSG-031417,redteam,Email,Tennant Creek,0,0.001489,0,0,0,sms_short
+MSG-031423,redteam,Email,Howard Springs,0,0.000362,0,0,0,sms_short
+MSG-031453,redteam,Email,Numbulwar,0,0.000168,0,0,0,sms_short
+MSG-031466,redteam,Web form,Borroloola,0,0.000944,0,0,0,formal_residual
+MSG-031482,redteam,Phone,Katherine,0,0.000721,0,0,0,formal_residual
+MSG-031492,redteam,SMS,Batchelor,0,0.001207,0,0,0,sms_short
+MSG-031514,redteam,Web form,Papunya,0,0.001878,0,0,0,sms_short
+MSG-031530,redteam,Web form,Gunbalanya,0,0.000179,0,0,0,formal_residual
+MSG-031532,redteam,SMS,Gunbalanya,0,0.008716,0,0,0,sms_short
+MSG-031538,redteam,Email,Wadeye,0,0.000468,0,0,0,sms_short
+MSG-031540,redteam,SMS,Ngukurr,0,0.00725,0,0,0,sms_short
+MSG-031592,redteam,SMS,Maningrida,0,0.007096,0,0,0,sms_short
+MSG-031605,redteam,Email,Papunya,0,0.000328,0,0,0,formal_residual
+MSG-031606,redteam,SMS,Wadeye,0,0.001114,0,0,0,sms_short
+MSG-031684,redteam,Web form,Borroloola,0,0.000304,0,0,0,formal_residual
+MSG-032030,redteam,Email,Elliott,0,0.000869,0,0,0,formal_residual
+MSG-031689,redteam,Email,Alice Springs,0,0.000389,0,0,0,sms_short
+MSG-031711,redteam,Email,Adelaide River,0,0.005389,0,0,0,sms_short
+MSG-031729,redteam,Email,Papunya,0,0.000433,0,0,0,sms_short
+MSG-031731,redteam,SMS,Palmerston,0,0.007716,0,0,0,sms_short
+MSG-031738,redteam,Email,Wadeye,0,0.00048,0,0,0,sms_short
+MSG-031774,redteam,Facebook,Yirrkala,0,0.000718,0,0,0,sms_short
+MSG-031783,redteam,Web form,Tennant Creek,0,0.000177,0,0,0,sms_short
+MSG-031805,redteam,Facebook,Yuendumu,0,0.000518,0,0,0,sms_short
+MSG-031821,redteam,SMS,Lajamanu,0,0.004535,0,0,0,sms_short
+MSG-031828,redteam,Email,Wadeye,0,0.00039,0,0,0,sms_short
+MSG-031838,redteam,Email,Howard Springs,0,0.001339,0,0,0,sms_short
+MSG-031847,redteam,Email,Lajamanu,0,0.000441,0,0,0,sms_short
+MSG-031851,redteam,Email,Tennant Creek,0,0.000222,0,0,0,sms_short
+MSG-031873,redteam,Email,,0,0.000215,0,0,0,sms_short
+MSG-031881,redteam,Email,Gunbalanya,0,0.000734,0,0,0,formal_residual
+MSG-031885,redteam,Email,Adelaide River,0,0.000307,0,0,0,sms_short
+MSG-031891,redteam,Email,Ali Curung,0,0.000172,0,0,0,sms_short
+MSG-031897,redteam,Email,Batchelor,0,0.000844,0,0,0,formal_residual
+MSG-031924,redteam,SMS,Alice Springs,1,0.964964,1,0,1,sms_short
+MSG-031943,redteam,Email,Humpty Doo,0,0.000315,0,0,0,sms_short
+MSG-031958,redteam,SMS,Elliott,0,0.00598,0,0,0,sms_short
+MSG-031961,redteam,Web form,Ngukurr,0,0.000417,0,0,0,formal_residual
+MSG-031978,redteam,Email,Batchelor,1,0.99951,1,0,1,formal_residual
+MSG-032010,redteam,Email,Ramingining,0,0.001473,0,0,0,formal_residual
+MSG-032037,redteam,Email,Ramingining,0,0.000394,0,0,0,sms_short
+MSG-032038,redteam,SMS,Ntaria,0,0.024561,0,0,0,sms_short
+MSG-032059,redteam,SMS,Gunbalanya,0,0.006372,0,0,0,sms_short
+MSG-032062,redteam,Facebook,Galiwin'ku,0,0.000349,0,0,0,formal_residual
+MSG-032069,redteam,Web form,Gunbalanya,0,0.000643,0,0,0,sms_short
+MSG-032085,redteam,SMS,Galiwin'ku,0,0.007195,0,0,0,sms_short
+MSG-032092,redteam,Web form,Howard Springs,0,2.9e-05,0,0,0,sms_short
+MSG-032183,redteam,Email,,0,0.000112,0,0,0,formal_residual
+MSG-032773,redteam,SMS,Darwin,0,0.023368,0,0,0,sms_short
+MSG-032197,redteam,Web form,Alice Springs,0,0.00066,0,0,0,sms_short
+MSG-032199,redteam,Email,Papunya,0,0.000299,0,0,0,sms_short
+MSG-032211,redteam,Phone,Howard Springs,0,0.001442,0,0,0,formal_residual
+MSG-032215,redteam,Phone,Santa Teresa,0,0.000992,0,0,0,formal_residual
+MSG-032229,redteam,Facebook,Batchelor,0,0.000796,0,0,0,formal_residual
+MSG-032451,redteam,Email,Katherine,0,0.000918,0,0,0,formal_residual
+MSG-032233,redteam,Web form,Pine Creek,0,0.002008,0,0,0,formal_residual
+MSG-032240,redteam,Phone,Ramingining,0,0.005334,0,0,0,formal_residual
+MSG-032278,redteam,Email,Palmerston,0,0.000424,0,0,0,sms_short
+MSG-032289,redteam,Email,Numbulwar,0,0.000886,0,0,0,formal_residual
+MSG-032295,redteam,Email,Ali Curung,0,0.000391,0,0,0,sms_short
+MSG-032332,redteam,Email,Lajamanu,0,0.000302,0,0,0,sms_short
+MSG-032334,redteam,Email,Galiwin'ku,0,0.00011,0,0,0,sms_short
+MSG-032356,redteam,Phone,Numbulwar,0,0.001479,0,0,0,formal_residual
+MSG-032365,redteam,Email,Lajamanu,0,0.000538,0,0,0,sms_short
+MSG-032389,redteam,Email,Lajamanu,0,0.000167,0,0,0,sms_short
+MSG-032395,redteam,Email,,0,2.8e-05,0,0,0,formal_residual
+MSG-032398,redteam,Facebook,Ngukurr,0,3.6e-05,0,0,0,sms_short
+MSG-032424,redteam,Web form,Alice Springs,0,0.00011,0,0,0,sms_short
+MSG-032449,redteam,Phone,Gunbalanya,0,0.001262,0,0,0,formal_residual
+MSG-032504,redteam,Facebook,Lajamanu,0,0.000839,0,0,0,sms_short
+MSG-032532,redteam,Web form,Wadeye,0,0.002896,0,0,0,formal_residual
+MSG-032540,redteam,SMS,Pine Creek,0,0.004005,0,0,0,sms_short
+MSG-032545,redteam,Phone,Palmerston,0,0.001547,0,0,0,formal_residual
+MSG-032546,redteam,Email,Nhulunbuy,0,5.8e-05,0,0,0,sms_short
+MSG-032550,redteam,Email,Ramingining,0,0.000124,0,0,0,formal_residual
+MSG-032561,redteam,SMS,Yirrkala,0,0.024423,0,0,0,sms_short
+MSG-033288,redteam,SMS,Tennant Creek,0,0.042761,0,0,0,sms_short
+MSG-032571,redteam,Facebook,Santa Teresa,0,0.000171,0,0,0,sms_short
+MSG-032572,redteam,SMS,Elliott,0,0.032899,0,0,0,sms_short
+MSG-032573,redteam,SMS,Tennant Creek,0,0.073439,0,0,0,sms_short
+MSG-032630,redteam,Email,Yirrkala,0,0.000939,0,0,0,formal_residual
+MSG-032644,redteam,SMS,,0,0.000806,0,0,0,sms_short
+MSG-032670,redteam,SMS,Yirrkala,0,0.006771,0,0,0,sms_short
+MSG-032678,redteam,Phone,Papunya,0,0.004187,0,0,0,formal_residual
+MSG-033212,redteam,SMS,Adelaide River,0,0.131204,0,0,0,sms_short
+MSG-032684,redteam,Email,Darwin,0,5.8e-05,0,0,0,sms_short
+MSG-032691,redteam,SMS,Ngukurr,0,0.005055,0,0,0,sms_short
+MSG-032694,redteam,SMS,Ntaria,0,0.141299,0,0,0,sms_short
+MSG-033577,redteam,SMS,Papunya,0,0.002127,0,0,0,sms_short
+MSG-033023,redteam,SMS,Nauiyu,1,0.984116,1,1,1,sms_short
+MSG-032738,redteam,Facebook,Borroloola,0,0.000163,0,0,0,sms_short
+MSG-032774,redteam,Email,Palmerston,0,0.000923,0,0,0,sms_short
+MSG-032787,redteam,Email,Humpty Doo,0,7.4e-05,0,0,0,sms_short
+MSG-032790,redteam,Email,Ngukurr,0,6.3e-05,0,0,0,sms_short
+MSG-032798,redteam,Email,,0,0.002939,0,0,0,formal_residual
+MSG-033740,redteam,Email,Katherine,0,0.000944,0,0,0,formal_residual
+MSG-032804,redteam,Facebook,Numbulwar,0,0.001932,0,0,0,sms_short
+MSG-032814,redteam,SMS,Wadeye,0,0.000398,0,0,0,sms_short
+MSG-032820,redteam,Web form,Nauiyu,0,0.001092,0,0,0,formal_residual
+MSG-033165,redteam,Phone,Alice Springs,0,0.002711,0,0,0,formal_residual
+MSG-032831,redteam,Facebook,Gunbalanya,0,2.5e-05,0,0,0,sms_short
+MSG-032838,redteam,Email,Wadeye,0,0.001788,0,0,0,sms_short
+MSG-032840,redteam,Facebook,Nhulunbuy,0,8.7e-05,0,0,0,sms_short
+MSG-032844,redteam,Email,Darwin,0,0.000475,0,0,0,sms_short
+MSG-032845,redteam,Email,Katherine,0,0.000501,0,0,0,formal_residual
+MSG-032850,redteam,SMS,Pine Creek,0,0.027204,0,0,0,sms_short
+MSG-032860,redteam,SMS,Ngukurr,0,0.006396,0,0,0,sms_short
+MSG-032861,redteam,SMS,Ramingining,0,0.026779,0,0,0,sms_short
+MSG-032865,redteam,Email,Ntaria,0,0.000409,0,0,0,sms_short
+MSG-032889,redteam,Web form,Elliott,0,0.000555,0,0,0,sms_short
+MSG-032895,redteam,Email,Palmerston,0,0.000464,0,0,0,sms_short
+MSG-032959,redteam,Email,Papunya,0,0.001146,0,0,0,sms_short
+MSG-032981,redteam,Phone,Howard Springs,0,0.000706,0,0,0,formal_residual
+MSG-032993,redteam,SMS,Ntaria,0,0.020651,0,0,0,sms_short
+MSG-032999,redteam,Facebook,Wadeye,0,0.001334,0,0,0,formal_residual
+MSG-033030,redteam,Email,Lajamanu,0,0.000337,0,0,0,sms_short
+MSG-033045,redteam,Web form,Adelaide River,0,0.000319,0,0,0,formal_residual
+MSG-034064,redteam,Facebook,Alice Springs,0,0.003914,0,0,0,formal_residual
+MSG-033069,redteam,Facebook,Pine Creek,0,0.000405,0,0,0,sms_short
+MSG-033091,redteam,Email,Yuendumu,0,0.000499,0,0,0,sms_short
+MSG-033158,redteam,Email,Humpty Doo,0,0.000758,0,0,0,formal_residual
+MSG-033178,redteam,SMS,Katherine,0,0.007472,0,0,0,sms_short
+MSG-033187,redteam,Facebook,Batchelor,0,0.002449,0,0,0,sms_short
+MSG-033205,redteam,Email,Humpty Doo,0,0.000419,0,0,0,sms_short
+MSG-033229,redteam,Email,Nhulunbuy,0,0.000327,0,0,0,sms_short
+MSG-033252,redteam,Email,Maningrida,0,6.6e-05,0,0,0,sms_short
+MSG-033254,redteam,Email,Howard Springs,0,0.000536,0,0,0,sms_short
+MSG-033255,redteam,Facebook,Gunbalanya,0,0.000542,0,0,0,sms_short
+MSG-033266,redteam,SMS,Ramingining,0,0.027346,0,0,0,sms_short
+MSG-033284,redteam,Email,Gunbalanya,0,9.6e-05,0,0,0,formal_residual
+MSG-033306,redteam,Facebook,Galiwin'ku,0,0.000176,0,0,0,sms_short
+MSG-033315,redteam,SMS,Maningrida,0,0.017289,0,0,0,sms_short
+MSG-033320,redteam,Email,Santa Teresa,0,0.001401,0,0,0,formal_residual
+MSG-033337,redteam,Email,Batchelor,0,0.000555,0,0,0,formal_residual
+MSG-033607,redteam,Web form,Humpty Doo,0,0.002133,0,0,0,formal_residual
+MSG-033341,redteam,Email,Katherine,0,7.4e-05,0,0,0,sms_short
+MSG-033435,redteam,Email,Galiwin'ku,0,0.000141,0,0,0,formal_residual
+MSG-033448,redteam,SMS,Papunya,0,0.005961,0,0,0,sms_short
+MSG-033453,redteam,Web form,Adelaide River,0,0.000113,0,0,0,sms_short
+MSG-033472,redteam,SMS,Santa Teresa,0,0.006865,0,0,0,sms_short
+MSG-033475,redteam,Email,Tennant Creek,0,0.000399,0,0,0,formal_residual
+MSG-033793,redteam,Email,Numbulwar,0,0.000738,0,0,0,formal_residual
+MSG-033749,redteam,SMS,Nhulunbuy,1,0.786799,1,0,1,polite_indirect
+MSG-033479,redteam,SMS,Nhulunbuy,0,0.050457,0,0,0,sms_short
+MSG-033548,redteam,SMS,Numbulwar,0,0.001799,0,0,0,sms_short
+MSG-033563,redteam,Email,Ntaria,0,0.001657,0,0,0,sms_short
+MSG-033570,redteam,SMS,Alice Springs,0,0.083748,0,0,0,sms_short
+MSG-033620,redteam,Email,Humpty Doo,0,0.000807,0,0,0,formal_residual
+MSG-033676,redteam,Email,Katherine,0,0.000354,0,0,0,sms_short
+MSG-033693,redteam,Web form,Howard Springs,0,0.002208,0,0,0,sms_short
+MSG-033703,redteam,Email,Galiwin'ku,0,0.000542,0,0,0,formal_residual
+MSG-033707,redteam,Email,Adelaide River,0,0.000402,0,0,0,sms_short
+MSG-033746,redteam,Email,Galiwin'ku,0,0.001243,0,0,0,sms_short
+MSG-033757,redteam,Phone,Galiwin'ku,0,0.001268,0,0,0,formal_residual
+MSG-033766,redteam,Web form,Borroloola,0,0.00195,0,0,0,formal_residual
+MSG-033774,redteam,Email,Santa Teresa,0,0.000374,0,0,0,sms_short
+MSG-033776,redteam,Web form,Katherine,0,0.001238,0,0,0,formal_residual
+MSG-033782,redteam,SMS,Adelaide River,0,0.005946,0,0,0,sms_short
+MSG-033786,redteam,Email,Nauiyu,0,0.000417,0,0,0,sms_short
+MSG-033811,redteam,SMS,Wadeye,0,0.003056,0,0,0,sms_short
+MSG-033812,redteam,Email,Papunya,0,5.4e-05,0,0,0,sms_short
+MSG-033813,redteam,Phone,Batchelor,0,0.001429,0,0,0,formal_residual
+MSG-034085,redteam,SMS,Yirrkala,0,0.091282,0,0,0,sms_short
+MSG-033845,redteam,Email,Numbulwar,0,0.000756,0,0,0,formal_residual
+MSG-033858,redteam,Email,Nhulunbuy,0,0.00067,0,0,0,formal_residual
+MSG-034895,redteam,Email,Santa Teresa,0,0.000417,0,0,0,formal_residual
+MSG-033870,redteam,Web form,Alice Springs,1,0.99947,1,0,1,formal_residual
+MSG-033875,redteam,Email,Howard Springs,0,0.000359,0,0,0,formal_residual
+MSG-033878,redteam,Email,Numbulwar,0,0.001093,0,0,0,sms_short
+MSG-033880,redteam,Email,Tennant Creek,0,0.000344,0,0,0,sms_short
+MSG-033927,redteam,SMS,Palmerston,0,0.020607,0,0,0,sms_short
+MSG-033928,redteam,SMS,Borroloola,0,0.007173,0,0,0,sms_short
+MSG-033931,redteam,Email,Borroloola,0,0.000482,0,0,0,sms_short
+MSG-033939,redteam,SMS,Batchelor,0,0.010314,0,0,0,sms_short
+MSG-034940,redteam,Facebook,Yirrkala,0,0.002859,0,0,0,formal_residual
+MSG-033957,redteam,SMS,Palmerston,0,0.018622,0,0,0,sms_short
+MSG-033958,redteam,Email,Nhulunbuy,0,0.000676,0,0,0,formal_residual
+MSG-033977,redteam,Email,Gunbalanya,0,0.000465,0,0,0,sms_short
+MSG-033986,redteam,Email,Yirrkala,0,0.000501,0,0,0,sms_short
+MSG-034045,redteam,Email,Borroloola,0,0.000474,0,0,0,formal_residual
+MSG-034055,redteam,Email,Gunbalanya,0,0.000398,0,0,0,sms_short
+MSG-034083,redteam,Email,Borroloola,0,0.000295,0,0,0,formal_residual
+MSG-034123,redteam,Email,Batchelor,0,0.000354,0,0,0,sms_short
+MSG-034127,redteam,Email,Ngukurr,0,0.000542,0,0,0,formal_residual
+MSG-035292,redteam,Facebook,Ramingining,0,0.000861,0,0,0,formal_residual
+MSG-034128,redteam,Facebook,Ali Curung,0,0.000895,0,0,0,sms_short
+MSG-034171,redteam,Email,Humpty Doo,0,0.000318,0,0,0,formal_residual
+MSG-034198,redteam,Email,Humpty Doo,0,0.00134,0,0,0,formal_residual
+MSG-034206,redteam,Email,Tennant Creek,0,7e-05,0,0,0,sms_short
+MSG-034227,redteam,Web form,Lajamanu,0,0.000509,0,0,0,sms_short
+MSG-034231,redteam,Email,Batchelor,0,0.000456,0,0,0,formal_residual
+MSG-034233,redteam,Email,Elliott,0,0.000371,0,0,0,sms_short
+MSG-034273,redteam,Facebook,Palmerston,0,0.000591,0,0,0,sms_short
+MSG-034303,redteam,Email,Pine Creek,0,0.00548,0,0,0,sms_short
+MSG-034307,redteam,Facebook,Humpty Doo,0,0.001326,0,0,0,formal_residual
+MSG-034317,redteam,Email,Ngukurr,0,0.001589,0,0,0,sms_short
+MSG-034323,redteam,Email,Wadeye,0,0.000428,0,0,0,sms_short
+MSG-034327,redteam,Phone,Galiwin'ku,0,0.001337,0,0,0,formal_residual
+MSG-034338,redteam,Email,Ngukurr,0,0.000389,0,0,0,sms_short
+MSG-034356,redteam,SMS,Darwin,0,0.004757,0,0,0,sms_short
+MSG-034372,redteam,Email,Ali Curung,0,0.000363,0,0,0,sms_short
+MSG-034382,redteam,Email,Borroloola,0,0.000369,0,0,0,sms_short
+MSG-034383,redteam,Facebook,Ramingining,0,0.000726,0,0,0,sms_short
+MSG-034387,redteam,SMS,Katherine,0,0.00655,0,0,0,sms_short
+MSG-034390,redteam,SMS,Nhulunbuy,0,0.0178,0,0,0,sms_short
+MSG-034395,redteam,Web form,Alice Springs,0,0.000637,0,0,0,sms_short
+MSG-034403,redteam,SMS,Numbulwar,0,0.050203,0,0,0,sms_short
+MSG-034404,redteam,Email,Palmerston,0,0.000456,0,0,0,sms_short
+MSG-034409,redteam,Phone,Ali Curung,0,0.016565,0,0,0,formal_residual
+MSG-034434,redteam,Email,,0,2.4e-05,0,0,0,sms_short
+MSG-034442,redteam,Email,Papunya,0,7e-05,0,0,0,sms_short
+MSG-034445,redteam,Email,Tennant Creek,0,0.000417,0,0,0,formal_residual
+MSG-034459,redteam,SMS,Borroloola,0,0.019027,0,0,0,sms_short
+MSG-034471,redteam,Email,Palmerston,0,0.000341,0,0,0,sms_short
+MSG-034490,redteam,Phone,Borroloola,0,0.001639,0,0,0,formal_residual
+MSG-034498,redteam,Web form,Ntaria,0,0.00219,0,0,0,sms_short
+MSG-034559,redteam,Facebook,Maningrida,0,0.000591,0,0,0,sms_short
+MSG-034578,redteam,Email,Humpty Doo,0,1.8e-05,0,0,0,sms_short
+MSG-034595,redteam,Email,Santa Teresa,0,8.4e-05,0,0,0,formal_residual
+MSG-034603,redteam,Web form,Ngukurr,0,0.002014,0,0,0,sms_short
+MSG-034610,redteam,Email,Borroloola,0,0.000389,0,0,0,sms_short
+MSG-034620,redteam,Email,Galiwin'ku,0,0.000687,0,0,0,formal_residual
+MSG-035386,redteam,SMS,Elliott,0,0.026551,0,0,0,sms_short
+MSG-035125,redteam,Email,Tennant Creek,0,0.001264,0,0,0,formal_residual
+MSG-034630,redteam,Web form,Nhulunbuy,0,3.9e-05,0,0,0,sms_short
+MSG-034649,redteam,Email,Pine Creek,0,0.000494,0,0,0,sms_short
+MSG-034666,redteam,Web form,Ramingining,0,0.002375,0,0,0,sms_short
+MSG-034674,redteam,Web form,Batchelor,0,0.001944,0,0,0,sms_short
+MSG-034683,redteam,Email,Ngukurr,0,0.000468,0,0,0,sms_short
+MSG-034687,redteam,Email,Adelaide River,0,0.000594,0,0,0,formal_residual
+MSG-034695,redteam,Email,Lajamanu,0,0.000496,0,0,0,sms_short
+MSG-034702,redteam,Email,Ntaria,0,6.6e-05,0,0,0,sms_short
+MSG-034729,redteam,Email,Ngukurr,0,0.000571,0,0,0,formal_residual
+MSG-034740,redteam,Phone,Galiwin'ku,0,0.000766,0,0,0,formal_residual
+MSG-034745,redteam,Email,,0,0.000477,0,0,0,sms_short
+MSG-034747,redteam,Email,Maningrida,0,0.001066,0,0,0,sms_short
+MSG-034778,redteam,Web form,Papunya,0,0.000828,0,0,0,sms_short
+MSG-034780,redteam,Email,Wadeye,0,0.000298,0,0,0,sms_short
+MSG-034787,redteam,Web form,,0,0.000887,0,0,0,sms_short
+MSG-034788,redteam,Email,Ramingining,0,6.1e-05,0,0,0,sms_short
+MSG-034791,redteam,Web form,Howard Springs,0,0.00095,0,0,0,formal_residual
+MSG-035293,redteam,Facebook,Katherine,0,0.001084,0,0,0,formal_residual
+MSG-035010,redteam,Web form,Adelaide River,0,0.001176,0,0,0,formal_residual
+MSG-034807,redteam,SMS,,0,0.003291,0,0,0,sms_short
+MSG-034818,redteam,Email,Ngukurr,0,0.00034,0,0,0,sms_short
+MSG-034827,redteam,Facebook,Wadeye,0,0.007231,0,0,0,sms_short
+MSG-034832,redteam,Facebook,Ntaria,0,0.001453,0,0,0,formal_residual
+MSG-035602,redteam,SMS,Gunbalanya,0,0.014907,0,0,0,sms_short
+MSG-034844,redteam,Email,Papunya,0,0.001165,0,0,0,sms_short
+MSG-034854,redteam,SMS,Tennant Creek,0,0.021026,0,0,0,sms_short
+MSG-034888,redteam,Web form,Humpty Doo,0,0.000837,0,0,0,sms_short
+MSG-034898,redteam,Web form,Santa Teresa,0,0.000613,0,0,0,sms_short
+MSG-034902,redteam,Email,Ntaria,0,0.000324,0,0,0,sms_short
+MSG-034908,redteam,SMS,Ntaria,0,0.005687,0,0,0,sms_short
+MSG-034915,redteam,Email,Wadeye,0,0.00111,0,0,0,sms_short
+MSG-034930,redteam,Email,,0,0.000716,0,0,0,formal_residual
+MSG-034997,redteam,Web form,Pine Creek,0,0.00091,0,0,0,sms_short
+MSG-035049,redteam,Facebook,Gunbalanya,0,0.001498,0,0,0,sms_short
+MSG-035069,redteam,Email,Galiwin'ku,0,0.00092,0,0,0,formal_residual
+MSG-035075,redteam,Email,Yirrkala,0,0.00072,0,0,0,formal_residual
+MSG-035087,redteam,Web form,Wadeye,0,0.000701,0,0,0,formal_residual
+MSG-035095,redteam,Email,Lajamanu,0,0.000487,0,0,0,sms_short
+MSG-035111,redteam,Web form,Lajamanu,0,0.001934,0,0,0,sms_short
+MSG-035139,redteam,Email,Ntaria,0,0.001457,0,0,0,sms_short
+MSG-035148,redteam,Email,Alice Springs,0,0.004334,0,0,0,sms_short
+MSG-035155,redteam,Email,Nauiyu,0,0.000872,0,0,0,sms_short
+MSG-035163,redteam,Phone,Darwin,0,0.001908,0,0,0,formal_residual
+MSG-035179,redteam,Email,Numbulwar,0,0.002315,0,0,0,formal_residual
+MSG-035969,redteam,Email,Nauiyu,0,0.000797,0,0,0,formal_residual
+MSG-035187,redteam,Phone,Santa Teresa,0,0.000634,0,0,0,formal_residual
+MSG-035195,redteam,Email,,0,6e-05,0,0,0,sms_short
+MSG-035212,redteam,SMS,Yuendumu,0,0.013495,0,0,0,sms_short
+MSG-035221,redteam,Email,Borroloola,0,7.1e-05,0,0,0,sms_short
+MSG-035242,redteam,Phone,Yuendumu,0,0.001307,0,0,0,formal_residual
+MSG-035279,redteam,Email,Gunbalanya,0,0.001027,0,0,0,sms_short
+MSG-035331,redteam,Email,Borroloola,0,0.000395,0,0,0,sms_short
+MSG-035346,redteam,SMS,Palmerston,0,0.00663,0,0,0,sms_short
+MSG-035385,redteam,Web form,Howard Springs,0,0.001408,0,0,0,sms_short
+MSG-035395,redteam,Email,Howard Springs,0,0.001634,0,0,0,sms_short
+MSG-035404,redteam,Email,Papunya,0,0.001378,0,0,0,sms_short
+MSG-035417,redteam,Email,Ramingining,0,0.001491,0,0,0,sms_short
+MSG-035423,redteam,Email,Humpty Doo,0,2.1e-05,0,0,0,sms_short
+MSG-035451,redteam,Email,,0,0.001165,0,0,0,sms_short
+MSG-035458,redteam,Email,,0,0.000381,0,0,0,sms_short
+MSG-035467,redteam,SMS,Humpty Doo,0,0.007849,0,0,0,sms_short
+MSG-035472,redteam,SMS,Ali Curung,1,0.977951,1,0,1,sms_short
+MSG-035477,redteam,Email,Numbulwar,0,7.5e-05,0,0,0,sms_short
+MSG-035496,redteam,Email,Gunbalanya,0,0.000489,0,0,0,sms_short
+MSG-035508,redteam,Email,Maningrida,0,0.000378,0,0,0,sms_short
+MSG-035510,redteam,Email,Pine Creek,0,0.000538,0,0,0,formal_residual
+MSG-035514,redteam,SMS,Galiwin'ku,0,0.025648,0,0,0,sms_short
+MSG-035539,redteam,Facebook,Wadeye,0,0.000631,0,0,0,formal_residual
+MSG-035794,redteam,Facebook,Humpty Doo,0,0.001629,0,0,0,formal_residual
+MSG-035558,redteam,SMS,Santa Teresa,0,0.001104,0,0,0,sms_short
+MSG-035564,redteam,Facebook,Darwin,0,0.00053,0,0,0,sms_short
+MSG-035584,redteam,Phone,Wadeye,0,0.000982,0,0,0,formal_residual
+MSG-035587,redteam,Email,Santa Teresa,0,0.000386,0,0,0,sms_short
+MSG-035590,redteam,Email,Adelaide River,0,0.000332,0,0,0,sms_short
+MSG-035592,redteam,Email,Katherine,0,7.1e-05,0,0,0,sms_short
+MSG-035614,redteam,Email,Lajamanu,0,0.000343,0,0,0,sms_short
+MSG-035637,redteam,Email,Pine Creek,0,0.000783,0,0,0,formal_residual
+MSG-036489,redteam,SMS,Darwin,0,0.018267,0,0,0,sms_short
+MSG-035642,redteam,Email,Wadeye,0,2.2e-05,0,0,0,sms_short
+MSG-035662,redteam,Email,Darwin,0,0.00154,0,0,0,sms_short
+MSG-035682,redteam,Facebook,Papunya,0,0.000106,0,0,0,sms_short
+MSG-035686,redteam,SMS,Lajamanu,0,0.007111,0,0,0,sms_short
+MSG-035697,redteam,Phone,Katherine,0,0.000233,0,0,0,formal_residual
+MSG-035754,redteam,Web form,Numbulwar,0,0.000335,0,0,0,sms_short
+MSG-035762,redteam,Facebook,Pine Creek,0,0.000154,0,0,0,sms_short
+MSG-035782,redteam,Email,Adelaide River,0,0.001149,0,0,0,sms_short
+MSG-035818,redteam,Email,Lajamanu,0,0.000158,0,0,0,sms_short
+MSG-035826,redteam,Facebook,Nauiyu,0,0.000169,0,0,0,sms_short
+MSG-035845,redteam,Email,Gunbalanya,0,0.001287,0,0,0,sms_short
+MSG-035852,redteam,SMS,Ntaria,0,0.001074,0,0,0,sms_short
+MSG-035864,redteam,Email,Ali Curung,0,0.000227,0,0,0,formal_residual
+MSG-035898,redteam,Email,Wadeye,0,0.000871,0,0,0,formal_residual
+MSG-035899,redteam,Email,Numbulwar,0,7.2e-05,0,0,0,sms_short
+MSG-035962,redteam,Email,Adelaide River,0,0.001509,0,0,0,formal_residual
+MSG-036009,redteam,Email,,0,0.000336,0,0,0,sms_short
+MSG-036022,redteam,Email,Tennant Creek,0,6.6e-05,0,0,0,sms_short
+MSG-036029,redteam,Email,Adelaide River,0,5.9e-05,0,0,0,sms_short
+MSG-036052,redteam,Email,Ramingining,0,0.000423,0,0,0,sms_short
+MSG-036058,redteam,Phone,Wadeye,0,0.000439,0,0,0,formal_residual
+MSG-036066,redteam,Email,Pine Creek,0,0.001744,0,0,0,sms_short
+MSG-036092,redteam,Email,Papunya,0,0.000376,0,0,0,sms_short
+MSG-036110,redteam,Web form,Ngukurr,0,0.000818,0,0,0,sms_short
+MSG-036118,redteam,Email,Palmerston,0,0.000674,0,0,0,formal_residual
+MSG-036143,redteam,Phone,Maningrida,0,0.003422,0,0,0,formal_residual
+MSG-036145,redteam,SMS,Nauiyu,0,0.005733,0,0,0,sms_short
+MSG-036150,redteam,Email,Maningrida,0,0.000392,0,0,0,sms_short
+MSG-036167,redteam,SMS,Alice Springs,0,0.000903,0,0,0,sms_short
+MSG-036176,redteam,Email,Galiwin'ku,0,0.000408,0,0,0,sms_short
+MSG-036182,redteam,Email,Papunya,0,0.001722,0,0,0,sms_short
+MSG-036190,redteam,Email,Maningrida,0,0.002876,0,0,0,formal_residual
+MSG-036238,redteam,Email,,0,0.00349,0,0,0,formal_residual
+MSG-036711,redteam,Email,Numbulwar,1,0.999931,1,0,1,formal_residual
+MSG-036253,redteam,Email,Palmerston,0,0.004063,0,0,0,formal_residual
+MSG-036279,redteam,SMS,Howard Springs,0,0.000374,0,0,0,sms_short
+MSG-036287,redteam,Email,Humpty Doo,0,6e-05,0,0,0,sms_short
+MSG-036289,redteam,Facebook,Darwin,0,0.000889,0,0,0,sms_short
+MSG-036292,redteam,Email,Wadeye,0,0.000464,0,0,0,sms_short
+MSG-036323,redteam,Email,Humpty Doo,0,0.001013,0,0,0,formal_residual
+MSG-036341,redteam,Email,Borroloola,0,0.000446,0,0,0,formal_residual
+MSG-036350,redteam,Email,,0,0.000406,0,0,0,sms_short
+MSG-036371,redteam,Email,Yuendumu,0,0.000967,0,0,0,formal_residual
+MSG-036382,redteam,Email,Pine Creek,0,0.001392,0,0,0,sms_short
+MSG-036409,redteam,Email,Yirrkala,0,6.3e-05,0,0,0,sms_short
+MSG-036418,redteam,SMS,Nauiyu,0,0.013044,0,0,0,sms_short
+MSG-036425,redteam,SMS,Borroloola,0,0.073304,0,0,0,sms_short
+MSG-036431,redteam,Email,Ramingining,0,0.000326,0,0,0,sms_short
+MSG-036481,redteam,Email,Yuendumu,0,0.000347,0,0,0,sms_short
+MSG-036483,redteam,Facebook,Lajamanu,0,0.000109,0,0,0,sms_short
+MSG-036501,redteam,Email,Lajamanu,0,6.6e-05,0,0,0,sms_short
+MSG-036503,redteam,Email,Elliott,0,0.002102,0,0,0,formal_residual
+MSG-036525,redteam,Web form,,0,8e-05,0,0,0,sms_short
+MSG-036532,redteam,Email,Tennant Creek,0,0.000296,0,0,0,sms_short
+MSG-036535,redteam,SMS,Nhulunbuy,0,0.030813,0,0,0,sms_short
+MSG-036546,redteam,Email,Nhulunbuy,0,0.001244,0,0,0,sms_short
+MSG-036547,redteam,Web form,,1,0.998725,1,0,1,formal_residual
+MSG-036565,redteam,Email,Wadeye,0,5.9e-05,0,0,0,sms_short
+MSG-036569,redteam,Email,Gunbalanya,0,0.00136,0,0,0,sms_short
+MSG-036579,redteam,Email,Yirrkala,0,2e-05,0,0,0,sms_short
+MSG-036590,redteam,Phone,,0,0.000849,0,0,0,formal_residual
+MSG-036604,redteam,Email,Galiwin'ku,0,0.000536,0,0,0,formal_residual
+MSG-036612,redteam,Email,Santa Teresa,0,0.000379,0,0,0,sms_short
+MSG-036613,redteam,Email,Ramingining,0,0.000265,0,0,0,sms_short
+MSG-036640,redteam,Facebook,Howard Springs,0,7.1e-05,0,0,0,sms_short
+MSG-036647,redteam,Email,Elliott,0,0.000416,0,0,0,sms_short
+MSG-036666,redteam,Facebook,Humpty Doo,0,0.000491,0,0,0,sms_short
+MSG-036671,redteam,Phone,Ramingining,0,0.000617,0,0,0,formal_residual
+MSG-036672,redteam,SMS,Numbulwar,0,0.045067,0,0,0,sms_short
+MSG-036714,redteam,Email,Pine Creek,0,0.000373,0,0,0,sms_short
+MSG-036719,redteam,Email,Yuendumu,0,0.000405,0,0,0,sms_short
+MSG-036752,redteam,Email,Santa Teresa,0,6.6e-05,0,0,0,sms_short
+MSG-036753,redteam,Web form,,0,0.000571,0,0,0,sms_short
+MSG-036760,redteam,SMS,Galiwin'ku,0,0.023931,0,0,0,sms_short
+MSG-036764,redteam,Email,Wadeye,0,0.000658,0,0,0,formal_residual
+MSG-037557,redteam,Email,,0,0.001059,0,0,0,formal_residual
+MSG-036776,redteam,Email,Katherine,0,0.000345,0,0,0,sms_short
+MSG-036833,redteam,Email,Wadeye,0,7.2e-05,0,0,0,sms_short
+MSG-036840,redteam,Email,Papunya,0,0.000511,0,0,0,sms_short
+MSG-036853,redteam,SMS,,0,0.006036,0,0,0,sms_short
+MSG-036862,redteam,Web form,Howard Springs,0,0.000311,0,0,0,formal_residual
+MSG-037608,redteam,Web form,Numbulwar,0,0.003775,0,0,0,formal_residual
+MSG-036885,redteam,Web form,Nhulunbuy,0,0.001296,0,0,0,formal_residual
+MSG-036923,redteam,Phone,,0,0.00112,0,0,0,formal_residual
+MSG-036972,redteam,Email,Elliott,0,0.001422,0,0,0,formal_residual
+MSG-036961,redteam,Email,Tennant Creek,0,0.000482,0,0,0,sms_short
+MSG-036970,redteam,Email,Palmerston,0,9.9e-05,0,0,0,sms_short
+MSG-036978,redteam,Facebook,Alice Springs,0,0.000532,0,0,0,sms_short
+MSG-036982,redteam,SMS,Ntaria,0,0.061132,0,0,0,sms_short
+MSG-037014,redteam,Email,Ntaria,0,0.000464,0,0,0,sms_short
+MSG-037016,redteam,Email,Gunbalanya,0,0.000436,0,0,0,formal_residual
+MSG-037032,redteam,Email,Galiwin'ku,0,0.000298,0,0,0,sms_short
+MSG-037034,redteam,Email,Pine Creek,0,7e-05,0,0,0,sms_short
+MSG-037035,redteam,Email,Numbulwar,0,0.00057,0,0,0,formal_residual
+MSG-037760,redteam,Email,Ramingining,0,0.001271,0,0,0,formal_residual
+MSG-037038,redteam,Email,Tennant Creek,0,0.000347,0,0,0,sms_short
+MSG-037045,redteam,Email,Santa Teresa,0,0.000376,0,0,0,sms_short
+MSG-037052,redteam,Facebook,Nhulunbuy,0,0.000294,0,0,0,sms_short
+MSG-037054,redteam,SMS,,1,0.904805,1,0,1,sms_short
+MSG-037055,redteam,SMS,Nauiyu,0,0.0057,0,0,0,sms_short
+MSG-037056,redteam,Email,Ngukurr,0,0.000513,0,0,0,sms_short
+MSG-037059,redteam,Email,Howard Springs,0,0.00054,0,0,0,sms_short
+MSG-037071,redteam,Facebook,Maningrida,0,0.000807,0,0,0,sms_short
+MSG-037087,redteam,SMS,Howard Springs,1,0.564794,1,0,1,sms_short
+MSG-037121,redteam,Facebook,Humpty Doo,0,0.012353,0,0,0,formal_residual
+MSG-037128,redteam,Email,Yuendumu,0,0.01337,0,0,0,formal_residual
+MSG-037136,redteam,Email,Humpty Doo,0,0.001073,0,0,0,sms_short
+MSG-037142,redteam,Email,Elliott,0,0.005315,0,0,0,sms_short
+MSG-037183,redteam,Web form,Batchelor,0,0.000593,0,0,0,sms_short
+MSG-037189,redteam,Email,Palmerston,0,0.000375,0,0,0,sms_short
+MSG-037206,redteam,SMS,Nhulunbuy,0,0.007397,0,0,0,sms_short
+MSG-037208,redteam,Email,Ramingining,0,0.000608,0,0,0,formal_residual
+MSG-037228,redteam,Web form,Galiwin'ku,0,0.001033,0,0,0,formal_residual
+MSG-037256,redteam,SMS,Alice Springs,0,0.007105,0,0,0,sms_short
+MSG-037260,redteam,Email,Ramingining,0,0.003747,0,0,0,formal_residual
+MSG-037270,redteam,Email,Batchelor,0,0.000231,0,0,0,sms_short
+MSG-037277,redteam,Web form,Alice Springs,0,0.000327,0,0,0,formal_residual
+MSG-037340,redteam,Email,Nhulunbuy,0,0.000114,0,0,0,formal_residual
+MSG-037350,redteam,Email,Lajamanu,0,0.000465,0,0,0,sms_short
+MSG-037353,redteam,SMS,Batchelor,0,0.023782,0,0,0,sms_short
+MSG-038420,redteam,Phone,Katherine,0,0.001419,0,0,0,formal_residual
+MSG-037373,redteam,Web form,Santa Teresa,0,0.000701,0,0,0,sms_short
+MSG-037379,redteam,SMS,Batchelor,0,0.013293,0,0,0,sms_short
+MSG-037392,redteam,Email,,0,6.2e-05,0,0,0,sms_short
+MSG-037393,redteam,SMS,Tennant Creek,0,0.006228,0,0,0,sms_short
+MSG-037394,redteam,Email,Tennant Creek,0,0.000425,0,0,0,sms_short
+MSG-037398,redteam,Email,Maningrida,0,0.000212,0,0,0,sms_short
+MSG-037460,redteam,Email,Lajamanu,0,0.001906,0,0,0,formal_residual
+MSG-037476,redteam,Web form,Ramingining,0,0.000542,0,0,0,sms_short
+MSG-037511,redteam,Email,Yuendumu,0,0.00034,0,0,0,sms_short
+MSG-037524,redteam,SMS,Galiwin'ku,0,0.029838,0,0,0,sms_short
+MSG-037609,redteam,Email,,0,0.000959,0,0,0,formal_residual
+MSG-038407,redteam,SMS,Borroloola,0,0.025475,0,0,0,sms_short
+MSG-037632,redteam,Email,Humpty Doo,0,0.000909,0,0,0,sms_short
+MSG-037649,redteam,Email,Ntaria,0,0.000407,0,0,0,formal_residual
+MSG-037665,redteam,SMS,Galiwin'ku,0,0.011712,0,0,0,sms_short
+MSG-037669,redteam,Web form,Pine Creek,0,0.000632,0,0,0,formal_residual
+MSG-037687,redteam,SMS,Batchelor,0,0.022769,0,0,0,sms_short
+MSG-037699,redteam,Web form,Howard Springs,0,0.001057,0,0,0,sms_short
+MSG-037701,redteam,Email,Batchelor,0,2.2e-05,0,0,0,sms_short
+MSG-037704,redteam,Email,Humpty Doo,0,0.00128,0,0,0,sms_short
+MSG-037714,redteam,SMS,Lajamanu,0,0.004639,0,0,0,sms_short
+MSG-037717,redteam,Email,Ngukurr,0,0.000626,0,0,0,formal_residual
+MSG-037725,redteam,Email,Gunbalanya,0,0.001047,0,0,0,formal_residual
+MSG-037740,redteam,SMS,Katherine,0,0.006928,0,0,0,sms_short
+MSG-038625,redteam,Facebook,Lajamanu,0,0.00159,0,0,0,formal_residual
+MSG-038841,redteam,Web form,,0,0.001481,0,0,0,formal_residual
+MSG-037744,redteam,Web form,Ngukurr,0,0.001877,0,0,0,formal_residual
+MSG-037757,redteam,Email,Wadeye,0,0.00057,0,0,0,formal_residual
+MSG-037762,redteam,Email,Santa Teresa,0,0.000522,0,0,0,sms_short
+MSG-037768,redteam,Email,Ntaria,0,0.000411,0,0,0,sms_short
+MSG-037775,redteam,Web form,Ngukurr,1,0.999539,1,0,1,formal_residual
+MSG-037835,redteam,Email,Tennant Creek,0,0.000432,0,0,0,sms_short
+MSG-037866,redteam,SMS,Pine Creek,0,0.008351,0,0,0,sms_short
+MSG-037873,redteam,Email,Tennant Creek,0,0.000487,0,0,0,sms_short
+MSG-037887,redteam,Email,Galiwin'ku,0,0.000548,0,0,0,sms_short
+MSG-037898,redteam,Phone,Ngukurr,0,0.001204,0,0,0,formal_residual
+MSG-037919,redteam,Phone,Nauiyu,0,0.004995,0,0,0,formal_residual
+MSG-038755,redteam,Web form,Santa Teresa,0,0.001564,0,0,0,formal_residual
+MSG-037972,redteam,SMS,Yuendumu,0,0.016395,0,0,0,sms_short
+MSG-037976,redteam,Email,Tennant Creek,0,0.00182,0,0,0,sms_short
+MSG-037982,redteam,Email,Elliott,0,0.001559,0,0,0,formal_residual
+MSG-038803,redteam,Email,Lajamanu,0,0.003505,0,0,0,formal_residual
+MSG-038013,redteam,Email,Gunbalanya,0,0.000919,0,0,0,formal_residual
+MSG-038015,redteam,SMS,Ngukurr,0,0.068908,0,0,0,sms_short
+MSG-038019,redteam,Email,Yuendumu,0,0.001397,0,0,0,sms_short
+MSG-038021,redteam,SMS,Galiwin'ku,0,0.002526,0,0,0,sms_short
+MSG-038024,redteam,Email,Borroloola,0,0.000922,0,0,0,formal_residual
+MSG-038030,redteam,SMS,Palmerston,0,0.007982,0,0,0,sms_short
+MSG-038055,redteam,Email,,0,2.5e-05,0,0,0,sms_short
+MSG-038106,redteam,SMS,Nhulunbuy,0,0.007479,0,0,0,sms_short
+MSG-038115,redteam,Email,Howard Springs,0,0.001289,0,0,0,sms_short
+MSG-038133,redteam,SMS,Ntaria,0,0.005463,0,0,0,sms_short
+MSG-038153,redteam,Web form,Howard Springs,0,0.000104,0,0,0,sms_short
+MSG-038166,redteam,Web form,Ngukurr,0,0.000856,0,0,0,sms_short
+MSG-038203,redteam,Email,Ramingining,0,0.000886,0,0,0,formal_residual
+MSG-038983,redteam,Email,Howard Springs,0,0.000215,0,0,0,formal_residual
+MSG-038409,redteam,Email,Nhulunbuy,1,0.998914,1,0,1,formal_residual
+MSG-038216,redteam,Phone,Nauiyu,0,0.001972,0,0,0,formal_residual
+MSG-038228,redteam,SMS,Yuendumu,0,0.006921,0,0,0,sms_short
+MSG-038284,redteam,Email,Alice Springs,0,0.000608,0,0,0,formal_residual
+MSG-038294,redteam,Web form,Numbulwar,0,0.000571,0,0,0,sms_short
+MSG-038312,redteam,Email,,0,0.00032,0,0,0,sms_short
+MSG-038356,redteam,SMS,Tennant Creek,1,0.99472,1,0,1,sms_short
+MSG-038363,redteam,Web form,Adelaide River,0,0.00026,0,0,0,formal_residual
+MSG-038732,redteam,Web form,Numbulwar,0,0.000274,0,0,0,formal_residual
+MSG-038365,redteam,SMS,Humpty Doo,1,0.966411,1,1,1,sms_short
+MSG-038439,redteam,Phone,Wadeye,0,0.000437,0,0,0,formal_residual
+MSG-038486,redteam,SMS,Maningrida,0,0.006409,0,0,0,sms_short
+MSG-038507,redteam,Email,Gunbalanya,0,0.001348,0,0,0,sms_short
+MSG-038508,redteam,Email,Yirrkala,0,7.4e-05,0,0,0,sms_short
+MSG-038526,redteam,Email,Numbulwar,0,0.000176,0,0,0,sms_short
+MSG-038551,redteam,Email,Ntaria,0,2.5e-05,0,0,0,sms_short
+MSG-038554,redteam,Email,Humpty Doo,0,0.000891,0,0,0,sms_short
+MSG-038567,redteam,Email,Lajamanu,0,0.000538,0,0,0,formal_residual
+MSG-038574,redteam,Email,Batchelor,0,2e-05,0,0,0,sms_short
+MSG-038582,redteam,Email,Howard Springs,0,0.000468,0,0,0,formal_residual
+MSG-038586,redteam,Email,Santa Teresa,0,0.000949,0,0,0,sms_short
+MSG-038613,redteam,Email,Humpty Doo,0,0.001225,0,0,0,sms_short
+MSG-038652,redteam,Email,Lajamanu,0,0.000335,0,0,0,sms_short
+MSG-038686,redteam,Email,Borroloola,0,0.000653,0,0,0,sms_short
+MSG-038717,redteam,Email,Palmerston,0,0.000417,0,0,0,sms_short
+MSG-038759,redteam,SMS,Batchelor,0,0.070858,0,0,0,sms_short
+MSG-038763,redteam,SMS,Batchelor,0,0.095466,0,0,0,sms_short
+MSG-038773,redteam,Email,,0,0.003004,0,0,0,formal_residual
+MSG-039162,redteam,Phone,Numbulwar,0,0.003229,0,0,0,formal_residual
+MSG-038789,redteam,Email,Santa Teresa,0,0.000445,0,0,0,sms_short
+MSG-038793,redteam,Email,Elliott,0,6.4e-05,0,0,0,sms_short
+MSG-038813,redteam,SMS,Papunya,0,0.0472,0,0,0,sms_short
+MSG-038820,redteam,Email,Papunya,0,6.2e-05,0,0,0,sms_short
+MSG-038840,redteam,Email,Papunya,0,0.001218,0,0,0,sms_short
+MSG-038842,redteam,SMS,,0,0.001159,0,0,0,sms_short
+MSG-038866,redteam,Facebook,Alice Springs,0,0.000881,0,0,0,formal_residual
+MSG-038875,redteam,Email,,0,0.00041,0,0,0,sms_short
+MSG-038884,redteam,Email,Humpty Doo,0,0.001371,0,0,0,sms_short
+MSG-038934,redteam,Email,Howard Springs,0,0.000459,0,0,0,sms_short
+MSG-038945,redteam,Email,Elliott,0,0.001564,0,0,0,sms_short
+MSG-038948,redteam,Facebook,Darwin,0,0.002368,0,0,0,sms_short
+MSG-038978,redteam,SMS,Darwin,0,0.000349,0,0,0,sms_short
+MSG-039005,redteam,Email,Yirrkala,0,0.000418,0,0,0,sms_short
+MSG-039020,redteam,Email,Yuendumu,0,0.000108,0,0,0,sms_short
+MSG-039022,redteam,SMS,Santa Teresa,0,0.005859,0,0,0,sms_short
+MSG-039037,redteam,Web form,Yirrkala,0,0.001096,0,0,0,formal_residual
+MSG-039054,redteam,Web form,Santa Teresa,0,0.000728,0,0,0,formal_residual
+MSG-039067,redteam,Web form,Santa Teresa,0,0.001714,0,0,0,formal_residual
+MSG-039075,redteam,Email,Alice Springs,0,0.001712,0,0,0,formal_residual
+MSG-039083,redteam,Email,Galiwin'ku,0,0.000383,0,0,0,sms_short
+MSG-039089,redteam,Web form,Yuendumu,0,0.004661,0,0,0,formal_residual
+MSG-039115,redteam,Web form,Tennant Creek,0,0.000678,0,0,0,formal_residual
+MSG-039805,redteam,Email,Lajamanu,0,0.000915,0,0,0,formal_residual
+MSG-039171,redteam,Email,Santa Teresa,0,0.001444,0,0,0,sms_short
+MSG-039188,redteam,Web form,Tennant Creek,0,0.000813,0,0,0,formal_residual
+MSG-039190,redteam,Email,Elliott,0,0.000548,0,0,0,formal_residual
+MSG-039196,redteam,Web form,Wadeye,0,0.000323,0,0,0,formal_residual
+MSG-039398,redteam,Phone,Papunya,0,0.001436,0,0,0,formal_residual
+MSG-039209,redteam,Email,Batchelor,0,0.000102,0,0,0,formal_residual
+MSG-039250,redteam,Web form,Papunya,1,0.999973,1,0,1,distressed_caps
+MSG-039255,redteam,Web form,Borroloola,0,0.000127,0,0,0,formal_residual
+MSG-039264,redteam,Email,Borroloola,0,0.000832,0,0,0,formal_residual
+MSG-039277,redteam,Facebook,Borroloola,0,0.001014,0,0,0,formal_residual
+MSG-039346,redteam,Web form,Ntaria,0,0.000778,0,0,0,formal_residual
+MSG-039352,redteam,Email,Lajamanu,0,0.001808,0,0,0,formal_residual
+MSG-039359,redteam,Email,Nauiyu,0,0.000718,0,0,0,formal_residual
+MSG-039365,redteam,Email,Yirrkala,0,0.000919,0,0,0,formal_residual
+MSG-039415,redteam,Email,Humpty Doo,0,0.000141,0,0,0,formal_residual
+MSG-039428,redteam,SMS,Palmerston,0,0.004963,0,0,0,sms_short
+MSG-039433,redteam,Email,Lajamanu,0,7.6e-05,0,0,0,sms_short
+MSG-039435,redteam,Email,Maningrida,0,0.000221,0,0,0,formal_residual
+MSG-039443,redteam,Web form,Batchelor,0,0.000591,0,0,0,formal_residual
+MSG-039473,redteam,Email,Palmerston,0,7.1e-05,0,0,0,sms_short
+MSG-039482,redteam,Web form,Ali Curung,0,3.8e-05,0,0,0,sms_short
+MSG-039486,redteam,Web form,Nhulunbuy,0,0.003338,0,0,0,sms_short
+MSG-039495,redteam,Email,Ramingining,0,0.000447,0,0,0,sms_short
+MSG-039508,redteam,SMS,,0,0.006669,0,0,0,sms_short
+MSG-039516,redteam,Facebook,Papunya,0,0.000719,0,0,0,sms_short
+MSG-039544,redteam,Email,Nauiyu,0,0.000383,0,0,0,sms_short
+MSG-039573,redteam,Email,Ntaria,0,0.00142,0,0,0,sms_short
+MSG-039577,redteam,Facebook,Elliott,0,0.000278,0,0,0,sms_short
+MSG-039613,redteam,Email,Ntaria,0,0.000165,0,0,0,sms_short
+MSG-039620,redteam,SMS,Lajamanu,0,0.001808,0,0,0,sms_short
+MSG-039641,redteam,Email,Yuendumu,0,0.001361,0,0,0,formal_residual
+MSG-039645,redteam,Email,Adelaide River,0,0.000413,0,0,0,sms_short
+MSG-039651,redteam,Email,Pine Creek,0,0.000468,0,0,0,sms_short
+MSG-039662,redteam,Email,Galiwin'ku,0,0.000449,0,0,0,sms_short
+MSG-039665,redteam,SMS,Papunya,0,0.007324,0,0,0,sms_short
+MSG-039726,redteam,Email,Pine Creek,0,0.000397,0,0,0,sms_short
+MSG-039793,redteam,SMS,Wadeye,0,0.019279,0,0,0,sms_short
+MSG-039808,redteam,Facebook,Santa Teresa,0,0.000527,0,0,0,sms_short
+MSG-039844,redteam,Web form,Galiwin'ku,0,0.0006,0,0,0,sms_short
+MSG-039857,redteam,Email,,0,0.002243,0,0,0,formal_residual
+MSG-039901,redteam,SMS,Wadeye,1,0.983727,1,1,1,sms_short
+MSG-039875,redteam,Facebook,Ali Curung,0,0.00112,0,0,0,formal_residual
+MSG-039879,redteam,SMS,Papunya,0,0.054731,0,0,0,sms_short
+MSG-039885,redteam,Email,Humpty Doo,0,0.000182,0,0,0,formal_residual
+MSG-039910,redteam,Email,Ntaria,0,0.000428,0,0,0,formal_residual
+MSG-039921,redteam,Email,Humpty Doo,0,2.3e-05,0,0,0,sms_short
+MSG-039972,redteam,SMS,Galiwin'ku,0,0.00644,0,0,0,sms_short
+MSG-039981,redteam,Web form,Elliott,0,0.001056,0,0,0,sms_short
+MSG-039985,redteam,SMS,Elliott,0,0.007469,0,0,0,sms_short
+MSG-039987,redteam,SMS,Ali Curung,0,0.040497,0,0,0,sms_short

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How this desk works — Correspondence triage</title>
+  <link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}?v=13">
+</head>
+<body class="how-body">
+  <header class="mast">
+    <div class="brand">
+      <svg class="mark" viewBox="0 0 32 32" aria-hidden="true">
+        <rect width="32" height="32" fill="#9a1b1b"/>
+        <rect y="22" width="32" height="10" fill="#c4a574"/>
+        <rect y="14" width="32" height="8" fill="#e8d7b8"/>
+      </svg>
+      <div>
+        <p class="wordmark">Northern Territory Government</p>
+        <p class="unit">Public contact unit</p>
+      </div>
+    </div>
+    <div class="mast-mid">
+      <h1>How this desk works</h1>
+      <p class="tag">{{ results.official }}</p>
+    </div>
+    <p class="counts"><a href="{{ url_for('inbox') }}">Back to the inbox</a></p>
+  </header>
+
+  <main class="how">
+    <section class="how-lead">
+      <p>The officer inbox is <strong>decision-support</strong>. The only joblib is the optimized DistilBERT.</p>
+      <ul>
+        <li><strong>Optimized DistilBERT @{{ results.distil_cut }}</strong> runs the desk (<code>distilbert_optimized.joblib</code>). Epoch 1. Val recall {{ results.val_distil_recall }}. {{ results.val_distil_miss }}.</li>
+        <li>Dummy recall {{ results.test_dummy }}. URGENT-keyword recall {{ results.test_keyword }}. Those fail on purpose.</li>
+      </ul>
+    </section>
+
+    <ul class="hard-rules" aria-label="Rules of this desk">
+      <li>The model suggests. You decide.</li>
+      <li>A missed urgent message costs more than an extra alarm.</li>
+      <li>One cutoff for everyone: 25%.</li>
+      <li>Never delete unflagged mail.</li>
+    </ul>
+
+    <figure class="flow">
+      <figcaption>1. Decision — how work reaches a human</figcaption>
+      <img src="{{ url_for('charts', name='05_decision_flow.png') }}?v=5" alt="Decision flowchart: inbound to optimized DistilBERT, then the officer. Escalate does not send a reply.">
+      <p class="hint">At 25% or more the message needs a person. Under 25% it stays in the inbox. Either way, the officer decides.</p>
+    </figure>
+
+    <figure class="flow">
+      <figcaption>2. Technical — how we build the score</figcaption>
+      <img src="{{ url_for('charts', name='06_technical_flow.png') }}?v=5" alt="Technical flowchart from raw CRM to optimized DistilBERT, the desk model, then Flask.">
+      <p class="hint">Dummy and the word URGENT fail. The earlier logistic is not the desk. DistilBERT is the only path into the inbox.</p>
+    </figure>
+
+    <section class="how-table">
+      <h2>Locked results</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Model</th>
+            <th>Where</th>
+            <th>Recall</th>
+            <th>What it means</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Dummy</td>
+            <td>Test</td>
+            <td>{{ results.test_dummy }}</td>
+            <td>Never flags. Misses every P1.</td>
+          </tr>
+          <tr>
+            <td>URGENT keyword</td>
+            <td>Test</td>
+            <td>{{ results.test_keyword }}</td>
+            <td>The word is a trap, not the signal.</td>
+          </tr>
+          <tr>
+            <td>Logistic @{{ results.logistic_cut }}</td>
+            <td>Val</td>
+            <td>{{ results.val_logistic_recall }}</td>
+            <td>{{ results.val_logistic_miss }}</td>
+          </tr>
+          <tr class="is-desk">
+            <td>Optimized DistilBERT @{{ results.distil_cut }}</td>
+            <td>Val — the only joblib</td>
+            <td>{{ results.val_distil_recall }}</td>
+            <td>{{ results.val_distil_miss }}</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="hint">Open the inbox walkthrough: SMS (flagged), URGENT trap (not flagged), then see attached (DistilBERT flags it). A person still decides.</p>
+    </section>
+  </main>
+</body>
+</html>
